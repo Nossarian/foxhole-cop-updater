@@ -1,6 +1,5 @@
 class MapIconToMilX {
-    public getMilXFromAPI(mapItem){
-        def nearestText = "test"
+    static getMilXFromAPI(mapItem, nearestText){
         if(mapItem.iconType == 11){ //Hospital
             if(mapItem.teamId == "WARDENS"){
                 return "&lt;Symbol ID=\"SFGPIX---H----\"/&gt;"

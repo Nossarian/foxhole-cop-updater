@@ -1,13 +1,9 @@
 import groovy.xml.MarkupBuilder
 import groovy.xml.XmlParser
+import MapIconToMilX
 
 import javax.xml.namespace.QName
 import java.lang.reflect.Array
-import java.net.http.HttpClient
-import java.net.http.HttpHeaders
-import java.net.http.HttpRequest
-import java.time.Duration
-import java.util.logging.XMLFormatter
 
 class MapRegions {
     def siegeCampGet = new URL('https://war-service-live.foxholeservices.com/api')
@@ -244,26 +240,26 @@ class MapRegions {
                 [o.y - 1.5 * k, o.x - 2.25 * w]
             }
     ]
-    public convertCoords(regionID, x, y){
+    convertCoords(regionID, x, y){
         def region =  regions.find(regionID)
         def xcoord = region.center[1] - (w/2) + (w*x)
         def ycoord = region.center[0] + (k/w) - (k*y)
         return [xcoord, ycoord]
     }
 
-    public meteresToLatLong (mx, my){
+    meteresToLatLong (mx, my){
         def lat = my/111320
         def lon = mx/(40075*Math.cos(lat)/360)
         return [x:lon, y:lat]
     }
 
-    public fullConvert (regionID, x, y){
+    fullConvert (regionID, x, y){
         def worldCoords = convertCoords(regionID, x, y)
         return meteresToLatLong(worldCoords[0], worldCoords[1])
     }
 
 
-    public findClosest (staticMapItems, mapItem) {
+    static findClosest (staticMapItems, mapItem) {
         ArrayList<Map> closestNames
 
         staticMapItems.each{mapTextItem ->
@@ -274,25 +270,20 @@ class MapRegions {
                 closestNames.add([text: mapTextItem.text, distance: distance])
             }
         }
-        def closestName = closestNames[0]
+        def closestName = closestNames[0].text
         closestNames.each{ it ->
             if (it.distance <= closestName.distance){
-                closestName = it
+                closestName = it.text
             }
         }
         return closestName
     }
 
-    public generateMapItems(){
-        /*TODO Get list of all map items that I care about*/
-
-        //
-    }
-
-    def generateMilX(regionId, mapItems) {
-        def parser = newXmlParser()
-        def mB = new MarkupBuilder()
-        mB.MilXLayerDocument_Layer(xmlns: "http://gs-soft.com/MilX/V3.1", xsi: "http://www.w3.org/2001/XMLSchema-instance") {
+    def generateMilX(regionId, mapItems, staticMapItems) {
+        def parser = new XmlParser()
+        def writer  = new StringWriter()
+        def xml = new MarkupBuilder(writer)
+        xml.MilXLayerDocument_Layer() {
             MssLibraryVersionTag('2021.04.20')
             MilXLayer() {
                 Name('Permanent Structures')
@@ -300,21 +291,20 @@ class MapRegions {
                 GraphicList() {
 
                 }
+                CoordSystemType('WGS84')
+                ViewScale('0.1')
             }
         }
         mapItems.each { mapItem ->
-            def current = parser.parseText(mB)
-            def teamId = mapItem.teamId
-            def itemType = mapItem.iconType
+            def MssStringXML = MapIconToMilX.getMilXFromAPI(mapItem, findClosest(staticMapItems, mapItem))
+            def current = parser.parseText(xml.MilXLayerDocument_Layer.MilXLayer.GraphicList)
             def x = mapItem.x
             def y = mapItem.y
             def latLong = fullConvert(regionId, x, y)
 
-            def MssStringXML = processItem(regionId, mapItem)
-
             parser.createNode(
-                    current.MilXLayer.GraphicList,
-                    new QName("MilXGraphic"),
+                    current,
+                    "MilXGraphic",
                     [
                             MssStringXML:MssStringXML,
                             PointList:[
@@ -329,6 +319,9 @@ class MapRegions {
 
     }
     main() {
+        def mapTextItems = "insert text items from api here"
+        def mapItems = "the map items"
+        MapIconToMilX.getMilXFromAPI()
         def layerFile = new FileInputStream("test")
         generateMilX(layerFile)
 
