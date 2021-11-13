@@ -1,19 +1,21 @@
 import groovy.json.JsonSlurper
-import groovy.xml.MarkupBuilder
-import groovy.xml.XmlParser
 import java.lang.reflect.Array
 
 class MapRegions {
     def siegeCampGet = 'https://war-service-live.foxholeservices.com/api'
 
-    static mapBounds = [[-6000, -6750], [6000, 6750]]
-    static mapHeight = mapBounds[1][0] - mapBounds[0][0]
-    static mapWidth = mapBounds[1][1] - mapBounds[0][1]
-    static mapOrigin = [x: 0 , y: 0]
+    static mapBounds = [[-5625, -6650], [5625, 6650]]
+//    static mapHeight = mapBounds[1][0] - mapBounds[0][0]
+    static mapHeight = 13300.0
+    static mapWidth = 12067.0
+//    static mapWidth = mapBounds[1][1] - mapBounds[0][1]
+    static mapOrigin = [x: mapWidth/2.0 , y: (-mapHeight/2.0) + 950.0]
 
     static o = mapOrigin // Shortened
-    static w = (mapWidth / 6.06) //Standard Region Width
-    static k = (w * Math.sqrt(3) / 2) //Standard Region Height
+//    static w = (mapWidth / 6.06) //Standard Region Width
+//    static k = w*Math.sqrt(3)/2 //Standard Region Height
+    static k = 1900.0
+    static w = 2194.0
     static regions = [
             [
                 id: 3,
@@ -249,7 +251,7 @@ class MapRegions {
 
     static meteresToLatLong (mx, my){
         def lat = my/111111.0
-        def lon = mx/(40075000.0/360)*Math.cos(lat*Math.PI/180)
+        def lon = mx/(40075017.0/360)*Math.cos(lat*Math.PI/180)
         return [lon:lon, lat:lat]
     }
 

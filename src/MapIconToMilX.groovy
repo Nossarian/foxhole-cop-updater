@@ -108,7 +108,7 @@ class MapIconToMilX {
                 return "<Symbol ID=\"SHGPIG----H----\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
             }
             if(mapItem.teamId == "NONE"){
-                return
+                return "<Symbol ID=\"SNGPIG----H----\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
             }
         }
         if(mapItem.iconType == 57){ //Town Hall 2
@@ -119,7 +119,7 @@ class MapIconToMilX {
                 return "<Symbol ID=\"SHGPIG----H----\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
             }
             if(mapItem.teamId == "NONE"){
-                return
+                return "<Symbol ID=\"SNGPIG----H----\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
             }
         }
         if(mapItem.iconType == 58){ //Town Hall 3
@@ -130,7 +130,7 @@ class MapIconToMilX {
                 return "<Symbol ID=\"SHGPIG----H----\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
             }
             if(mapItem.teamId == "NONE"){
-                return
+                return "<Symbol ID=\"SNGPIG----H----\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
             }
         }
         if(mapItem.iconType == 45){ //Relic Base 1
@@ -141,7 +141,7 @@ class MapIconToMilX {
                 return "<Symbol ID=\"SHGPIM----H----\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
             }
             if(mapItem.teamId == "NONE"){
-                return
+                return "<Symbol ID=\"SNGPIM----H----\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
             }
         }
         if(mapItem.iconType == 46){ //Relic Base 2
@@ -152,7 +152,7 @@ class MapIconToMilX {
                 return "<Symbol ID=\"SHGPIM----H----\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
             }
             if(mapItem.teamId == "NONE"){
-                return
+                return "<Symbol ID=\"SNGPIM----H----\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
             }
         }
         if(mapItem.iconType == 47){ //Relic Base 2
@@ -163,7 +163,7 @@ class MapIconToMilX {
                 return "<Symbol ID=\"SHGPIM----H----\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
             }
             if(mapItem.teamId == "NONE"){
-                return
+                return "<Symbol ID=\"SNGPIM----H----\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
             }
         }
         if(mapItem.iconType == 51){ //Mass Production Factory
@@ -197,6 +197,17 @@ class MapIconToMilX {
             }
             if(mapItem.teamId == "NONE"){
                 return "<Symbol ID=\"SNA-WMB--------\"/>"
+            }
+        }
+        if(mapItem.iconType == 39){ //Construction Yard
+            if(mapItem.teamId == "WARDENS"){
+                return "<Symbol ID=\"SFGPIME---H----\"/>"
+            }
+            if(mapItem.teamId == "COLONIALS"){
+                return "<Symbol ID=\"SHGPIME---H----\"/>"
+            }
+            if(mapItem.teamId == "NONE"){
+                return "<Symbol ID=\"SNGPIME---H----\"/>"
             }
         }
 

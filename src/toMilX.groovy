@@ -8,11 +8,19 @@ import groovy.xml.slurpersupport.Node
 
 import javax.xml.namespace.QName
 import java.text.DecimalFormat
+import java.text.SimpleDateFormat
 
 class toMilX {
 
     static void main(String... args){
+        println("Hex Width: " + MapRegions.w)
+        println("Map Width: " + MapRegions.w*6.06)
+        println("Hex Height: " + MapRegions.k)
+        println("Map Height: " + MapRegions.k*7)
         generateMilX()
+        def date = new Date()
+        def sdf = new SimpleDateFormat("MM/dd/yyyy hh:mm:ss:ms")
+        println(sdf.format(date))
     }
 
     static siegeCampGet = 'https://war-service-live.foxholeservices.com/api'
@@ -22,7 +30,7 @@ class toMilX {
         def writer  = new StringWriter()
         def xml = new MarkupBuilder(writer)
         xml.mkp.xmlDeclaration([version:'1.0', encoding:'UTF-8', standalone:'no'])
-        xml.MilXLayerDocument_Layer(
+        xml.MilXDocument_Layer(
                 xmlns: "http://gs-soft.com/MilX/V3.1"
         ) {
             MssLibraryVersionTag('2021.04.20')
@@ -49,7 +57,7 @@ class toMilX {
                     def y = mapItem.y
                     def latLong = MapRegions.fullConvert(regionId, x, y)
 
-                    DecimalFormat formatter = new DecimalFormat("#.####################")
+                    DecimalFormat formatter = new DecimalFormat("#.########")
                     latLong.lon = formatter.format(latLong.lon)
                     latLong.lat = formatter.format(latLong.lat)
 
@@ -87,7 +95,7 @@ class toMilX {
 
         }
 
-        File file = new File("Permanent Structure Auto.milxly")
+        File file = new File("Layer.milxly")
         file.text = XmlUtil.serialize(MilXLayerDocument)
     }
 
