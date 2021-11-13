@@ -2,110 +2,110 @@ class MapIconToMilX {
     static getMilXFromAPI(mapItem, nearestText){
         if(mapItem.iconType == 11){ //Hospital
             if(mapItem.teamId == "WARDENS"){
-                return "&lt;Symbol ID=\"SFGPIX---H----\"/&gt;"
+                return "<Symbol ID=\"SFGPIX---H----\"/>"
             }
             if(mapItem.teamId == "COLONIALS"){
-                return "&lt;Symbol ID=\"SHGPIX---H----\"/&gt;"
+                return "<Symbol ID=\"SHGPIX---H----\"/>"
             }
             if(mapItem.teamId == "NONE"){
-                return "&lt;Symbol ID=\"SNGPIX---H----\"/&gt;"
+                return "<Symbol ID=\"SNGPIX---H----\"/>"
             }
 
         }
         if(mapItem.iconType == 12){ //Vehicle Factory/Garage
             if(mapItem.teamId == "WARDENS"){
-                return "&lt;Symbol ID=\"SFGPIMV---H----\"&gt;&lt;Attribute ID=\"XD\"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;"
+                return "<Symbol ID=\"SFGPIMV---H----\"><Attribute ID=\"XD\">F</Attribute></Symbol>"
             }
             if(mapItem.teamId == "COLONIALS"){
-                return "&lt;Symbol ID=\"SHGPIMV---H----\"&gt;&lt;Attribute ID=\"XD\"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;"
+                return "<Symbol ID=\"SHGPIMV---H----\"><Attribute ID=\"XD\">F</Attribute></Symbol>"
             }
             if(mapItem.teamId == "NONE"){
-                return "&lt;Symbol ID=\"SNGPIMV---H----\"&gt;&lt;Attribute ID=\"XD\"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;"
+                return "<Symbol ID=\"SNGPIMV---H----\"><Attribute ID=\"XD\">F</Attribute></Symbol>"
             }
         }
         if(mapItem.iconType == 33){ //Supply Depot
             if(mapItem.teamId == "WARDENS"){
-                return "&lt;Symbol ID=\"GFSPPSZ-------G\"/&gt"
+                return "<Symbol ID=\"GFSPPSZ-------G\"/>"
             }
             if(mapItem.teamId == "COLONIALS"){
-                return "&lt;Symbol ID=\"GHSPPSZ-------G\"/&gt"
+                return "<Symbol ID=\"GHSPPSZ-------G\"/>"
             }
             if(mapItem.teamId == "NONE"){
-                return "&lt;Symbol ID=\"GNSPPSZ-------G\"/&gt"
+                return "<Symbol ID=\"GNSPPSZ-------G\"/>"
             }
         }
         if(mapItem.iconType == 18){ //Shipyard
             if(mapItem.teamId == "WARDENS"){
-                return "&lt;Symbol ID=\"SFGPIMS---H----\"&gt;&lt;Attribute ID=\"XD\"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;"
+                return "<Symbol ID=\"SFGPIMS---H----\"><Attribute ID=\"XD\">F</Attribute></Symbol>"
             }
             if(mapItem.teamId == "COLONIALS"){
-                return "&lt;Symbol ID=\"SHGPIMS---H----\"&gt;&lt;Attribute ID=\"XD\"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;"
+                return "<Symbol ID=\"SHGPIMS---H----\"><Attribute ID=\"XD\">F</Attribute></Symbol>"
             }
             if(mapItem.teamId == "NONE"){
-                return "&lt;Symbol ID=\"SNGPIMS---H----\"&gt;&lt;Attribute ID=\"XD\"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;"
+                return "<Symbol ID=\"SNGPIMS---H----\"><Attribute ID=\"XD\">F</Attribute></Symbol>"
             }
         }
         if(mapItem.iconType == 17){ //Refinery
             if(mapItem.teamId == "WARDENS"){
-                return "&lt;Symbol ID=\"SFGPIP----H----\"/&gt;"
+                return "<Symbol ID=\"SFGPIP----H----\"/>"
             }
             if(mapItem.teamId == "COLONIALS"){
-                return "&lt;Symbol ID=\"SHGPIP----H----\"/&gt;"
+                return "<Symbol ID=\"SHGPIP----H----\"/>"
             }
             if(mapItem.teamId == "NONE"){
-                return "&lt;Symbol ID=\"SNGPIP----H----\"/&gt;"
+                return "<Symbol ID=\"SNGPIP----H----\"/>"
             }
         }
         if(mapItem.iconType == 19){ //Engineering Center
             if(mapItem.teamId == "WARDENS"){
-                return "&lt;Symbol ID=\"SFGPIUR---H----\"/&gt;"
+                return "<Symbol ID=\"SFGPIUR---H----\"/>"
             }
             if(mapItem.teamId == "COLONIALS"){
-                return "&lt;Symbol ID=\"SHGPIUR---H----\"/&gt;"
+                return "<Symbol ID=\"SHGPIUR---H----\"/>"
             }
             if(mapItem.teamId == "NONE"){
-                return "&lt;Symbol ID=\"SNGPIUR---H----\"/&gt;"
+                return "<Symbol ID=\"SNGPIUR---H----\"/>"
             }
         }
         if(mapItem.iconType == 35){ //Safe House
             if(mapItem.teamId == "WARDENS"){
-                return "&lt;Symbol ID=\"OFI-S----------\"/&gt;"
+                return "<Symbol ID=\"OFI-S----------\"/>"
             }
             if(mapItem.teamId == "COLONIALS"){
-                return "&lt;Symbol ID=\"OHI-S----------\"/&gt;"
+                return "<Symbol ID=\"OHI-S----------\"/>"
             }
             if(mapItem.teamId == "NONE"){
-                return "&lt;Symbol ID=\"ONI-S----------\"/&gt;"
+                return "<Symbol ID=\"ONI-S----------\"/>"
             }
         }
         if(mapItem.iconType == 52){ //Seaport
             if(mapItem.teamId == "WARDENS"){
-                return "&lt;Symbol ID=\"GFSPPSZ-------G\"/&gt;"
+                return "<Symbol ID=\"GFSPPSZ-------G\"/>"
             }
             if(mapItem.teamId == "COLONIALS"){
-                return "&lt;Symbol ID=\"GHSPPSZ-------G\"/&gt;"
+                return "<Symbol ID=\"GHSPPSZ-------G\"/>"
             }
             if(mapItem.teamId == "NONE"){
-                return "&lt;Symbol ID=\"GNSPPSZ-------G\"/&gt;"
+                return "<Symbol ID=\"GNSPPSZ-------G\"/>"
             }
         }
         if(mapItem.iconType == 53){ //Coastal Gun /*TODO*/
             if(mapItem.teamId == "WARDENS"){
-                return "&lt;Symbol ID=\"SFGPEWA--------\"/&gt;"
+                return "<Symbol ID=\"SFGPEWA--------\"/>"
             }
             if(mapItem.teamId == "COLONIALS"){
-                return "&lt;Symbol ID=\"SHGPEWA--------\"/&gt;"
+                return "<Symbol ID=\"SHGPEWA--------\"/>"
             }
             if(mapItem.teamId == "NONE"){
-                return "&lt;Symbol ID=\"SNGPEWA--------\"/&gt;"
+                return "<Symbol ID=\"SNGPEWA--------\"/>"
             }
         }
         if(mapItem.iconType == 56){ //Town Hall 1
             if(mapItem.teamId == "WARDENS"){
-                return "&lt;Symbol ID=\"SFGPIG----H----\"&gt;&lt;Attribute ID=\"T\"&gt;$nearestText&lt;/Attribute&gt;&lt;/Symbol&gt;"
+                return "<Symbol ID=\"SFGPIG----H----\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
             }
             if(mapItem.teamId == "COLONIALS"){
-                return "&lt;Symbol ID=\"SHGPIG----H----\"&gt;&lt;Attribute ID=\"T\"&gt;$nearestText&lt;/Attribute&gt;&lt;/Symbol&gt;"
+                return "<Symbol ID=\"SHGPIG----H----\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
             }
             if(mapItem.teamId == "NONE"){
                 return
@@ -113,10 +113,10 @@ class MapIconToMilX {
         }
         if(mapItem.iconType == 57){ //Town Hall 2
             if(mapItem.teamId == "WARDENS"){
-                return "&lt;Symbol ID=\"SFGPIG----H----\"&gt;&lt;Attribute ID=\"T\"&gt;$nearestText&lt;/Attribute&gt;&lt;/Symbol&gt;"
+                return "<Symbol ID=\"SFGPIG----H----\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
             }
             if(mapItem.teamId == "COLONIALS"){
-                return "&lt;Symbol ID=\"SHGPIG----H----\"&gt;&lt;Attribute ID=\"T\"&gt;$nearestText&lt;/Attribute&gt;&lt;/Symbol&gt;"
+                return "<Symbol ID=\"SHGPIG----H----\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
             }
             if(mapItem.teamId == "NONE"){
                 return
@@ -124,10 +124,10 @@ class MapIconToMilX {
         }
         if(mapItem.iconType == 58){ //Town Hall 3
             if(mapItem.teamId == "WARDENS"){
-                return "&lt;Symbol ID=\"SFGPIG----H----\"&gt;&lt;Attribute ID=\"T\"&gt;$nearestText&lt;/Attribute&gt;&lt;/Symbol&gt;"
+                return "<Symbol ID=\"SFGPIG----H----\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
             }
             if(mapItem.teamId == "COLONIALS"){
-                return "&lt;Symbol ID=\"SHGPIG----H----\"&gt;&lt;Attribute ID=\"T\"&gt;$nearestText&lt;/Attribute&gt;&lt;/Symbol&gt;"
+                return "<Symbol ID=\"SHGPIG----H----\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
             }
             if(mapItem.teamId == "NONE"){
                 return
@@ -135,10 +135,10 @@ class MapIconToMilX {
         }
         if(mapItem.iconType == 45){ //Relic Base 1
             if(mapItem.teamId == "WARDENS"){
-                return "&lt;Symbol ID=\"SFGPIM----H----\"&gt;&lt;Attribute ID=\"T\"&gt;$nearestText&lt;/Attribute&gt;&lt;/Symbol&gt;"
+                return "<Symbol ID=\"SFGPIM----H----\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
             }
             if(mapItem.teamId == "COLONIALS"){
-                return "&lt;Symbol ID=\"SHGPIM----H----\"&gt;&lt;Attribute ID=\"T\"&gt;$nearestText&lt;/Attribute&gt;&lt;/Symbol&gt;"
+                return "<Symbol ID=\"SHGPIM----H----\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
             }
             if(mapItem.teamId == "NONE"){
                 return
@@ -146,10 +146,10 @@ class MapIconToMilX {
         }
         if(mapItem.iconType == 46){ //Relic Base 2
             if(mapItem.teamId == "WARDENS"){
-                return "&lt;Symbol ID=\"SFGPIM----H----\"&gt;&lt;Attribute ID=\"T\"&gt;$nearestText&lt;/Attribute&gt;&lt;/Symbol&gt;"
+                return "<Symbol ID=\"SFGPIM----H----\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
             }
             if(mapItem.teamId == "COLONIALS"){
-                return "&lt;Symbol ID=\"SHGPIM----H----\"&gt;&lt;Attribute ID=\"T\"&gt;$nearestText&lt;/Attribute&gt;&lt;/Symbol&gt;"
+                return "<Symbol ID=\"SHGPIM----H----\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
             }
             if(mapItem.teamId == "NONE"){
                 return
@@ -157,10 +157,10 @@ class MapIconToMilX {
         }
         if(mapItem.iconType == 47){ //Relic Base 2
             if(mapItem.teamId == "WARDENS"){
-                return "&lt;Symbol ID=\"SFGPIM----H----\"&gt;&lt;Attribute ID=\"T\"&gt;$nearestText&lt;/Attribute&gt;&lt;/Symbol&gt;"
+                return "<Symbol ID=\"SFGPIM----H----\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
             }
             if(mapItem.teamId == "COLONIALS"){
-                return "&lt;Symbol ID=\"SHGPIM----H----\"&gt;&lt;Attribute ID=\"T\"&gt;$nearestText&lt;/Attribute&gt;&lt;/Symbol&gt;"
+                return "<Symbol ID=\"SHGPIM----H----\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
             }
             if(mapItem.teamId == "NONE"){
                 return
@@ -168,35 +168,35 @@ class MapIconToMilX {
         }
         if(mapItem.iconType == 51){ //Mass Production Factory
             if(mapItem.teamId == "WARDENS"){
-                return "&lt;Symbol ID=\"SFGPIMN---H----\"&gt;&lt;Attribute ID=\"XD\"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;"
+                return "<Symbol ID=\"SFGPIMN---H----\"><Attribute ID=\"XD\">F</Attribute></Symbol>"
             }
             if(mapItem.teamId == "COLONIALS"){
-                return "&lt;Symbol ID=\"SHGPIMN---H----\"&gt;&lt;Attribute ID=\"XD\"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;"
+                return "<Symbol ID=\"SHGPIMN---H----\"><Attribute ID=\"XD\">F</Attribute></Symbol>"
             }
             if(mapItem.teamId == "NONE"){
-                return "&lt;Symbol ID=\"SNGPIMN---H----\"&gt;&lt;Attribute ID=\"XD\"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;"
+                return "<Symbol ID=\"SNGPIMN---H----\"><Attribute ID=\"XD\">F</Attribute></Symbol>"
             }
         }
         if(mapItem.iconType == 28){ //Observation Tower
             if(mapItem.teamId == "WARDENS"){
-                return "&lt;Symbol ID=\"GFGPDPOS-------\"/&gt;"
+                return "<Symbol ID=\"GFGPDPOS-------\"/>"
             }
             if(mapItem.teamId == "COLONIALS"){
-                return "&lt;Symbol ID=\"GHGPDPOS-------\"/&gt;"
+                return "<Symbol ID=\"GHGPDPOS-------\"/>"
             }
             if(mapItem.teamId == "NONE"){
-                return "&lt;Symbol ID=\"GNGPDPOS-------\"/&gt;"
+                return "<Symbol ID=\"GNGPDPOS-------\"/>"
             }
         }
         if(mapItem.iconType == 37){ //Rocket Silo
             if(mapItem.teamId == "WARDENS"){
-                return "&lt;Symbol ID=\"SFA-WMB--------\"/&gt;"
+                return "<Symbol ID=\"SFA-WMB--------\"/>"
             }
             if(mapItem.teamId == "COLONIALS"){
-                return "&lt;Symbol ID=\"SHA-WMB--------\"/&gt;"
+                return "<Symbol ID=\"SHA-WMB--------\"/>"
             }
             if(mapItem.teamId == "NONE"){
-                return "&lt;Symbol ID=\"SNA-WMB--------\"/&gt;"
+                return "<Symbol ID=\"SNA-WMB--------\"/>"
             }
         }
 

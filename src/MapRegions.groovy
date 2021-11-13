@@ -6,10 +6,10 @@ import java.lang.reflect.Array
 class MapRegions {
     def siegeCampGet = 'https://war-service-live.foxholeservices.com/api'
 
-    static mapBounds = [[0, 0], [12000, 13500]]
+    static mapBounds = [[-6000, -6750], [6000, 6750]]
     static mapHeight = mapBounds[1][0] - mapBounds[0][0]
     static mapWidth = mapBounds[1][1] - mapBounds[0][1]
-    static mapOrigin = [x: mapBounds[1][0] / 2, y: (-1) * mapBounds[1][1] / 2]
+    static mapOrigin = [x: 0 , y: 0]
 
     static o = mapOrigin // Shortened
     static w = (mapWidth / 6.06) //Standard Region Width
@@ -242,16 +242,15 @@ class MapRegions {
         def region =  this.regions.find{it ->
             it.id == regionID
         }
-        println(region.name)
         def xcoord = region.center[1] - (w/2) + (w*x)
         def ycoord = region.center[0] + (k/w) - (k*y)
         return [xcoord, ycoord]
     }
 
     static meteresToLatLong (mx, my){
-        def lat = my/111320
-        def lon = mx/(40075*Math.cos(lat)/360)
-        return [x:lon, y:lat]
+        def lat = my/111111.0
+        def lon = mx/(40075000.0/360)*Math.cos(lat*Math.PI/180)
+        return [lon:lon, lat:lat]
     }
 
     static fullConvert (regionID, x, y){
@@ -279,55 +278,55 @@ class MapRegions {
         return closestName.text
     }
 
-    private generateMilX() {
-        def mapList = getApiAsJson(siegeCampGet + "/worldconquest/maps")
-        def parser = new XmlParser()
-        def writer  = new StringWriter()
-        def xml = new MarkupBuilder(writer)
-        xml.MilXLayerDocument_Layer(
-                xmlns: "http://gs-soft.com/MilX/V3.1"
-        ) {
-            MssLibraryVersionTag('2021.04.20')
-            MilXLayer() {
-                Name('Permanent Structures')
-                LayerType('Normal')
-                GraphicList() {
-
-                }
-                CoordSystemType('WGS84')
-                ViewScale('0.1')
-            }
-        }
-
-        mapList.each{ hex ->
-            def staticMapItems = getApiAsJson(siegeCampGet + "/worldconquest/maps/$hex/static")
-            def mapItems = getApiAsJson(siegeCampGet + "/worldconquest/maps/$hex/dynamic/public")
-            def regionId = mapItems.regionId
-            mapItems.each { mapItem ->
-                def MssStringXML = MapIconToMilX.getMilXFromAPI(mapItem, findClosest(staticMapItems, mapItem))
-                def current = parser.parseText(writer.toString())
-                def x = mapItem.x
-                def y = mapItem.y
-                def latLong = fullConvert(regionId, x, y)
-
-                parser.createNode(
-                        current,
-                        "MilXGraphic",
-                        [
-                                MssStringXML:MssStringXML,
-                                PointList:[
-                                        X:latLong.lon,
-                                        Y:latLong.lat
-                                ]
-                        ]
-                )
-
-            }
-
-        }
-
-        return xml
-    }
+//    private generateMilX() {
+//        def mapList = getApiAsJson(siegeCampGet + "/worldconquest/maps")
+//        def parser = new XmlParser()
+//        def writer  = new StringWriter()
+//        def xml = new MarkupBuilder(writer)
+//        xml.MilXLayerDocument_Layer(
+//                xmlns: "http://gs-soft.com/MilX/V3.1"
+//        ) {
+//            MssLibraryVersionTag('2021.04.20')
+//            MilXLayer() {
+//                Name('Permanent Structures')
+//                LayerType('Normal')
+//                GraphicList() {
+//
+//                }
+//                CoordSystemType('WGS84')
+//                ViewScale('0.1')
+//            }
+//        }
+//
+//        mapList.each{ hex ->
+//            def staticMapItems = getApiAsJson(siegeCampGet + "/worldconquest/maps/$hex/static")
+//            def mapItems = getApiAsJson(siegeCampGet + "/worldconquest/maps/$hex/dynamic/public")
+//            def regionId = mapItems.regionId
+//            mapItems.each { mapItem ->
+//                def MssStringXML = MapIconToMilX.getMilXFromAPI(mapItem, findClosest(staticMapItems, mapItem))
+//                def current = parser.parseText(writer.toString())
+//                def x = mapItem.x
+//                def y = mapItem.y
+//                def latLong = fullConvert(regionId, x, y)
+//
+//                parser.createNode(
+//                        current,
+//                        "MilXGraphic",
+//                        [
+//                                MssStringXML:MssStringXML,
+//                                PointList:[
+//                                        X:latLong.lon,
+//                                        Y:latLong.lat
+//                                ]
+//                        ]
+//                )
+//
+//            }
+//
+//        }
+//
+//        return xml
+//    }
 
     def getApiAsJson(url){
         def get = new URL(url).openConnection()
