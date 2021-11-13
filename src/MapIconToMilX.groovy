@@ -190,10 +190,10 @@ class MapIconToMilX {
         }
         if(mapItem.iconType == 37){ //Rocket Silo
             if(mapItem.teamId == "WARDENS"){
-                return "<Symbol ID=\"SFA-WMB--------\"/>"
+                return "<Symbol ID=\"SNA-WMB--------\"/>"
             }
             if(mapItem.teamId == "COLONIALS"){
-                return "<Symbol ID=\"SHA-WMB--------\"/>"
+                return "<Symbol ID=\"SNA-WMB--------\"/>"
             }
             if(mapItem.teamId == "NONE"){
                 return "<Symbol ID=\"SNA-WMB--------\"/>"

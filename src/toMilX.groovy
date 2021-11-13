@@ -14,9 +14,10 @@ class toMilX {
 
     static void main(String... args){
         println("Hex Width: " + MapRegions.w)
-        println("Map Width: " + MapRegions.w*6.06)
+        println("Map Width: " + MapRegions.w/2*11)
         println("Hex Height: " + MapRegions.k)
         println("Map Height: " + MapRegions.k*7)
+        println("Map Origin: " + MapRegions.mapOrigin)
         generateMilX()
         def date = new Date()
         def sdf = new SimpleDateFormat("MM/dd/yyyy hh:mm:ss:ms")

@@ -4,18 +4,22 @@ import java.lang.reflect.Array
 class MapRegions {
     def siegeCampGet = 'https://war-service-live.foxholeservices.com/api'
 
-    static mapBounds = [[-5625, -6650], [5625, 6650]]
-//    static mapHeight = mapBounds[1][0] - mapBounds[0][0]
-    static mapHeight = 13300.0
-    static mapWidth = 12067.0
-//    static mapWidth = mapBounds[1][1] - mapBounds[0][1]
-    static mapOrigin = [x: mapWidth/2.0 , y: (-mapHeight/2.0) + 950.0]
+    static hexSideLength = 1097.0
+    static hexHeight = hexSideLength*Math.sqrt(3)
+    static hexWidth = hexSideLength*2
+    static mapHeight = hexHeight*7
+    static mapWidth = hexSideLength*11
+//    static mapHeight = 13300.0
+//    static mapWidth = 12067.0
+    static mapOrigin = [x: mapWidth/2.0 , y: (-1*mapHeight/2.0) + hexHeight/2.0]
 
     static o = mapOrigin // Shortened
+    static k = hexHeight
+    static w = hexWidth
 //    static w = (mapWidth / 6.06) //Standard Region Width
 //    static k = w*Math.sqrt(3)/2 //Standard Region Height
-    static k = 1900.0
-    static w = 2194.0
+//    static k = 1900.0
+//    static w = 2194.0
     static regions = [
             [
                 id: 3,
@@ -250,7 +254,7 @@ class MapRegions {
     }
 
     static meteresToLatLong (mx, my){
-        def lat = my/111111.0
+        def lat = my/111111.11111111
         def lon = mx/(40075017.0/360)*Math.cos(lat*Math.PI/180)
         return [lon:lon, lat:lat]
     }
@@ -278,79 +282,6 @@ class MapRegions {
             }
         }
         return closestName.text
-    }
-
-//    private generateMilX() {
-//        def mapList = getApiAsJson(siegeCampGet + "/worldconquest/maps")
-//        def parser = new XmlParser()
-//        def writer  = new StringWriter()
-//        def xml = new MarkupBuilder(writer)
-//        xml.MilXLayerDocument_Layer(
-//                xmlns: "http://gs-soft.com/MilX/V3.1"
-//        ) {
-//            MssLibraryVersionTag('2021.04.20')
-//            MilXLayer() {
-//                Name('Permanent Structures')
-//                LayerType('Normal')
-//                GraphicList() {
-//
-//                }
-//                CoordSystemType('WGS84')
-//                ViewScale('0.1')
-//            }
-//        }
-//
-//        mapList.each{ hex ->
-//            def staticMapItems = getApiAsJson(siegeCampGet + "/worldconquest/maps/$hex/static")
-//            def mapItems = getApiAsJson(siegeCampGet + "/worldconquest/maps/$hex/dynamic/public")
-//            def regionId = mapItems.regionId
-//            mapItems.each { mapItem ->
-//                def MssStringXML = MapIconToMilX.getMilXFromAPI(mapItem, findClosest(staticMapItems, mapItem))
-//                def current = parser.parseText(writer.toString())
-//                def x = mapItem.x
-//                def y = mapItem.y
-//                def latLong = fullConvert(regionId, x, y)
-//
-//                parser.createNode(
-//                        current,
-//                        "MilXGraphic",
-//                        [
-//                                MssStringXML:MssStringXML,
-//                                PointList:[
-//                                        X:latLong.lon,
-//                                        Y:latLong.lat
-//                                ]
-//                        ]
-//                )
-//
-//            }
-//
-//        }
-//
-//        return xml
-//    }
-
-    def getApiAsJson(url){
-        def get = new URL(url).openConnection()
-        def getRC = get.getResponseCode()
-        println(getRC)
-        def response = new JsonSlurper().parseText(get.getInputStream().getText())
-        return response
-    }
-    abstract class Region {
-        Integer regionId
-        String name
-        Array center
-    }
-
-    class MapTextItem{
-        def constructor(regionID, text, x, y){
-            regionID = regionID
-            text = text
-            x = x
-            y = y
-
-        }
     }
 
 }
