@@ -18,10 +18,12 @@ class toMilX {
         println("Hex Height: " + MapRegions.k)
         println("Map Height: " + MapRegions.k*7)
         println("Map Origin: " + MapRegions.mapOrigin)
-        generateMilX()
+        File output = new File("./Layer.milxly")
+        output.text = generateMilX()
         def date = new Date()
         def sdf = new SimpleDateFormat("MM/dd/yyyy hh:mm:ss:ms")
         println(sdf.format(date))
+        println(System.getProperty("java.class.path"))
     }
 
     static siegeCampGet = 'https://war-service-live.foxholeservices.com/api'
@@ -58,7 +60,7 @@ class toMilX {
                     def y = mapItem.y
                     def latLong = MapRegions.fullConvert(regionId, x, y)
 
-                    DecimalFormat formatter = new DecimalFormat("#.########")
+                    DecimalFormat formatter = new DecimalFormat("#.################")
                     latLong.lon = formatter.format(latLong.lon)
                     latLong.lat = formatter.format(latLong.lat)
 
@@ -96,8 +98,7 @@ class toMilX {
 
         }
 
-        File file = new File("Layer.milxly")
-        file.text = XmlUtil.serialize(MilXLayerDocument)
+        return XmlUtil.serialize(MilXLayerDocument)
     }
 
     static getApiAsJson(url){
