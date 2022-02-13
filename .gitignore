@@ -26,6 +26,7 @@
 /src/Layer.milxly
 /src/Little Lamb Takeover.milxlyz
 /src/fullRegularMapTrimmedColorAdjust.xcf
-/src/fullRegularMapTrimmedCompressed.png
+/assets/fullRegularMapTrimmedCompressed.png
 /src/Base Foxhole Layers.milxlyz
 /out/*
+/milxOut/*
