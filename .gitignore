@@ -4,11 +4,11 @@
 /Permanent Structures.milxly
 /Resources.milxly
 /SCRanges.milxly
-/src/fullSatMap.png
+/assets/fullSatMap.png
 /src/fullRegularMapTrimmedLowBrgtHiCon.png
-/src/fullRegularMapTrimmedContrasted.xcf
-/src/fullRegularMap2WithContentTrim.png
-/src/fullRegularMap.png
+/assets/fullRegularMapTrimmedContrasted.xcf
+/assets/fullRegularMap2WithContentTrim.png
+/assets/fullRegularMap.png
 /config (8).json
 /config (7).json
 /out/production/Foxhole COP Updater/Little Lamb Takeover.milxlyz
@@ -26,6 +26,6 @@
 /src/Layer.milxly
 /src/Little Lamb Takeover.milxlyz
 /src/fullRegularMapTrimmedColorAdjust.xcf
-/src/fullRegularMapTrimmedCompressed.png
+/assets/fullRegularMapTrimmedCompressed.png
 /src/Base Foxhole Layers.milxlyz
 /out/*
