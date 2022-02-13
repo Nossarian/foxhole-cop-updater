@@ -12,7 +12,7 @@ class MapRegions {
 //    static mapHeight = 13300.0
 //    static mapWidth = 12067.0
     static mapOrigin = [x: mapWidth/2.0 , y: (-1*mapHeight/2.0) + hexHeight/2.0]
-
+//    static mapOrigin = [x:0,y:hexHeight/2,]
     static o = mapOrigin // Shortened
     static k = hexHeight
     static w = hexWidth
@@ -256,6 +256,7 @@ class MapRegions {
     static meteresToLatLong (mx, my){
         def lat = my/111111.11111111
         def lon = mx/(40075017.0/360)*Math.cos(lat*Math.PI/180)
+//        def lon = mx/111111.111111*Math.cos(lat)
         return [lon:lon, lat:lat]
     }
 
@@ -263,7 +264,6 @@ class MapRegions {
         def worldCoords = convertCoords(regionID, x, y)
         return meteresToLatLong(worldCoords[0], worldCoords[1])
     }
-
 
     static findClosest (staticMapItems, mapItem) {
         ArrayList<Map> closestNames = [:]
