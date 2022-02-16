@@ -59,24 +59,6 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHSPPSZ-------G"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0920244074785879</X>
-            <Y>-0.085182968781555</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHSPPSZ-------G"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0987682785131613</X>
-            <Y>-0.0801136008109964</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="SHGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
@@ -125,24 +107,6 @@
         <MssStringXML>&lt;Symbol ID="OHI-S----------"/&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.0988725537295068</X>
-            <Y>-0.0805951998993546</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="OHI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0926485827702342</X>
-            <Y>-0.0836947332825429</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="OHI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
             <X>0.1040331052346632</X>
             <Y>-0.0862755232816401</Y>
           </Point>
@@ -158,6 +122,15 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Second Man&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.1028478755449597</X>
+            <Y>-0.0800968905920932</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="SHGPEWD--------"/&gt;</MssStringXML>
         <PointList>
           <Point>
@@ -167,20 +140,11 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIG----H----"&gt;&lt;Attribute ID="T"&gt;The Routed&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="SFGPIG----H----"&gt;&lt;Attribute ID="T"&gt;The Routed&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.0984565871795402</X>
             <Y>-0.0799629049814397</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Headsman's Villa&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0923871762536956</X>
-            <Y>-0.0844405385706378</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -194,24 +158,6 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Plankhouse&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0953682727110032</X>
-            <Y>-0.0874499339931017</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Fort Barley&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.101637171986077</X>
-            <Y>-0.0835142233602978</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="SHGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Titancall&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
@@ -221,20 +167,74 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Second Man&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="SFGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Fort Barley&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.1028478755449597</X>
-            <Y>-0.0800968905920932</Y>
+            <X>0.101637171986077</X>
+            <Y>-0.0835142233602978</Y>
           </Point>
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIM----H----"&gt;&lt;Attribute ID="T"&gt;The Tusk&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="SFGPIM----H----"&gt;&lt;Attribute ID="T"&gt;The Tusk&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.094422988648495</X>
             <Y>-0.0799177816001625</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GNSPPSZ-------G"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0920244074785879</X>
+            <Y>-0.085182968781555</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GNSPPSZ-------G"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0987682785131613</X>
+            <Y>-0.0801136008109964</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Plankhouse&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0953682727110032</X>
+            <Y>-0.0874499339931017</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Headsman's Villa&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0923871762536956</X>
+            <Y>-0.0844405385706378</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0926485827702342</X>
+            <Y>-0.0836947332825429</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0988725537295068</X>
+            <Y>-0.0805951998993546</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -323,15 +323,6 @@
         <MssStringXML>&lt;Symbol ID="SHGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.0944087282136102</X>
-            <Y>-0.0722783027777932</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
             <X>0.0971197619452197</X>
             <Y>-0.0679200823569627</Y>
           </Point>
@@ -388,15 +379,6 @@
           <Point>
             <X>0.1020218550132193</X>
             <Y>-0.0698005732198877</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHGPDPOS-------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.099416968792735</X>
-            <Y>-0.0678023480162055</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -572,6 +554,15 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GNGPDPOS-------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.099416968792735</X>
+            <Y>-0.0678023480162055</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="GNSPPSZ-------G"/&gt;</MssStringXML>
         <PointList>
           <Point>
@@ -581,11 +572,29 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0944087282136102</X>
+            <Y>-0.0722783027777932</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="SFGPIXH---H----"/&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.0499988872759087</X>
             <Y>-0.0882711679860308</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFAPWMB--------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0548597408555978</X>
+            <Y>-0.0986245959000099</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -743,128 +752,11 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SNAPWMB--------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0548597408555978</X>
-            <Y>-0.0986245959000099</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.054618782998151</X>
             <Y>-0.0928395776578326</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIME---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0696283120724591</X>
-            <Y>-0.0516062905224108</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPUCFTR------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0666134098758884</X>
-            <Y>-0.051860971523313</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMM---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0665233396614821</X>
-            <Y>-0.0542768920767422</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMM---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0667561086294903</X>
-            <Y>-0.0540771110787051</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMM---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0668087667019007</X>
-            <Y>-0.0537591851282945</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMM---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0688996466312959</X>
-            <Y>-0.0523608887747318</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMM---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0686478892724162</X>
-            <Y>-0.0520381169581974</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMM---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0686276246629657</X>
-            <Y>-0.0523665420290045</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMG---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0690596864028853</X>
-            <Y>-0.0518303112700811</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0708575236592657</X>
-            <Y>-0.0523817838502105</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0716746893321923</X>
-            <Y>-0.0561598889686324</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0721175100560049</X>
-            <Y>-0.057022473976718</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -878,33 +770,6 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="OHI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0694725802282919</X>
-            <Y>-0.0510577212601897</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHSPPSZ-------G"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0701844244318815</X>
-            <Y>-0.0526127568127778</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPEWD--------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0705268940198004</X>
-            <Y>-0.0522812432730675</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="SFGPI-----H---G"&gt;&lt;Attribute ID="AA"&gt;CP&lt;/Attribute&gt;&lt;Attribute ID="T"&gt;Checkpoint Bua&lt;/Attribute&gt;&lt;Attribute ID="XD"&gt;I&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
@@ -914,7 +779,7 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Lockheed&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="SFGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Lockheed&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.0717053466526272</X>
@@ -923,7 +788,7 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="EHF-F----------"&gt;&lt;Attribute ID="T"&gt;Maiden's Veil&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="EFF-F----------"&gt;&lt;Attribute ID="T"&gt;Maiden's Veil&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.069395831352559</X>
@@ -932,20 +797,20 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SFGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Mox&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0734972242152879</X>
-            <Y>-0.0453723251847311</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIM----H----"&gt;&lt;Attribute ID="T"&gt;The Spitrocks&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="SFGPIM----H----"&gt;&lt;Attribute ID="T"&gt;The Spitrocks&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.0661427859919599</X>
             <Y>-0.0553624911166638</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SHGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Mox&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0734972242152879</X>
+            <Y>-0.0453723251847311</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -968,11 +833,38 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPEWD--------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0705268940198004</X>
+            <Y>-0.0522812432730675</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPIME---H----"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0696283120724591</X>
+            <Y>-0.0516062905224108</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="GNSPPSZ-------G"/&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.0712735242254398</X>
             <Y>-0.0581435109853986</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPIMG---H----"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0690596864028853</X>
+            <Y>-0.0518303112700811</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1004,11 +896,56 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0708575236592657</X>
+            <Y>-0.0523817838502105</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0721175100560049</X>
+            <Y>-0.057022473976718</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0716746893321923</X>
+            <Y>-0.0561598889686324</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.0715236061867466</X>
             <Y>-0.0570503593562743</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0694725802282919</X>
+            <Y>-0.0510577212601897</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GNSPPSZ-------G"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0701844244318815</X>
+            <Y>-0.0526127568127778</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1148,6 +1085,15 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Earl Crowley&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0751874403730696</X>
+            <Y>-0.0343789079967288</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="SFGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Serenity's Blight&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
@@ -1202,15 +1148,6 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SNGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Earl Crowley&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0751874403730696</X>
-            <Y>-0.0343789079967288</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="SNGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
@@ -1256,11 +1193,47 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFGPIME---H----"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0561030856290484</X>
+            <Y>-0.0055755744030631</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFGPIMG---H----"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0554690973245376</X>
+            <Y>-0.0050140918837638</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="GFSPPSZ-------G"/&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.0492298842012601</X>
             <Y>-0.0078220472937863</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0551558902188753</X>
+            <Y>-0.0063331480523698</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GFSPPSZ-------G"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0553254766925554</X>
+            <Y>-0.0066839335218897</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1301,6 +1274,15 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Stoic&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0612989880502443</X>
+            <Y>-0.0074017316475321</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="SFGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Basinhome&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
@@ -1315,15 +1297,6 @@
           <Point>
             <X>0.0559300968365177</X>
             <Y>-0.006531034839582</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SNGPIME---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0561030856290484</X>
-            <Y>-0.0055755744030631</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1346,38 +1319,11 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SNGPIMG---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0554690973245376</X>
-            <Y>-0.0050140918837638</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SNGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Stoic&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0612989880502443</X>
-            <Y>-0.0074017316475321</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="SNGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.0543345029538788</X>
             <Y>-0.0060781910330101</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SNGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0551558902188753</X>
-            <Y>-0.0063331480523698</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1423,15 +1369,6 @@
           <Point>
             <X>0.0526237287493634</X>
             <Y>-0.0076611394645181</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GNSPPSZ-------G"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0553254766925554</X>
-            <Y>-0.0066839335218897</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2039,7 +1976,142 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIXH---H----"/&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="SHGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0901794120136448</X>
+            <Y>-0.06137047864016</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="OHI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0915046920281571</X>
+            <Y>-0.0606520688671808</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="OHI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0895997212466363</X>
+            <Y>-0.060596838530345</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SHGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Tuatha Watchpost&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0906692191287762</X>
+            <Y>-0.0602784430411105</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Brackish Point&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0804666914371509</X>
+            <Y>-0.0540614034763521</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Wellchurch&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0840067015450583</X>
+            <Y>-0.0591738824213404</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Iron Junction&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0809342774143969</X>
+            <Y>-0.0650272218930727</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Enduring Wake&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0779469446143538</X>
+            <Y>-0.0617527744519357</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Woodbind&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0876767343484061</X>
+            <Y>-0.0637817611953258</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Vulpine Watch&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0860744086713794</X>
+            <Y>-0.0539169271146736</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFGPIM----H----"&gt;&lt;Attribute ID="T"&gt;The Old Jack Tar&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0763042411450529</X>
+            <Y>-0.0597757350312906</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Dannan Ridge&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0886506273097175</X>
+            <Y>-0.0551303228711973</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFGPIM----H----"&gt;&lt;Attribute ID="T"&gt;The Overland&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0852608667711217</X>
+            <Y>-0.0649224443642865</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SHGPIM----H----"&gt;&lt;Attribute ID="T"&gt;The Evil Eye&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0887476341043085</X>
+            <Y>-0.0590745135562136</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPEWD--------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0815814885199956</X>
+            <Y>-0.0578725735904951</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPIXH---H----"/&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.0800466099255844</X>
@@ -2057,16 +2129,7 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHSPPSZ-------G"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0804058183920101</X>
-            <Y>-0.0537099269358676</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHSPPSZ-------G"/&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="GNSPPSZ-------G"/&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.0809958750058979</X>
@@ -2075,272 +2138,11 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="GNSPPSZ-------G"/&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.0867008509542667</X>
-            <Y>-0.0621697092136931</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0847426560763388</X>
-            <Y>-0.0584639516757528</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.080957196778969</X>
-            <Y>-0.0580044876962897</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="OHI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0812347974402203</X>
-            <Y>-0.0654578252049893</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="OHI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0792407927437547</X>
-            <Y>-0.0588223876048813</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHSPPSZ-------G"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0812877639840325</X>
-            <Y>-0.0581751311543055</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPEWD--------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0815814885199956</X>
-            <Y>-0.0578725735904951</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="OHI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0796906265398718</X>
-            <Y>-0.0535910956950277</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="OHI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0915046920281571</X>
-            <Y>-0.0606520688671808</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="OHI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.084819023332266</X>
-            <Y>-0.0587075683674739</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="OHI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0775465370043727</X>
-            <Y>-0.0629384371856258</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="OHI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0861197937250802</X>
-            <Y>-0.0545704568362304</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="OHI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0895997212466363</X>
-            <Y>-0.060596838530345</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="OHI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0794527962200965</X>
-            <Y>-0.0568589359443395</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="OHI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0867713617092863</X>
-            <Y>-0.0634641623336195</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="OHI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.080592018109042</X>
-            <Y>-0.0587725676397399</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="OHI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0809129501627895</X>
-            <Y>-0.0575780089473126</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="OHI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0812142922034583</X>
-            <Y>-0.064656275119914</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Iron Junction&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0809342774143969</X>
-            <Y>-0.0650272218930727</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Wellchurch&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0840067015450583</X>
-            <Y>-0.0591738824213404</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Tuatha Watchpost&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0906692191287762</X>
-            <Y>-0.0602784430411105</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Brackish Point&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0804666914371509</X>
-            <Y>-0.0540614034763521</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Woodbind&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0876767343484061</X>
-            <Y>-0.0637817611953258</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Enduring Wake&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0779469446143538</X>
-            <Y>-0.0617527744519357</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Vulpine Watch&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0860744086713794</X>
-            <Y>-0.0539169271146736</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="EHF-F----------"&gt;&lt;Attribute ID="T"&gt;Saltbrook Channel&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0798723287040241</X>
-            <Y>-0.0577895603562035</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Dannan Ridge&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0886506273097175</X>
-            <Y>-0.0551303228711973</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIM----H----"&gt;&lt;Attribute ID="T"&gt;The Old Jack Tar&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0763042411450529</X>
-            <Y>-0.0597757350312906</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIM----H----"&gt;&lt;Attribute ID="T"&gt;The Overland&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0852608667711217</X>
-            <Y>-0.0649224443642865</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIM----H----"&gt;&lt;Attribute ID="T"&gt;The Evil Eye&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0887476341043085</X>
-            <Y>-0.0590745135562136</Y>
+            <X>0.0804058183920101</X>
+            <Y>-0.0537099269358676</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2363,11 +2165,38 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="ENF-F----------"&gt;&lt;Attribute ID="T"&gt;Saltbrook Channel&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0798723287040241</X>
+            <Y>-0.0577895603562035</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="SNGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.0901794120136448</X>
-            <Y>-0.06137047864016</Y>
+            <X>0.080957196778969</X>
+            <Y>-0.0580044876962897</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0867008509542667</X>
+            <Y>-0.0621697092136931</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0847426560763388</X>
+            <Y>-0.0584639516757528</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2377,6 +2206,114 @@
           <Point>
             <X>0.0795459901514957</X>
             <Y>-0.0588382142572743</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0812347974402203</X>
+            <Y>-0.0654578252049893</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0792407927437547</X>
+            <Y>-0.0588223876048813</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GNSPPSZ-------G"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0812877639840325</X>
+            <Y>-0.0581751311543055</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.080592018109042</X>
+            <Y>-0.0587725676397399</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0775465370043727</X>
+            <Y>-0.0629384371856258</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0812142922034583</X>
+            <Y>-0.064656275119914</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0867713617092863</X>
+            <Y>-0.0634641623336195</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.084819023332266</X>
+            <Y>-0.0587075683674739</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0794527962200965</X>
+            <Y>-0.0568589359443395</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0809129501627895</X>
+            <Y>-0.0575780089473126</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0796906265398718</X>
+            <Y>-0.0535910956950277</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0861197937250802</X>
+            <Y>-0.0545704568362304</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -3092,6 +3029,78 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFGPIME---H----"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0666800799977931</X>
+            <Y>-0.1047354795517299</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GFSPPSZ-------G"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0672197297872663</X>
+            <Y>-0.0991703518577677</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0680539160136632</X>
+            <Y>-0.1052539674137836</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0674805305869911</X>
+            <Y>-0.1034432752306963</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0676151765799005</X>
+            <Y>-0.1035482852230472</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="OFI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0675755363828878</X>
+            <Y>-0.1049064162793567</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="OFI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0657301666096406</X>
+            <Y>-0.1044184306772965</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GFSPPSZ-------G"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0682333831738901</X>
+            <Y>-0.1049107881657656</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="SFGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Legion Ranch&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
@@ -3173,56 +3182,11 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SNGPIME---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0666800799977931</X>
-            <Y>-0.1047354795517299</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GNSPPSZ-------G"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0672197297872663</X>
-            <Y>-0.0991703518577677</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="GNSPPSZ-------G"/&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.0735431519431047</X>
             <Y>-0.1015458963424236</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SNGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0676151765799005</X>
-            <Y>-0.1035482852230472</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SNGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0674805305869911</X>
-            <Y>-0.1034432752306963</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SNGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0680539160136632</X>
-            <Y>-0.1052539674137836</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -3239,71 +3203,8 @@
         <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.0675755363828878</X>
-            <Y>-0.1049064162793567</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0657301666096406</X>
-            <Y>-0.1044184306772965</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
             <X>0.0729490778539441</X>
             <Y>-0.1015796305462611</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GNSPPSZ-------G"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0682333831738901</X>
-            <Y>-0.1049107881657656</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SFGPIMM---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0462137191754199</X>
-            <Y>-0.0359679729016039</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SFGPIMM---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0464307200434433</X>
-            <Y>-0.0358567518107463</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SFGPIMM---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.046146108245179</X>
-            <Y>-0.0353951375860105</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SFGPIMM---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0453700511855331</X>
-            <Y>-0.0348702796073908</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -3313,15 +3214,6 @@
           <Point>
             <X>0.0339443219543649</X>
             <Y>-0.0305775889745</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SFGPIMM---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0423834142188733</X>
-            <Y>-0.0269157586809201</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -3340,15 +3232,6 @@
           <Point>
             <X>0.0393887990966984</X>
             <Y>-0.0328819116445487</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SFGPIMM---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0425366392213763</X>
-            <Y>-0.0407432208304929</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -3614,33 +3497,6 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPUCFTR------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0835050323512441</X>
-            <Y>-0.0373677195476927</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMM---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0837254587920926</X>
-            <Y>-0.0373012752778091</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMM---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0816460315174747</X>
-            <Y>-0.045947920001685</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="SHGPIMM---H----"/&gt;</MssStringXML>
         <PointList>
           <Point>
@@ -3662,24 +3518,6 @@
         <MssStringXML>&lt;Symbol ID="SHGPIMM---H----"/&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.0765773610750802</X>
-            <Y>-0.04254128653558</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMM---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0845030154886578</X>
-            <Y>-0.0399959155460531</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMM---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
             <X>0.0841667081025339</X>
             <Y>-0.0400719779318756</Y>
           </Point>
@@ -3689,8 +3527,8 @@
         <MssStringXML>&lt;Symbol ID="SHGPIP----H----"/&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.0840753462735569</X>
-            <Y>-0.0477179846932457</Y>
+            <X>0.086820049819906</X>
+            <Y>-0.0363331302900997</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -3698,8 +3536,8 @@
         <MssStringXML>&lt;Symbol ID="SHGPIP----H----"/&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.086820049819906</X>
-            <Y>-0.0363331302900997</Y>
+            <X>0.0840753462735569</X>
+            <Y>-0.0477179846932457</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -3794,6 +3632,15 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Huntsfort&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0834254982631747</X>
+            <Y>-0.0433437396587646</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="SHGPEWD--------"/&gt;</MssStringXML>
         <PointList>
           <Point>
@@ -3830,15 +3677,6 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIG----H----"&gt;&lt;Attribute ID="T"&gt;The Weathering Halls&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0829252900582594</X>
-            <Y>-0.0367813567656318</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="SHGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Wightwalk&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
@@ -3866,24 +3704,6 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Huntsfort&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0834254982631747</X>
-            <Y>-0.0433437396587646</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Necropolis&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0807447229151106</X>
-            <Y>-0.0459674062898882</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="SHGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Frostmarch&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
@@ -3893,7 +3713,16 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SFGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Shattered Advance&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="SFGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Necropolis&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0807447229151106</X>
+            <Y>-0.0459674062898882</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SHGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Shattered Advance&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.0814907281107274</X>
@@ -3938,20 +3767,20 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SHGPIMM---H----"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0959834359769077</X>
+            <Y>-0.0331875894467135</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="SHGPIP----H----"/&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.10080742758156</X>
             <Y>-0.0281024944022029</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHAPWMB--------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0983036788404437</X>
-            <Y>-0.0332972369249173</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -4118,11 +3947,20 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Warmonger Bay&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="SFGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Warmonger Bay&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.1006397958105684</X>
             <Y>-0.040156489796084</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SHAPWMB--------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0983036788404437</X>
+            <Y>-0.0332972369249173</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -4613,38 +4451,11 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIME---H----"/&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="SHGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.0845542932265631</X>
-            <Y>-0.0778695729723885</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPUCFTR------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0840119760144548</X>
-            <Y>-0.0796705254274443</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMM---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0840856806131782</X>
-            <Y>-0.0792109888564933</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMG---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0845064522008827</X>
-            <Y>-0.0783812809602777</Y>
+            <X>0.0874648749226326</X>
+            <Y>-0.0737711544122205</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -4667,16 +4478,7 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0874648749226326</X>
-            <Y>-0.0737711544122205</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHGPDPOS-------"/&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="GFGPDPOS-------"/&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.0838488083452898</X>
@@ -4685,43 +4487,16 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="OHI-S----------"/&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="SFGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Scurvyshire&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.0840019965685058</X>
-            <Y>-0.0775406006471645</Y>
+            <X>0.0812230448478474</X>
+            <Y>-0.0719077218657335</Y>
           </Point>
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="OHI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0845499527739943</X>
-            <Y>-0.0791134323873144</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHSPPSZ-------G"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0847303689568103</X>
-            <Y>-0.079651414223729</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPEWD--------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0842725882516265</X>
-            <Y>-0.0792377512030312</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="EHF-F----------"&gt;&lt;Attribute ID="T"&gt;Mercy's Wail&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="EFF-F----------"&gt;&lt;Attribute ID="T"&gt;Mercy's Wail&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.0835577131502611</X>
@@ -4739,7 +4514,7 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Homesick&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="SFGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Homesick&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.0808642118616374</X>
@@ -4748,11 +4523,20 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Rumhold&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="SFGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Rumhold&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.0789675075214757</X>
             <Y>-0.072515367105613</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Belaying Trace&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0787258184145083</X>
+            <Y>-0.0779821200108235</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -4775,6 +4559,24 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPEWD--------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0842725882516265</X>
+            <Y>-0.0792377512030312</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPIME---H----"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0845542932265631</X>
+            <Y>-0.0778695729723885</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="GNSPPSZ-------G"/&gt;</MssStringXML>
         <PointList>
           <Point>
@@ -4793,20 +4595,11 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SNGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Belaying Trace&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="SNGPIMG---H----"/&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.0787258184145083</X>
-            <Y>-0.0779821200108235</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SNGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Scurvyshire&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0812230448478474</X>
-            <Y>-0.0719077218657335</Y>
+            <X>0.0845064522008827</X>
+            <Y>-0.0783812809602777</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -4852,6 +4645,33 @@
           <Point>
             <X>0.081122384634613</X>
             <Y>-0.0709958439921102</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0840019965685058</X>
+            <Y>-0.0775406006471645</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0845499527739943</X>
+            <Y>-0.0791134323873144</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GNSPPSZ-------G"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0847303689568103</X>
+            <Y>-0.079651414223729</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -4973,6 +4793,15 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFGPEWD--------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0536943906837942</X>
+            <Y>-0.1153542334531975</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="SFGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Sweethearth&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
@@ -5009,15 +4838,6 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SFGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Sourtooth&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.057010770476123</X>
-            <Y>-0.1042049430399194</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="SFGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Lost Greensward&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
@@ -5027,20 +4847,20 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Sourtooth&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.057010770476123</X>
+            <Y>-0.1042049430399194</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="SFGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Night's Regret&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.0485635509033796</X>
             <Y>-0.1105716665942951</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SNGPEWD--------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0536943906837942</X>
-            <Y>-0.1153542334531975</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -5540,78 +5360,6 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIXH---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0674904691712587</X>
-            <Y>-0.0191447350299252</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPUCFTR------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.070170350597693</X>
-            <Y>-0.0216087200301136</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPUCFTR------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0664236393698298</X>
-            <Y>-0.0221135690618173</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPUCFTR------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.064302136865579</X>
-            <Y>-0.0189972301513723</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPUCFTR------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.065312422838361</X>
-            <Y>-0.0200063679792968</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMM---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.06982013705151</X>
-            <Y>-0.0220330717630939</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMM---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0644815296328176</X>
-            <Y>-0.0209553112374354</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMM---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0669647673575427</X>
-            <Y>-0.021916633308498</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="SHGPIP----H----"/&gt;</MssStringXML>
         <PointList>
           <Point>
@@ -5635,15 +5383,6 @@
           <Point>
             <X>0.0724282606577783</X>
             <Y>-0.0139888415926861</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHSPPSZ-------G"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0709078237193453</X>
-            <Y>-0.0219207961314219</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -5696,24 +5435,6 @@
         <MssStringXML>&lt;Symbol ID="OHI-S----------"/&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.0699487770513528</X>
-            <Y>-0.0220025519103398</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="OHI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0666428912403288</X>
-            <Y>-0.0200059580508946</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="OHI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
             <X>0.0732086969287099</X>
             <Y>-0.0145709462434696</Y>
           </Point>
@@ -5738,29 +5459,20 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPI-----H---G"&gt;&lt;Attribute ID="AA"&gt;CP&lt;/Attribute&gt;&lt;Attribute ID="T"&gt;Checkpoint Titim&lt;/Attribute&gt;&lt;Attribute ID="XD"&gt;I&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0690909695903636</X>
-            <Y>-0.0155908416174876</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Little Lamb&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0706625357421067</X>
-            <Y>-0.0225450050408008</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Teller Farm&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="SFGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Teller Farm&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.0669919592231745</X>
             <Y>-0.0195476710783562</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Little Lamb&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0706625357421067</X>
+            <Y>-0.0225450050408008</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -5792,16 +5504,7 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Fort Rider&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0658821219839787</X>
-            <Y>-0.0231501065041415</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Slipgate Outpost&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="SFGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Slipgate Outpost&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.0670196439331209</X>
@@ -5810,11 +5513,29 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Sickleshire&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="SFGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Fort Rider&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0658821219839787</X>
+            <Y>-0.0231501065041415</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Sickleshire&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.0727732823719431</X>
             <Y>-0.0196559492248933</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPIXH---H----"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0674904691712587</X>
+            <Y>-0.0191447350299252</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -5828,6 +5549,24 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GNSPPSZ-------G"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0709078237193453</X>
+            <Y>-0.0219207961314219</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPI-----H---G"&gt;&lt;Attribute ID="AA"&gt;CP&lt;/Attribute&gt;&lt;Attribute ID="T"&gt;Checkpoint Titim&lt;/Attribute&gt;&lt;Attribute ID="XD"&gt;I&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0690909695903636</X>
+            <Y>-0.0155908416174876</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
         <PointList>
           <Point>
@@ -5837,20 +5576,29 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0666428912403288</X>
+            <Y>-0.0200059580508946</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0699487770513528</X>
+            <Y>-0.0220025519103398</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="SFGPIME---H----"/&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.041344667237406</X>
             <Y>-0.0148445785760103</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SFGPUCFTR------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0375885261508405</X>
-            <Y>-0.0166603731720799</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -5887,15 +5635,6 @@
           <Point>
             <X>0.041991674307337</X>
             <Y>-0.0184589917680994</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SFGPIMM---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0425905228452547</X>
-            <Y>-0.0193047960154359</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -6143,11 +5882,56 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SFGPIG----H----"&gt;&lt;Attribute ID="T"&gt;The Vanguard&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="SFGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.0727678755491142</X>
-            <Y>-0.0874964010855205</Y>
+            <X>0.0663871866668119</X>
+            <Y>-0.0882144009300975</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFGPIMV---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0667491207528761</X>
+            <Y>-0.0888133063256397</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="OFI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0676738560056651</X>
+            <Y>-0.0875284359653276</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="OFI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0676568155178152</X>
+            <Y>-0.089179707163622</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GFSPPSZ-------G"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0687657490518854</X>
+            <Y>-0.0889685779809853</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFGPIG----H----"&gt;&lt;Attribute ID="T"&gt;The Grave of Rastus&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0719851698891781</X>
+            <Y>-0.079303763852468</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -6157,6 +5941,15 @@
           <Point>
             <X>0.0671603895516138</X>
             <Y>-0.0800563047766208</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFGPIG----H----"&gt;&lt;Attribute ID="T"&gt;The Vanguard&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0727678755491142</X>
+            <Y>-0.0874964010855205</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -6188,15 +5981,6 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SFGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Firstmarch&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0756788849422084</X>
-            <Y>-0.0834936663049475</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="SFGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Limewood Holdfast&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
@@ -6206,11 +5990,11 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SFGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Simo's Run&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="SFGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Firstmarch&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.0730890731940479</X>
-            <Y>-0.0915773954681516</Y>
+            <X>0.0756788849422084</X>
+            <Y>-0.0834936663049475</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -6220,6 +6004,15 @@
           <Point>
             <X>0.0713819437008134</X>
             <Y>-0.0834039673092204</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Simo's Run&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0730890731940479</X>
+            <Y>-0.0915773954681516</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -6242,15 +6035,6 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SNGPIG----H----"&gt;&lt;Attribute ID="T"&gt;The Grave of Rastus&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0719851698891781</X>
-            <Y>-0.079303763852468</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="SNGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
@@ -6265,24 +6049,6 @@
           <Point>
             <X>0.0667584966247208</X>
             <Y>-0.0878451237611601</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SNGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0663871866668119</X>
-            <Y>-0.0882144009300975</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SNGPIMV---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0667491207528761</X>
-            <Y>-0.0888133063256397</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -6323,65 +6089,11 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0676738560056651</X>
-            <Y>-0.0875284359653276</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0676568155178152</X>
-            <Y>-0.089179707163622</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GNSPPSZ-------G"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0687657490518854</X>
-            <Y>-0.0889685779809853</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIXH---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0836535447164177</X>
-            <Y>-0.0985458356728907</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="SHGPUCFTR------"/&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.0890494492573927</X>
             <Y>-0.0930449123317014</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPUCFTR------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0833152633760203</X>
-            <Y>-0.0995736535964942</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMM---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0802782555448879</X>
-            <Y>-0.0950450942602899</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -6404,142 +6116,16 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMG---H----"/&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="SFGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Warlord's Stead&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.0839871965146739</X>
-            <Y>-0.0975761420098387</Y>
+            <X>0.0788752265513944</X>
+            <Y>-0.091516683022151</Y>
           </Point>
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMG---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0839871969890993</X>
-            <Y>-0.0973863610443685</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0832188811198713</X>
-            <Y>-0.0969553828187673</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0841765917710459</X>
-            <Y>-0.0955857495131005</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0842984073554728</X>
-            <Y>-0.0954587308064451</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMV---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0838199872912642</X>
-            <Y>-0.0970633726489949</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="OHI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0816064622427204</X>
-            <Y>-0.097843708597652</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="OHI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0811874179117343</X>
-            <Y>-0.0970653631929944</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="OHI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0815135596529425</X>
-            <Y>-0.0963244859275073</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="OHI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0839128685334046</X>
-            <Y>-0.0985521615513499</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="OHI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0839845818319135</X>
-            <Y>-0.0970275814585961</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="OHI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0833843914493162</X>
-            <Y>-0.0973939515519483</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHSPPSZ-------G"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0828908817679982</X>
-            <Y>-0.0967433388125798</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPEWD--------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0840792418072335</X>
-            <Y>-0.0964846680127002</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPEWD--------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0825535621544198</X>
-            <Y>-0.0970655380957793</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="EHF-F----------"&gt;&lt;Attribute ID="T"&gt;Therizó&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="EFF-F----------"&gt;&lt;Attribute ID="T"&gt;Therizó&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.0827899447813887</X>
@@ -6557,20 +6143,38 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Bloody Palm Fort&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0907364946256747</X>
-            <Y>-0.0943272594118948</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="SFGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Cerberus Wake&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.0790294456347526</X>
             <Y>-0.09787840835368</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPEWD--------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0825535621544198</X>
+            <Y>-0.0970655380957793</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPEWD--------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0840792418072335</X>
+            <Y>-0.0964846680127002</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPIXH---H----"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0836535447164177</X>
+            <Y>-0.0985458356728907</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -6584,6 +6188,24 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPIMG---H----"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0839871965146739</X>
+            <Y>-0.0975761420098387</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPIMG---H----"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0839871969890993</X>
+            <Y>-0.0973863610443685</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="SNGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Thunderbolt&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
@@ -6593,11 +6215,11 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SNGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Warlord's Stead&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="SNGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Bloody Palm Fort&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.0788752265513944</X>
-            <Y>-0.091516683022151</Y>
+            <X>0.0907364946256747</X>
+            <Y>-0.0943272594118948</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -6611,6 +6233,42 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0832188811198713</X>
+            <Y>-0.0969553828187673</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0841765917710459</X>
+            <Y>-0.0955857495131005</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0842984073554728</X>
+            <Y>-0.0954587308064451</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPIMV---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0838199872912642</X>
+            <Y>-0.0970633726489949</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
         <PointList>
           <Point>
@@ -6620,38 +6278,74 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0816064622427204</X>
+            <Y>-0.097843708597652</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0839128685334046</X>
+            <Y>-0.0985521615513499</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0811874179117343</X>
+            <Y>-0.0970653631929944</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0815135596529425</X>
+            <Y>-0.0963244859275073</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0839845818319135</X>
+            <Y>-0.0970275814585961</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0833843914493162</X>
+            <Y>-0.0973939515519483</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GNSPPSZ-------G"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0828908817679982</X>
+            <Y>-0.0967433388125798</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="SFGPIME---H----"/&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.0391394985590237</X>
             <Y>-0.0505167107360973</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SFGPIMM---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0439636329086015</X>
-            <Y>-0.0509853911016652</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SFGPIMM---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0425780509797022</X>
-            <Y>-0.0575292127783556</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SFGPIMM---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0424427814419165</X>
-            <Y>-0.0573484466508592</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -6989,15 +6683,6 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHSPPSZ-------G"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0852450953708488</X>
-            <Y>-0.0319538634618887</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="SHGPIMS---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
@@ -7061,15 +6746,6 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="OHI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0853276860932297</X>
-            <Y>-0.0321565006360678</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="GHSPPSZ-------G"/&gt;</MssStringXML>
         <PointList>
           <Point>
@@ -7088,7 +6764,7 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIG----H----"&gt;&lt;Attribute ID="T"&gt;The Pike&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="SFGPIG----H----"&gt;&lt;Attribute ID="T"&gt;The Pike&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.0850476734469298</X>
@@ -7142,11 +6818,38 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Fort Ealar&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="SFGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Fort Ealar&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.0812669060616003</X>
             <Y>-0.0293139556382753</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GNSPPSZ-------G"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0852450953708488</X>
+            <Y>-0.0319538634618887</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0853276860932297</X>
+            <Y>-0.0321565006360678</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFGPIMM---H----"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0091123894468377</X>
+            <Y>-0.0295490422323582</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -7183,15 +6886,6 @@
           <Point>
             <X>0.010946424408542</X>
             <Y>-0.0294216633011194</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SFAPWMB--------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0128004714495949</X>
-            <Y>-0.0396809653342352</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -7403,6 +7097,15 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFAPWMB--------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0128004714495949</X>
+            <Y>-0.0396809653342352</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="SHGPIME---H----"/&gt;</MssStringXML>
         <PointList>
           <Point>
@@ -7417,51 +7120,6 @@
           <Point>
             <X>0.0987886188286366</X>
             <Y>-0.0531539284045715</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIUR---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0927150161129195</X>
-            <Y>-0.0484018060740794</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIP----H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0931926801852677</X>
-            <Y>-0.048829070689964</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMG---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0933382748668284</X>
-            <Y>-0.0482464404768083</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMG---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0934856166799164</X>
-            <Y>-0.0481239969127278</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHSPPSZ-------G"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.1001695264724901</X>
-            <Y>-0.0472601390769536</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -7547,24 +7205,6 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMV---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0930768074958543</X>
-            <Y>-0.0485850799385759</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMN---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0927795279972007</X>
-            <Y>-0.0489085807444522</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="GHGPDPOS-------"/&gt;</MssStringXML>
         <PointList>
           <Point>
@@ -7574,29 +7214,11 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHGPDPOS-------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0969011037725775</X>
-            <Y>-0.0516204060653319</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHGPDPOS-------"/&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="GFGPDPOS-------"/&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.1015882406146981</X>
             <Y>-0.0530858785817795</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="OHI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.100205458969745</X>
-            <Y>-0.04563856889943</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -7619,29 +7241,11 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="OHI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.099322349842974</X>
-            <Y>-0.0529141339535935</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="GHSPPSZ-------G"/&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.092345648127585</X>
             <Y>-0.0479287521140675</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPEWD--------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0927890563305055</X>
-            <Y>-0.0482036545414408</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -7655,15 +7259,6 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="EHF-F----------"&gt;&lt;Attribute ID="T"&gt;The Axehead&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0934552272111947</X>
-            <Y>-0.048369622082816</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="SHGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Blackwatch&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
@@ -7673,7 +7268,7 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Isawa&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="SFGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Isawa&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.1008324631603396</X>
@@ -7682,20 +7277,11 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Skodio&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="SFGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Skodio&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.1003764955542833</X>
             <Y>-0.0468963356478094</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Promithiens&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0992841223626944</X>
-            <Y>-0.0535857459585761</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -7723,6 +7309,123 @@
           <Point>
             <X>0.0951753859748684</X>
             <Y>-0.0584749961717277</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GNGPDPOS-------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0969011037725775</X>
+            <Y>-0.0516204060653319</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPEWD--------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0927890563305055</X>
+            <Y>-0.0482036545414408</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GNSPPSZ-------G"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.1001695264724901</X>
+            <Y>-0.0472601390769536</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPIP----H----"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0931926801852677</X>
+            <Y>-0.048829070689964</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPIUR---H----"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0927150161129195</X>
+            <Y>-0.0484018060740794</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPIMG---H----"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0933382748668284</X>
+            <Y>-0.0482464404768083</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPIMG---H----"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0934856166799164</X>
+            <Y>-0.0481239969127278</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="ENF-F----------"&gt;&lt;Attribute ID="T"&gt;The Axehead&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0934552272111947</X>
+            <Y>-0.048369622082816</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Promithiens&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0992841223626944</X>
+            <Y>-0.0535857459585761</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPIMV---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0930768074958543</X>
+            <Y>-0.0485850799385759</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.100205458969745</X>
+            <Y>-0.04563856889943</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.099322349842974</X>
+            <Y>-0.0529141339535935</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPIMN---H----"&gt;&lt;Attribute ID="XD"&gt;F&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0927795279972007</X>
+            <Y>-0.0489085807444522</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -8420,20 +8123,29 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GFSPPSZ-------G"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.051907438504106</X>
-            <Y>-0.0773346466398015</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="SFGPEWD--------"/&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.0515751686940949</X>
             <Y>-0.0766773397696259</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="OFI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0501670502737044</X>
+            <Y>-0.0718867929711616</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="OFI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0493851026093297</X>
+            <Y>-0.0730035378586682</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -8546,20 +8258,11 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="GNSPPSZ-------G"/&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.0501670502737044</X>
-            <Y>-0.0718867929711616</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0493851026093297</X>
-            <Y>-0.0730035378586682</Y>
+            <X>0.051907438504106</X>
+            <Y>-0.0773346466398015</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -8659,6 +8362,15 @@
           <Point>
             <X>0.0510420230444104</X>
             <Y>-0.0293776335746584</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="OFI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0523172297799188</X>
+            <Y>-0.02284047016004</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -8776,15 +8488,6 @@
           <Point>
             <X>0.0554698824728541</X>
             <Y>-0.028725416478006</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0523172297799188</X>
-            <Y>-0.02284047016004</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -9055,24 +8758,6 @@
           <Point>
             <X>0.0553597913518979</X>
             <Y>-0.0465106167630722</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SFGPIMM---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0554777833199852</X>
-            <Y>-0.0467057341423209</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SFGPIMM---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0555999833388269</X>
-            <Y>-0.0465788874347909</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -9365,15 +9050,6 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SFGPIMM---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0262697503237026</X>
-            <Y>-0.0944888863239018</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="SFGPIME---H----"/&gt;</MssStringXML>
         <PointList>
           <Point>
@@ -9392,6 +9068,15 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFGPUCFTR------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0216800324069287</X>
+            <Y>-0.095750143783429</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="SFGPIMM---H----"/&gt;</MssStringXML>
         <PointList>
           <Point>
@@ -9406,6 +9091,24 @@
           <Point>
             <X>0.027300795515779</X>
             <Y>-0.0974205495855184</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFGPIMM---H----"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0262697503237026</X>
+            <Y>-0.0944888863239018</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFGPIMM---H----"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0218434158680335</X>
+            <Y>-0.0955538422235086</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -9608,191 +9311,11 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIME---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0702182669013109</X>
-            <Y>-0.0696992377232516</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPUCFTR------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0661564630604115</X>
-            <Y>-0.0671685746231869</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPUCFTR------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0704917161740974</X>
-            <Y>-0.064668093355748</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMM---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0699413575109207</X>
-            <Y>-0.069190518796628</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMM---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0631003620068499</X>
-            <Y>-0.0693022746732469</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMM---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0629109014194009</X>
-            <Y>-0.0694289985730597</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMM---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0630312581906857</X>
-            <Y>-0.0685831859563517</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMM---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0630973951348524</X>
-            <Y>-0.0687655169855233</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMM---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0628645145021747</X>
-            <Y>-0.0686912545269931</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMM---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0629269542078897</X>
-            <Y>-0.0688738349292761</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMM---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0659323597549998</X>
-            <Y>-0.0686200274174775</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIMG---H----"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0699043454204104</X>
-            <Y>-0.0694791618532379</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHSPPSZ-------G"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0677344944595352</X>
-            <Y>-0.0634004526277853</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="OHI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0704016961065397</X>
-            <Y>-0.0684782664898562</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="OHI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0680783903208065</X>
-            <Y>-0.0626428972544532</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="OHI-S----------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0693090823403912</X>
-            <Y>-0.0699777931250985</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHSPPSZ-------G"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0699343221965682</X>
-            <Y>-0.0701090732082978</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SFGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Splinter Pens&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0683877256543349</X>
-            <Y>-0.07347658157047</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPEWD--------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0696375820982526</X>
-            <Y>-0.0698441137651222</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPI-----H---G"&gt;&lt;Attribute ID="AA"&gt;CP&lt;/Attribute&gt;&lt;Attribute ID="T"&gt;The Wash&lt;/Attribute&gt;&lt;Attribute ID="XD"&gt;I&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="SFGPI-----H---G"&gt;&lt;Attribute ID="AA"&gt;CP&lt;/Attribute&gt;&lt;Attribute ID="T"&gt;The Wash&lt;/Attribute&gt;&lt;Attribute ID="XD"&gt;I&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.0663710121123379</X>
             <Y>-0.0690663480675466</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SFGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Coaldrifter Stead&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0715769003304857</X>
-            <Y>-0.0735590847855079</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -9806,7 +9329,7 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIG----H----"&gt;&lt;Attribute ID="T"&gt;The Saltcaps&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="SFGPIG----H----"&gt;&lt;Attribute ID="T"&gt;The Saltcaps&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.0715325463037444</X>
@@ -9824,7 +9347,16 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Loggerhead&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="SFGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Coaldrifter Stead&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0715769003304857</X>
+            <Y>-0.0735590847855079</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFGPIG----H----"&gt;&lt;Attribute ID="T"&gt;Loggerhead&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.0673782529632559</X>
@@ -9833,7 +9365,7 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="EHF-F----------"&gt;&lt;Attribute ID="T"&gt;The Baths&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="EFF-F----------"&gt;&lt;Attribute ID="T"&gt;The Baths&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.0698067730238461</X>
@@ -9851,7 +9383,16 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Eastmarch&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="SFGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Wisp's Warning&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0656338100084811</X>
+            <Y>-0.0648124339286433</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Eastmarch&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.0637016165410915</X>
@@ -9860,7 +9401,7 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SHGPIM----H----"&gt;&lt;Attribute ID="T"&gt;The Wash&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="SFGPIM----H----"&gt;&lt;Attribute ID="T"&gt;The Wash&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.0666874696083846</X>
@@ -9869,11 +9410,47 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SNGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Wisp's Warning&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="SFGPIM----H----"&gt;&lt;Attribute ID="T"&gt;Splinter Pens&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.0656338100084811</X>
-            <Y>-0.0648124339286433</Y>
+            <X>0.0683877256543349</X>
+            <Y>-0.07347658157047</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPEWD--------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0696375820982526</X>
+            <Y>-0.0698441137651222</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPIME---H----"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0702182669013109</X>
+            <Y>-0.0696992377232516</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GNSPPSZ-------G"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0677344944595352</X>
+            <Y>-0.0634004526277853</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SNGPIMG---H----"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0699043454204104</X>
+            <Y>-0.0694791618532379</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -9923,6 +9500,42 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0680783903208065</X>
+            <Y>-0.0626428972544532</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0693090823403912</X>
+            <Y>-0.0699777931250985</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="ONI-S----------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0704016961065397</X>
+            <Y>-0.0684782664898562</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GNSPPSZ-------G"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0699343221965682</X>
+            <Y>-0.0701090732082978</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="SFGPIXH---H----"/&gt;</MssStringXML>
         <PointList>
           <Point>
@@ -9937,15 +9550,6 @@
           <Point>
             <X>0.0229070742951554</X>
             <Y>-0.0592025885117185</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="SFAPWMB--------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0242530737037739</X>
-            <Y>-0.0579689229913331</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -10297,6 +9901,15 @@
           <Point>
             <X>0.0271462774001302</X>
             <Y>-0.0634811429344646</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="SFAPWMB--------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0242530737037739</X>
+            <Y>-0.0579689229913331</Y>
           </Point>
         </PointList>
       </MilXGraphic>

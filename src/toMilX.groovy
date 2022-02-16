@@ -226,7 +226,7 @@ class toMilX {
                                 [:],
                                 latLong.lat
                         )
-                        if(MssStringXMLArray.findIndexOf {it -> it == MssStringXML} == 1){
+                        if(MssStringXMLArray.findIndexOf {it -> it == MssStringXML && it != ""} == 1){
                             documentLayer.value()[1].value()[2].value()[size - 1].appendNode(
                                     "LocationAttributeList",
                                     [:]

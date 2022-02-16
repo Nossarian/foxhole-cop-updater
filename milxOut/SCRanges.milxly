@@ -47,132 +47,6 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHMPNM---------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0665233396614821</X>
-            <Y>-0.0542768920767422</Y>
-          </Point>
-          <Point>
-            <X>0.0665233425607954</X>
-            <Y>-0.0515800794818222</Y>
-          </Point>
-          <Point>
-            <X>0.0665233487513705</X>
-            <Y>-0.0452875167603421</Y>
-          </Point>
-          <Point>
-            <X>0.0665233511582644</X>
-            <Y>-0.0425907041654221</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHMPNM---------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0667561086294903</X>
-            <Y>-0.0540771110787051</Y>
-          </Point>
-          <Point>
-            <X>0.0667561115279665</X>
-            <Y>-0.051380298483785</Y>
-          </Point>
-          <Point>
-            <X>0.0667561177145784</X>
-            <Y>-0.045087735762305</Y>
-          </Point>
-          <Point>
-            <X>0.0667561201189123</X>
-            <Y>-0.0423909231673849</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHMPNM---------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0668087667019007</X>
-            <Y>-0.0537591851282945</Y>
-          </Point>
-          <Point>
-            <X>0.0668087695851732</X>
-            <Y>-0.0510623725333745</Y>
-          </Point>
-          <Point>
-            <X>0.066808775735855</X>
-            <Y>-0.0447698098118945</Y>
-          </Point>
-          <Point>
-            <X>0.0668087781245954</X>
-            <Y>-0.0420729972169744</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHMPNM---------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0688996466312959</X>
-            <Y>-0.0523608887747318</Y>
-          </Point>
-          <Point>
-            <X>0.0688996495254728</X>
-            <Y>-0.0496640761798118</Y>
-          </Point>
-          <Point>
-            <X>0.0688996556835415</X>
-            <Y>-0.0433715134583317</Y>
-          </Point>
-          <Point>
-            <X>0.0688996580677091</X>
-            <Y>-0.0406747008634117</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHMPNM---------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0686478892724162</X>
-            <Y>-0.0520381169581974</Y>
-          </Point>
-          <Point>
-            <X>0.0686478921377724</X>
-            <Y>-0.0493413043632774</Y>
-          </Point>
-          <Point>
-            <X>0.0686478982307669</X>
-            <Y>-0.0430487416417973</Y>
-          </Point>
-          <Point>
-            <X>0.0686479005879774</X>
-            <Y>-0.0403519290468773</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHMPNM---------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0686276246629657</X>
-            <Y>-0.0523665420290045</Y>
-          </Point>
-          <Point>
-            <X>0.0686276275460356</X>
-            <Y>-0.0496697294340845</Y>
-          </Point>
-          <Point>
-            <X>0.0686276336805371</X>
-            <Y>-0.0433771667126044</Y>
-          </Point>
-          <Point>
-            <X>0.0686276360556114</X>
-            <Y>-0.0406803541176844</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="GFMPNM---------"/&gt;</MssStringXML>
         <PointList>
           <Point>
@@ -344,90 +218,6 @@
         <MssStringXML>&lt;Symbol ID="GFMPNM---------"/&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.0462137191754199</X>
-            <Y>-0.0359679729016039</Y>
-          </Point>
-          <Point>
-            <X>0.0462137204928395</X>
-            <Y>-0.0332711603066838</Y>
-          </Point>
-          <Point>
-            <X>0.0462137231677212</X>
-            <Y>-0.0269785975852038</Y>
-          </Point>
-          <Point>
-            <X>0.0462137241430573</X>
-            <Y>-0.0242817849902837</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GFMPNM---------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0464307200434433</X>
-            <Y>-0.0358567518107463</Y>
-          </Point>
-          <Point>
-            <X>0.0464307213627967</X>
-            <Y>-0.0331599392158263</Y>
-          </Point>
-          <Point>
-            <X>0.0464307240403165</X>
-            <Y>-0.0268673764943462</Y>
-          </Point>
-          <Point>
-            <X>0.0464307250159801</X>
-            <Y>-0.0241705638994262</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GFMPNM---------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.046146108245179</X>
-            <Y>-0.0353951375860105</Y>
-          </Point>
-          <Point>
-            <X>0.0461461095389042</X>
-            <Y>-0.0326983249910904</Y>
-          </Point>
-          <Point>
-            <X>0.0461461121590831</X>
-            <Y>-0.0264057622696104</Y>
-          </Point>
-          <Point>
-            <X>0.0461461131112255</X>
-            <Y>-0.0237089496746903</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GFMPNM---------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0453700511855331</X>
-            <Y>-0.0348702796073908</Y>
-          </Point>
-          <Point>
-            <X>0.0453700524378928</X>
-            <Y>-0.0321734670124707</Y>
-          </Point>
-          <Point>
-            <X>0.0453700549682542</X>
-            <Y>-0.0258809042909907</Y>
-          </Point>
-          <Point>
-            <X>0.0453700558847756</X>
-            <Y>-0.0231840916960707</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GFMPNM---------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
             <X>0.0339443219543649</X>
             <Y>-0.0305775889745</Y>
           </Point>
@@ -442,27 +232,6 @@
           <Point>
             <X>0.0339443249502409</X>
             <Y>-0.0188914010631799</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GFMPNM---------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0423834142188733</X>
-            <Y>-0.0269157586809201</Y>
-          </Point>
-          <Point>
-            <X>0.0423834151111781</X>
-            <Y>-0.0242189460860001</Y>
-          </Point>
-          <Point>
-            <X>0.0423834168272035</X>
-            <Y>-0.01792638336452</Y>
-          </Point>
-          <Point>
-            <X>0.0423834174057776</X>
-            <Y>-0.0152295707696</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -512,27 +281,6 @@
         <MssStringXML>&lt;Symbol ID="GFMPNM---------"/&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.0425366392213763</X>
-            <Y>-0.0407432208304929</Y>
-          </Point>
-          <Point>
-            <X>0.0425366406012324</X>
-            <Y>-0.0380464082355728</Y>
-          </Point>
-          <Point>
-            <X>0.0425366434535543</X>
-            <Y>-0.0317538455140928</Y>
-          </Point>
-          <Point>
-            <X>0.0425366445185456</X>
-            <Y>-0.0290570329191727</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GFMPNM---------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
             <X>0.0372207413342547</X>
             <Y>-0.0406551943426465</Y>
           </Point>
@@ -547,48 +295,6 @@
           <Point>
             <X>0.037220745957734</X>
             <Y>-0.0289690064313264</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHMPNM---------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0837254587920926</X>
-            <Y>-0.0373012752778091</Y>
-          </Point>
-          <Point>
-            <X>0.083725461270785</X>
-            <Y>-0.0346044626828891</Y>
-          </Point>
-          <Point>
-            <X>0.0837254663313558</X>
-            <Y>-0.028311899961409</Y>
-          </Point>
-          <Point>
-            <X>0.0837254681902953</X>
-            <Y>-0.025615087366489</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHMPNM---------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0816460315174747</X>
-            <Y>-0.045947920001685</Y>
-          </Point>
-          <Point>
-            <X>0.0816460345159246</X>
-            <Y>-0.043251107406765</Y>
-          </Point>
-          <Point>
-            <X>0.0816460408072204</X>
-            <Y>-0.0369585446852849</Y>
-          </Point>
-          <Point>
-            <X>0.0816460432013097</X>
-            <Y>-0.0342617320903649</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -638,48 +344,6 @@
         <MssStringXML>&lt;Symbol ID="GHMPNM---------"/&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.0765773610750802</X>
-            <Y>-0.04254128653558</Y>
-          </Point>
-          <Point>
-            <X>0.0765773636725716</X>
-            <Y>-0.0398444739406599</Y>
-          </Point>
-          <Point>
-            <X>0.0765773690720704</X>
-            <Y>-0.0335519112191799</Y>
-          </Point>
-          <Point>
-            <X>0.0765773711027206</X>
-            <Y>-0.0308550986242598</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHMPNM---------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0845030154886578</X>
-            <Y>-0.0399959155460531</Y>
-          </Point>
-          <Point>
-            <X>0.0845030181778713</X>
-            <Y>-0.0372991029511331</Y>
-          </Point>
-          <Point>
-            <X>0.0845030237229429</X>
-            <Y>-0.031006540229653</Y>
-          </Point>
-          <Point>
-            <X>0.0845030257866479</X>
-            <Y>-0.028309727634733</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHMPNM---------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
             <X>0.0841667081025339</X>
             <Y>-0.0400719779318756</Y>
           </Point>
@@ -694,6 +358,27 @@
           <Point>
             <X>0.0841667183823834</X>
             <Y>-0.0283857900205555</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GHMPNM---------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0959834359769077</X>
+            <Y>-0.0331875894467135</Y>
+          </Point>
+          <Point>
+            <X>0.0959834384933661</X>
+            <Y>-0.0304907768517935</Y>
+          </Point>
+          <Point>
+            <X>0.0959834435361986</X>
+            <Y>-0.0241982141303134</Y>
+          </Point>
+          <Point>
+            <X>0.0959834453421681</X>
+            <Y>-0.0215014015353934</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -887,27 +572,6 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHMPNM---------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0840856806131782</X>
-            <Y>-0.0792109888564933</Y>
-          </Point>
-          <Point>
-            <X>0.0840856860043432</X>
-            <Y>-0.0765141762615733</Y>
-          </Point>
-          <Point>
-            <X>0.0840856978575724</X>
-            <Y>-0.0702216135400932</Y>
-          </Point>
-          <Point>
-            <X>0.084085702626318</X>
-            <Y>-0.0675248009451732</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="GFMPNM---------"/&gt;</MssStringXML>
         <PointList>
           <Point>
@@ -950,69 +614,6 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHMPNM---------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.06982013705151</X>
-            <Y>-0.0220330717630939</Y>
-          </Point>
-          <Point>
-            <X>0.069820138240726</X>
-            <Y>-0.0193362591681739</Y>
-          </Point>
-          <Point>
-            <X>0.0698201404126031</X>
-            <Y>-0.0130436964466938</Y>
-          </Point>
-          <Point>
-            <X>0.0698201410849962</X>
-            <Y>-0.0103468838517738</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHMPNM---------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0644815296328176</X>
-            <Y>-0.0209553112374354</Y>
-          </Point>
-          <Point>
-            <X>0.0644815306738779</X>
-            <Y>-0.0182584986425154</Y>
-          </Point>
-          <Point>
-            <X>0.0644815325461623</X>
-            <Y>-0.0119659359210353</Y>
-          </Point>
-          <Point>
-            <X>0.0644815331099172</X>
-            <Y>-0.0092691233261153</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHMPNM---------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0669647673575427</X>
-            <Y>-0.021916633308498</Y>
-          </Point>
-          <Point>
-            <X>0.0669647684917038</X>
-            <Y>-0.019219820713578</Y>
-          </Point>
-          <Point>
-            <X>0.0669647705597783</X>
-            <Y>-0.0129272579920979</Y>
-          </Point>
-          <Point>
-            <X>0.0669647711982526</X>
-            <Y>-0.0102304453971779</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="GFMPNM---------"/&gt;</MssStringXML>
         <PointList>
           <Point>
@@ -1051,27 +652,6 @@
           <Point>
             <X>0.0419916761976554</X>
             <Y>-0.0067728038567793</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GFMPNM---------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0425905228452547</X>
-            <Y>-0.0193047960154359</Y>
-          </Point>
-          <Point>
-            <X>0.042590523474998</X>
-            <Y>-0.0166079834205159</Y>
-          </Point>
-          <Point>
-            <X>0.0425905245765912</X>
-            <Y>-0.0103154206990359</Y>
-          </Point>
-          <Point>
-            <X>0.0425905248910707</X>
-            <Y>-0.0076186081041158</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1226,27 +806,6 @@
         <MssStringXML>&lt;Symbol ID="GHMPNM---------"/&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.0802782555448879</X>
-            <Y>-0.0950450942602899</Y>
-          </Point>
-          <Point>
-            <X>0.0802782617386436</X>
-            <Y>-0.0923482816653699</Y>
-          </Point>
-          <Point>
-            <X>0.0802782754974646</X>
-            <Y>-0.0860557189438898</Y>
-          </Point>
-          <Point>
-            <X>0.0802782810969842</X>
-            <Y>-0.0833589063489698</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHMPNM---------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
             <X>0.0894199459887875</X>
             <Y>-0.0929275556374847</Y>
           </Point>
@@ -1282,69 +841,6 @@
           <Point>
             <X>0.0890296570204049</X>
             <Y>-0.0809942907263188</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GFMPNM---------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0439636329086015</X>
-            <Y>-0.0509853911016652</Y>
-          </Point>
-          <Point>
-            <X>0.0439636347055291</X>
-            <Y>-0.0482885785067452</Y>
-          </Point>
-          <Point>
-            <X>0.0439636385186945</X>
-            <Y>-0.0419960157852652</Y>
-          </Point>
-          <Point>
-            <X>0.0439636399901943</X>
-            <Y>-0.0392992031903451</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GFMPNM---------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0425780509797022</X>
-            <Y>-0.0575292127783556</Y>
-          </Point>
-          <Point>
-            <X>0.0425780529494263</X>
-            <Y>-0.0548324001834356</Y>
-          </Point>
-          <Point>
-            <X>0.0425780571777491</X>
-            <Y>-0.0485398374619555</Y>
-          </Point>
-          <Point>
-            <X>0.0425780588323018</X>
-            <Y>-0.0458430248670355</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GFMPNM---------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0424427814419165</X>
-            <Y>-0.0573484466508592</Y>
-          </Point>
-          <Point>
-            <X>0.0424427833990652</X>
-            <Y>-0.0546516340559392</Y>
-          </Point>
-          <Point>
-            <X>0.0424427875992137</X>
-            <Y>-0.0483590713344591</Y>
-          </Point>
-          <Point>
-            <X>0.0424427892421923</X>
-            <Y>-0.0456622587395391</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1429,6 +925,27 @@
           <Point>
             <X>0.0853365683107301</X>
             <Y>-0.0121785030505945</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GFMPNM---------"/&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0091123894468377</X>
+            <Y>-0.0295490422323582</Y>
+          </Point>
+          <Point>
+            <X>0.0091123896584412</X>
+            <Y>-0.0268522296374382</Y>
+          </Point>
+          <Point>
+            <X>0.0091123900734888</X>
+            <Y>-0.0205596669159581</Y>
+          </Point>
+          <Point>
+            <X>0.0091123902176405</X>
+            <Y>-0.0178628543210381</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1835,48 +1352,6 @@
         <MssStringXML>&lt;Symbol ID="GFMPNM---------"/&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.0554777833199852</X>
-            <Y>-0.0467057341423209</Y>
-          </Point>
-          <Point>
-            <X>0.0554777853920252</X>
-            <Y>-0.0440089215474009</Y>
-          </Point>
-          <Point>
-            <X>0.0554777897476846</X>
-            <Y>-0.0377163588259208</Y>
-          </Point>
-          <Point>
-            <X>0.0554777914090669</X>
-            <Y>-0.0350195462310008</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GFMPNM---------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0555999833388269</X>
-            <Y>-0.0465788874347909</Y>
-          </Point>
-          <Point>
-            <X>0.0555999854096236</X>
-            <Y>-0.0438820748398709</Y>
-          </Point>
-          <Point>
-            <X>0.0555999897613264</X>
-            <Y>-0.0375895121183908</Y>
-          </Point>
-          <Point>
-            <X>0.0555999914205607</X>
-            <Y>-0.0348926995234708</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GFMPNM---------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
             <X>0.0583332023498153</X>
             <Y>-0.0390541421064716</Y>
           </Point>
@@ -2024,27 +1499,6 @@
         <MssStringXML>&lt;Symbol ID="GFMPNM---------"/&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.0262697503237026</X>
-            <Y>-0.0944888863239018</Y>
-          </Point>
-          <Point>
-            <X>0.0262697523384765</X>
-            <Y>-0.0917920737289818</Y>
-          </Point>
-          <Point>
-            <X>0.0262697568127525</X>
-            <Y>-0.0854995110075017</Y>
-          </Point>
-          <Point>
-            <X>0.0262697586330723</X>
-            <Y>-0.0828026984125817</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GFMPNM---------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
             <X>0.02659902271203</X>
             <Y>-0.0934408329679401</Y>
           </Point>
@@ -2084,170 +1538,44 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHMPNM---------"/&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="GFMPNM---------"/&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.0699413575109207</X>
-            <Y>-0.069190518796628</Y>
+            <X>0.0262697503237026</X>
+            <Y>-0.0944888863239018</Y>
           </Point>
           <Point>
-            <X>0.0699413614181161</X>
-            <Y>-0.066493706201708</Y>
+            <X>0.0262697523384765</X>
+            <Y>-0.0917920737289818</Y>
           </Point>
           <Point>
-            <X>0.0699413699308985</X>
-            <Y>-0.060201143480228</Y>
+            <X>0.0262697568127525</X>
+            <Y>-0.0854995110075017</Y>
           </Point>
           <Point>
-            <X>0.0699413733203737</X>
-            <Y>-0.0575043308853079</Y>
+            <X>0.0262697586330723</X>
+            <Y>-0.0828026984125817</Y>
           </Point>
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHMPNM---------"/&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="GFMPNM---------"/&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.0631003620068499</X>
-            <Y>-0.0693022746732469</Y>
+            <X>0.0218434158680335</X>
+            <Y>-0.0955538422235086</Y>
           </Point>
           <Point>
-            <X>0.0631003655376875</X>
-            <Y>-0.0666054620783269</Y>
+            <X>0.0218434175624822</X>
+            <Y>-0.0928570296285886</Y>
           </Point>
           <Point>
-            <X>0.06310037323138</X>
-            <Y>-0.0603128993568468</Y>
+            <X>0.0218434213275581</X>
+            <Y>-0.0865644669071085</Y>
           </Point>
           <Point>
-            <X>0.0631003762951359</X>
-            <Y>-0.0576160867619268</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHMPNM---------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0629109014194009</X>
-            <Y>-0.0694289985730597</Y>
-          </Point>
-          <Point>
-            <X>0.0629109049462018</X>
-            <Y>-0.0667321859781397</Y>
-          </Point>
-          <Point>
-            <X>0.0629109126321114</X>
-            <Y>-0.0604396232566596</Y>
-          </Point>
-          <Point>
-            <X>0.062910915693233</X>
-            <Y>-0.0577428106617396</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHMPNM---------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0630312581906857</X>
-            <Y>-0.0685831859563517</Y>
-          </Point>
-          <Point>
-            <X>0.0630312616803341</X>
-            <Y>-0.0658863733614316</Y>
-          </Point>
-          <Point>
-            <X>0.063031269278515</X>
-            <Y>-0.0595938106399516</Y>
-          </Point>
-          <Point>
-            <X>0.0630312723015932</X>
-            <Y>-0.0568969980450315</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHMPNM---------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0630973951348524</X>
-            <Y>-0.0687655169855233</Y>
-          </Point>
-          <Point>
-            <X>0.0630973986376358</X>
-            <Y>-0.0660687043906032</Y>
-          </Point>
-          <Point>
-            <X>0.0630974062658938</X>
-            <Y>-0.0597761416691232</Y>
-          </Point>
-          <Point>
-            <X>0.0630974093016174</X>
-            <Y>-0.0570793290742031</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHMPNM---------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0628645145021747</X>
-            <Y>-0.0686912545269931</Y>
-          </Point>
-          <Point>
-            <X>0.0628645179881857</X>
-            <Y>-0.0659944419320731</Y>
-          </Point>
-          <Point>
-            <X>0.0628645255793195</X>
-            <Y>-0.0597018792105931</Y>
-          </Point>
-          <Point>
-            <X>0.0628645285999945</X>
-            <Y>-0.057005066615673</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHMPNM---------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0629269542078897</X>
-            <Y>-0.0688738349292761</Y>
-          </Point>
-          <Point>
-            <X>0.0629269577068239</X>
-            <Y>-0.066177022334356</Y>
-          </Point>
-          <Point>
-            <X>0.0629269653275725</X>
-            <Y>-0.059884459612876</Y>
-          </Point>
-          <Point>
-            <X>0.0629269683607084</X>
-            <Y>-0.0571876470179559</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GHMPNM---------"/&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0659323597549998</X>
-            <Y>-0.0686200274174775</Y>
-          </Point>
-          <Point>
-            <X>0.0659323634072642</X>
-            <Y>-0.0659232148225574</Y>
-          </Point>
-          <Point>
-            <X>0.0659323713598292</X>
-            <Y>-0.0596306521010774</Y>
-          </Point>
-          <Point>
-            <X>0.0659323745240489</X>
-            <Y>-0.0569338395061573</Y>
+            <X>0.0218434228603174</X>
+            <Y>-0.0838676543121885</Y>
           </Point>
         </PointList>
       </MilXGraphic>

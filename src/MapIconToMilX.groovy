@@ -5,7 +5,17 @@ import groovy.json.StringEscapeUtils
  */
 
 class MapIconToMilX {
+
+    static flagScorchedCheck (flag){
+        def symbolStatus = "P"
+        if (flag == 16 || flag == 17){
+            symbolStatus = "X"
+        }
+        return symbolStatus
+    }
+
     static getAiRangesFromAPI(mapItem, factions = true){
+        def s = flagScorchedCheck(mapItem.flags)
         if([35,45,46,47, 53, 56,57,58].contains(mapItem.iconType)){
             def fillStyle = "bsSolidGS"
             def transparency = "90"
@@ -14,17 +24,17 @@ class MapIconToMilX {
                 transparency = "50"
             }
             if(mapItem.teamId == "WARDENS" && factions){
-                return "<Symbol ID=\"GF9PAC---------\">" +
+                return "<Symbol ID=\"GF9$s"+"AC---------\">" +
                         "<Attribute ID=\"XM\"><Line Width=\"20\" Color=\"\$00C07000\"/><Fill Color=\"\$0C07000\" StyleEx=\"$fillStyle\" Transparency=\"$transparency\"/><Text Color=\"\$0C07000\"/></Attribute>" +
                         "</Symbol>"
             }
             if(mapItem.teamId == "COLONIALS" && factions){
-                return "<Symbol ID=\"GF9PAC---------\">" +
+                return "<Symbol ID=\"GF9$s"+"AC---------\">" +
                         "<Attribute ID=\"XM\"><Line Width=\"20\" Color=\"clRed\"/><Fill Color=\"clRed\" StyleEx=\"$fillStyle\" Transparency=\"$transparency\"/><Text Color=\"clRed\"/></Attribute>" +
                         "</Symbol>"
             }
             else{
-                return "<Symbol ID=\"GF9PAC---------\">" +
+                return "<Symbol ID=\"GF9$s"+"AC---------\">" +
                         "<Attribute ID=\"XM\"><Line Width=\"20\" Color=\"\$0000FE00\"/><Fill Color=\"\$0000FE00\" StyleEx=\"$fillStyle\" Transparency=\"$transparency\"/><Text Color=\"\$0000FE00\"/></Attribute>" +
                         "</Symbol>"
             }
@@ -32,35 +42,36 @@ class MapIconToMilX {
     }
 
     static getResourceNodeNoBuild(mapItem){
+        def s = flagScorchedCheck(mapItem.flags)
         def returnArray = []
         if(mapItem.iconType == 20){ //Salvage Field
-            returnArray.add("<Symbol ID=\"SUGPU---------G\"><Attribute ID=\"AA\">Sa</Attribute></Symbol>")
+            returnArray.add("<Symbol ID=\"SUG$s"+"U---------G\"><Attribute ID=\"AA\">Sa</Attribute></Symbol>")
         }
         if(mapItem.iconType == 21){ //Component Field
-            returnArray.add("<Symbol ID=\"SUGPU---------G\"><Attribute ID=\"AA\">C</Attribute></Symbol>")
+            returnArray.add("<Symbol ID=\"SUG$s"+"U---------G\"><Attribute ID=\"AA\">C</Attribute></Symbol>")
         }
         if(mapItem.iconType == 23){ //Sulfur Field
-            returnArray.add("<Symbol ID=\"SUGPU---------G\"><Attribute ID=\"AA\">Su</Attribute></Symbol>")
+            returnArray.add("<Symbol ID=\"SUG$s"+"U---------G\"><Attribute ID=\"AA\">Su</Attribute></Symbol>")
         }
         if(mapItem.iconType == 32){ //Sulfur Mine
-            return "<Symbol ID=\"SUGPU-----H---G\"><Attribute ID=\"AA\">Su</Attribute></Symbol>"
+            return "<Symbol ID=\"SUG$s"+"U-----H---G\"><Attribute ID=\"AA\">Su</Attribute></Symbol>"
         }
         if(mapItem.iconType == 38){ //Salvage Mine
-            return "<Symbol ID=\"SUGPU-----H---G\"><Attribute ID=\"AA\">Sa</Attribute></Symbol>"
+            return "<Symbol ID=\"SUG$s"+"U-----H---G\"><Attribute ID=\"AA\">Sa</Attribute></Symbol>"
         }
         if(mapItem.iconType == 40){ //Component Mine
-            return "<Symbol ID=\"SUGPU-----H---G\"><Attribute ID=\"AA\">C</Attribute></Symbol>"
+            return "<Symbol ID=\"SUG$s"+"U-----H---G\"><Attribute ID=\"AA\">C</Attribute></Symbol>"
         }
 
         if(mapItem.iconType == 41){ //Oil Well
-            return "<Symbol ID=\"SUGPU-----H---G\"><Attribute ID=\"AA\">Oil</Attribute></Symbol>"
+            return "<Symbol ID=\"SUG$s"+"U-----H---G\"><Attribute ID=\"AA\">Oil</Attribute></Symbol>"
         }
         if([20,21,23].contains(mapItem.iconType)){
             returnArray.add( "<Symbol ID=\"GF9PAC---------\">" +
                     "<Attribute ID=\"XM\"><Line Width=\"20\" Color=\"\$0000FE00\"/><Fill Color=\"\$0000FE00\" StyleEx=\"bsSolidGS\" Transparency=\"90\"/><Text Color=\"\$0000FE00\"/></Attribute>" +
                     "</Symbol>")
         }
-         return returnArray
+        return returnArray
     }
 
     static getStormCannonRangesFromAPI(mapItem, factions =  true){
@@ -294,28 +305,28 @@ class MapIconToMilX {
             if(mapItem.teamId == "COLONIALS" && factions){
                 return "<Symbol ID=\"SHGPEWD--------\"/>"
             }
-            else{
+            else {
                 return "<Symbol ID=\"SNGPEWD--------\"/>"
             }
         }
         if(mapItem.iconType == 56){ //Town Hall 1
             if(mapItem.teamId == "WARDENS" && factions){
                 if(mapItem.flags == 41){
-                    return "<Symbol ID=\"EFF-F----------\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
+                    return "<Symbol ID=\"EFFPF----------\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
                 } else {
                     return "<Symbol ID=\"SFGPIG----H----\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
                 }
             }
             if(mapItem.teamId == "COLONIALS" && factions){
                 if(mapItem.flags == 41){
-                    return "<Symbol ID=\"EHF-F----------\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
+                    return "<Symbol ID=\"EHFPF----------\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
                 } else {
                     return "<Symbol ID=\"SHGPIG----H----\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
                 }
             }
             else{
-                if(mapItem.flags == 41){
-                    return "<Symbol ID=\"ENF-F----------\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
+                if(mapItem.flags == 41 || mapItem.flags == 17){
+                    return "<Symbol ID=\"ENFPF----------\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
                 } else {
                     return "<Symbol ID=\"SNGPIG----H----\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
                 }
@@ -325,21 +336,21 @@ class MapIconToMilX {
             if(mapItem.teamId == "WARDENS" && factions){
                 if(mapItem.teamId == "WARDENS" && factions){
                     if(mapItem.flags == 41){
-                        return "<Symbol ID=\"EFF-F----------\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
+                        return "<Symbol ID=\"EFFPF----------\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
                     } else {
                         return "<Symbol ID=\"SFGPIG----H----\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
                     }
                 }
                 if(mapItem.teamId == "COLONIALS" && factions){
                     if(mapItem.flags == 41){
-                        return "<Symbol ID=\"EHF-F----------\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
+                        return "<Symbol ID=\"EHFPF----------\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
                     } else {
                         return "<Symbol ID=\"SHGPIG----H----\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
                     }
                 }
                 else{
-                    if(mapItem.flags == 41){
-                        return "<Symbol ID=\"ENF-F----------\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
+                    if(mapItem.flags == 41 || mapItem.flags == 17){
+                        return "<Symbol ID=\"ENFPF----------\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
                     } else {
                         return "<Symbol ID=\"SNGPIG----H----\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
                     }
@@ -349,21 +360,21 @@ class MapIconToMilX {
         if(mapItem.iconType == 58){ //Town Hall 3
             if(mapItem.teamId == "WARDENS" && factions){
                 if(mapItem.flags == 41){
-                    return "<Symbol ID=\"EFF-F----------\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
+                    return "<Symbol ID=\"EFFPF----------\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
                 } else {
                     return "<Symbol ID=\"SFGPIG----H----\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
                 }
             }
             if(mapItem.teamId == "COLONIALS" && factions){
                 if(mapItem.flags == 41){
-                    return "<Symbol ID=\"EHF-F----------\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
+                    return "<Symbol ID=\"EHFPF----------\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
                 } else {
                     return "<Symbol ID=\"SHGPIG----H----\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
                 }
             }
             else{
-                if(mapItem.flags == 41){
-                    return "<Symbol ID=\"ENF-F----------\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
+                if(mapItem.flags == 41 || mapItem.flags == 17){
+                    return "<Symbol ID=\"ENFPF----------\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
                 } else {
                     return "<Symbol ID=\"SNGPIG----H----\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
                 }
