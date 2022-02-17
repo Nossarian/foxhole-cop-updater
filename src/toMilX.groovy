@@ -18,21 +18,36 @@ class toMilX {
         println("Hex Height: " + MapRegions.k)
         println("Map Height: " + MapRegions.k*7)
         println("Map Origin: " + MapRegions.mapOrigin)
-        println("Overwriting Permanent Structures.milxly")
-        File output = new File("../milxOut/Permanent Structures.milxly")
-        File resourcesLayer =  new File("../milxOut/Resources.milxly")
-        File aiLayer = new File("../milxOut/AILayer.milxly")
-        File scRanges = new File("../milxOut/SCRanges.milxly")
+        def warNum = getApiAsJson('https://war-service-live.foxholeservices.com/api/worldconquest/war').warNumber
+        def timestamp = new Date().format("dd-MM-yyyy HH.mm.ss")
+        def directoryName = "../War $warNum milxOut_" + timestamp
+        File directory = new File(directoryName)
+        if(!directory.exists()){
+            directory.mkdir()
+        }
+        println(directory.absolutePath)
+        File output = new File("./$directoryName/Permanent Structures.milxly")
+        File resourcesLayer =  new File("./$directoryName/Resources.milxly")
+        File aiLayer = new File("./$directoryName/AILayer.milxly")
+        File scRanges = new File("./$directoryName/SCRanges.milxly")
+        File basePins = new File("./$directoryName/Base Pins.milxly")
         println(output.absolutePath)
         println(resourcesLayer.absolutePath)
         println(aiLayer.absolutePath)
         println(scRanges.absolutePath)
+        println(basePins.absolutePath)
         println(System.getProperty("java.class.path"))
         println(args)
-        output.text = generateMilX(args[0].toBoolean())
-        resourcesLayer.text = generateResourceNodes(args[1].toBoolean())
-        aiLayer.text = generateAIRanges(args[2].toBoolean(), args[0].toBoolean())
-        scRanges.text = generateSCRanges(args[3].toBoolean(), args[0].toBoolean())
+        def apiArr = generateApi()
+        output.text = generateMilX(apiArr,args[0].toBoolean())
+        resourcesLayer.text = generateResourceNodes(apiArr,args[1].toBoolean())
+        aiLayer.text = generateAIRanges(apiArr,args[2].toBoolean(), args[0].toBoolean())
+        scRanges.text = generateSCRanges(apiArr,args[3].toBoolean(), args[0].toBoolean())
+        basePins.text = generateBasePins(apiArr,args[4].toBoolean())
+//                output.text = generateMilX(true)
+//        resourcesLayer.text = generateResourceNodes(true)
+//        aiLayer.text = generateAIRanges(true, true)
+//        scRanges.text = generateSCRanges(true, true)
         def date = new Date()
         def sdf = new SimpleDateFormat("MM/dd/yyyy hh:mm:ss:ms")
         println(sdf.format(date))
@@ -40,9 +55,24 @@ class toMilX {
 
     static siegeCampGet = 'https://war-service-live.foxholeservices.com/api'
 
-    static generateMilX(factions = true) {
-        println("Including Faction Colors: $factions")
+    static generateApi(){
+        def result = []
         def mapList = getApiAsJson(siegeCampGet + "/worldconquest/maps")
+        mapList.each {hex ->
+            def hexMap = [:]
+            def staticMapItems = getApiAsJson(siegeCampGet + "/worldconquest/maps/$hex/static")
+            def mapItems = getApiAsJson(siegeCampGet + "/worldconquest/maps/$hex/dynamic/public")
+            def regionId = mapItems.regionId
+            hexMap.put("staticMapItems", staticMapItems)
+            hexMap.put("mapItems", mapItems)
+            hexMap.put("regionId", regionId)
+            result.add(hexMap)
+        }
+        return result
+    }
+
+    static generateMilX(apiArr,factions = true) {
+        println("Including Faction Colors: $factions")
         def parser = new XmlParser()
         def writer  = new StringWriter()
         def xml = new MarkupBuilder(writer)
@@ -63,20 +93,44 @@ class toMilX {
         }
         def MilXLayerDocument = parser.parseText(writer.toString())
 
-        mapList.each{ hex ->
-            def staticMapItems = getApiAsJson(siegeCampGet + "/worldconquest/maps/$hex/static")
-            def mapItems = getApiAsJson(siegeCampGet + "/worldconquest/maps/$hex/dynamic/public")
-            def regionId = mapItems.regionId
-            addMilXGraphic(staticMapItems, mapItems, MilXLayerDocument, regionId, factions)
+        apiArr.each{ hex ->
+            addMilXGraphic(hex.staticMapItems, hex.mapItems, MilXLayerDocument, hex.regionId, factions)
+        }
+
+        return XmlUtil.serialize(MilXLayerDocument)
+    }
+    static generateBasePins(apiArr, Boolean pins) {
+        println("Including Base Pins: $pins")
+        def parser = new XmlParser()
+        def writer  = new StringWriter()
+        def xml = new MarkupBuilder(writer)
+        xml.mkp.xmlDeclaration([version:'1.0', encoding:'UTF-8', standalone:'no'])
+        xml.MilXDocument_Layer(
+                xmlns: "http://gs-soft.com/MilX/V3.1"
+        ) {
+            MssLibraryVersionTag('2021.04.20')
+            MilXLayer() {
+                Name('Base Pins')
+                LayerType('Normal')
+                GraphicList() {
+
+                }
+                CoordSystemType('WGS84')
+                ViewScale('0.1')
+            }
+        }
+        def MilXLayerDocument = parser.parseText(writer.toString())
+
+        apiArr.each{ hex ->
+            addMilXBasePins(hex.staticMapItems, hex.mapItems, MilXLayerDocument, hex.regionId)
         }
 
         return XmlUtil.serialize(MilXLayerDocument)
     }
 
-    static generateAIRanges(aiRanges = false, factions = true){
+    static generateAIRanges(apiArr,aiRanges = false, factions = true){
         if(aiRanges){
             println("Including AI Ranges: $aiRanges")
-            def mapList = getApiAsJson(siegeCampGet + "/worldconquest/maps")
             def parser = new XmlParser()
             def writer  = new StringWriter()
             def xml = new MarkupBuilder(writer)
@@ -97,19 +151,16 @@ class toMilX {
             }
             def MilXLayerDocument = parser.parseText(writer.toString())
 
-            mapList.each{ hex ->
-                def mapItems = getApiAsJson(siegeCampGet + "/worldconquest/maps/$hex/dynamic/public")
-                def regionId = mapItems.regionId
-                addMilXAIRange(mapItems, MilXLayerDocument, regionId, factions)
+            apiArr.each{ hex ->
+                addMilXAIRange(hex.mapItems, MilXLayerDocument, hex.regionId, factions)
             }
 
             return XmlUtil.serialize(MilXLayerDocument)
         }
     }
-    static generateSCRanges(scRanges = false, factions = true){
+    static generateSCRanges(apiArr,scRanges = false, factions = true){
         if(scRanges){
             println("Including SC Ranges: $scRanges")
-            def mapList = getApiAsJson(siegeCampGet + "/worldconquest/maps")
             def parser = new XmlParser()
             def writer  = new StringWriter()
             def xml = new MarkupBuilder(writer)
@@ -130,20 +181,17 @@ class toMilX {
             }
             def MilXLayerDocument = parser.parseText(writer.toString())
 
-            mapList.each{ hex ->
-                def mapItems = getApiAsJson(siegeCampGet + "/worldconquest/maps/$hex/dynamic/public")
-                def regionId = mapItems.regionId
-                addStormCannonRanges(mapItems, MilXLayerDocument, regionId, [300,1000,1300], factions)
+            apiArr.each{ hex ->
+                addStormCannonRanges(hex.mapItems, MilXLayerDocument, hex.regionId, [300,1000,1300], factions)
             }
 
             return XmlUtil.serialize(MilXLayerDocument)
         }
     }
 
-    static generateResourceNodes(resources = false){
+    static generateResourceNodes(apiArr,resources = false){
         if(resources){
             println("Including Resources: $resources")
-            def mapList = getApiAsJson(siegeCampGet + "/worldconquest/maps")
             def parser = new XmlParser()
             def writer  = new StringWriter()
             def xml = new MarkupBuilder(writer)
@@ -164,10 +212,8 @@ class toMilX {
             }
             def MilXLayerDocument = parser.parseText(writer.toString())
 
-            mapList.each{ hex ->
-                def mapItems = getApiAsJson(siegeCampGet + "/worldconquest/maps/$hex/dynamic/public")
-                def regionId = mapItems.regionId
-                addMilXResources(mapItems, MilXLayerDocument, regionId, resources)
+            apiArr.each{ hex ->
+                addMilXResources(hex.mapItems, MilXLayerDocument, hex.regionId, resources)
             }
 
             return XmlUtil.serialize(MilXLayerDocument)
@@ -389,6 +435,53 @@ class toMilX {
                 }
             }
         }
+    }
+
+    static addMilXBasePins (staticMapItems, mapItems, documentLayer, regionId){
+        def xMod =0.9995244413
+        def yMod =0.9988194796
+        mapItems.mapItems.each { mapItem ->
+            def MssStringXML = MapIconToMilX.getBasePins(mapItem, MapRegions.findClosest(staticMapItems, mapItem))
+            if (MssStringXML) {
+                def x = mapItem.x
+                def y = mapItem.y
+                def latLong = MapRegions.fullConvert(regionId, x, y)
+
+                DecimalFormat formatter = new DecimalFormat("#.################")
+                latLong.lon = formatter.format(latLong.lon * xMod)
+                latLong.lat = formatter.format(latLong.lat * yMod)
+
+                documentLayer.value()[1].value()[2].appendNode(
+                        "MilXGraphic",
+                        [:]
+                )
+                def size = documentLayer.value()[1].value()[2].value().size()
+                documentLayer.value()[1].value()[2].value()[size - 1].appendNode(
+                        "MssStringXML",
+                        [:],
+                        MssStringXML
+                )
+                documentLayer.value()[1].value()[2].value()[size - 1].appendNode(
+                        "PointList",
+                        [:]
+                )
+                documentLayer.value()[1].value()[2].value()[size - 1].value()[1].appendNode(
+                        "Point",
+                        [:]
+                )
+                documentLayer.value()[1].value()[2].value()[size - 1].value()[1].value()[0].appendNode(
+                        "X",
+                        [:],
+                        latLong.lon
+                )
+                documentLayer.value()[1].value()[2].value()[size - 1].value()[1].value()[0].appendNode(
+                        "Y",
+                        [:],
+                        latLong.lat
+                )
+            }
+        }
+
     }
 
     static addMilXGraphic (staticMapItems, mapItems, documentLayer, regionId, factions){
