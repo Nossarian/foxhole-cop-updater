@@ -20,10 +20,10 @@ class toMilX {
         println("Map Origin: " + MapRegions.mapOrigin)
         def warNum = getApiAsJson('https://war-service-live.foxholeservices.com/api/worldconquest/war').warNumber
         def timestamp = new Date().format("dd-MM-yyyy HH.mm.ss")
-        def directoryName = "../War $warNum milxOut_" + timestamp
+        def directoryName = "../War $warNum/milxOut_" + timestamp
         File directory = new File(directoryName)
         if(!directory.exists()){
-            directory.mkdir()
+            directory.mkdirs()
         }
         println(directory.absolutePath)
         File output = new File("./$directoryName/Permanent Structures.milxly")
