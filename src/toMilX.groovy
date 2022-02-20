@@ -31,29 +31,33 @@ class toMilX {
         File aiLayer = new File("./$directoryName/AILayer.milxly")
         File scRanges = new File("./$directoryName/SCRanges.milxly")
         File basePins = new File("./$directoryName/Base Pins.milxly")
+        File rdzExceptions = new File("./$directoryName/RDZ Exceptions.milxly")
         println(output.absolutePath)
         println(resourcesLayer.absolutePath)
         println(aiLayer.absolutePath)
         println(scRanges.absolutePath)
         println(basePins.absolutePath)
+        println(rdzExceptions.absolutePath)
         println(System.getProperty("java.class.path"))
         println(args)
         def apiArr = generateApi()
         output.text = generateMilX(apiArr,args[0].toBoolean())
         resourcesLayer.text = generateResourceNodes(apiArr,args[1].toBoolean())
+        rdzExceptions.text = generateRdzExceptions(apiArr)
         aiLayer.text = generateAIRanges(apiArr,args[2].toBoolean(), args[0].toBoolean())
         scRanges.text = generateSCRanges(apiArr,args[3].toBoolean(), args[0].toBoolean())
         basePins.text = generateBasePins(apiArr,args[4].toBoolean())
-//                output.text = generateMilX(true)
-//        resourcesLayer.text = generateResourceNodes(true)
-//        aiLayer.text = generateAIRanges(true, true)
-//        scRanges.text = generateSCRanges(true, true)
+//                output.text = generateMilX(apiArr,true)
+//        resourcesLayer.text = generateResourceNodes(apiArr,true)
+//        aiLayer.text = generateAIRanges(apiArr,true, true)
+//        scRanges.text = generateSCRanges(apiArr,true, true)
         def date = new Date()
         def sdf = new SimpleDateFormat("MM/dd/yyyy hh:mm:ss:ms")
         println(sdf.format(date))
     }
 
     static siegeCampGet = 'https://war-service-live.foxholeservices.com/api'
+    static DecimalFormat formatter = new DecimalFormat("#.###############################")
 
     static generateApi(){
         def result = []
@@ -67,6 +71,12 @@ class toMilX {
             hexMap.put("mapItems", mapItems)
             hexMap.put("regionId", regionId)
             result.add(hexMap)
+//            println(hex)
+//            staticMapItems.mapTextItems.each{it ->
+//                if(it.mapMarkerType.toString() == "Major"){
+//                    println(it.text)
+//                }
+//            }
         }
         return result
     }
@@ -158,6 +168,36 @@ class toMilX {
             return XmlUtil.serialize(MilXLayerDocument)
         }
     }
+    static generateRdzExceptions(apiArr, rdzException = true){
+        if(rdzException){
+            println("Including RDZ Exceptions: $rdzException")
+            def parser = new XmlParser()
+            def writer  = new StringWriter()
+            def xml = new MarkupBuilder(writer)
+            xml.mkp.xmlDeclaration([version:'1.0', encoding:'UTF-8', standalone:'no'])
+            xml.MilXDocument_Layer(
+                    xmlns: "http://gs-soft.com/MilX/V3.1"
+            ) {
+                MssLibraryVersionTag('2021.04.20')
+                MilXLayer() {
+                    Name('RDZ Exceptions')
+                    LayerType('Normal')
+                    GraphicList() {
+
+                    }
+                    CoordSystemType('WGS84')
+                    ViewScale('0.1')
+                }
+            }
+            def MilXLayerDocument = parser.parseText(writer.toString())
+
+            apiArr.each{ hex ->
+                addMilXRDZExceptionRange(hex.mapItems, MilXLayerDocument, hex.regionId)
+            }
+
+            return XmlUtil.serialize(MilXLayerDocument)
+        }
+    }
     static generateSCRanges(apiArr,scRanges = false, factions = true){
         if(scRanges){
             println("Including SC Ranges: $scRanges")
@@ -240,7 +280,6 @@ class toMilX {
                         def y = mapItem.y
                         def latLong = MapRegions.fullConvert(regionId, x, y)
 
-                        DecimalFormat formatter = new DecimalFormat("#.################")
                         latLong.lon = formatter.format(latLong.lon * xMod)
                         latLong.lat = formatter.format(latLong.lat * yMod)
 
@@ -298,6 +337,83 @@ class toMilX {
         }
 
     }
+    static addMilXRDZExceptionRange(mapItems, documentLayer, regionId){
+        def xMod =0.9995244413
+        def yMod =0.9988194796
+        def radius = 55
+        mapItems.mapItems.each { mapItem ->
+            def MssStringXML = MapIconToMilX.getRdzExceptionSymbolsFromAPI(mapItem)
+            if (MssStringXML) {
+                def x = mapItem.x
+                def y = mapItem.y
+                def iconTypeKeyRadiusValue = [
+                        [33:63],
+                        [35:63],
+                        [45:58],
+                        [46:60],
+                        [47:62],
+                        [56:50],//presumed TB
+                        [57:50],//presumed TB
+                        [58:50]//presumed TB
+                ]
+                def mapResult = iconTypeKeyRadiusValue.find{it.key == mapItem.iconType}
+                if( mapResult != null && mapResult > 0){
+                    radius = mapResult.value
+                }
+                def latLong = MapRegions.fullConvert(regionId, x, y)
+
+                latLong.lon = formatter.format(latLong.lon * xMod)
+                latLong.lat = formatter.format(latLong.lat * yMod)
+
+                documentLayer.value()[1].value()[2].appendNode(
+                        "MilXGraphic",
+                        [:]
+                )
+                def size = documentLayer.value()[1].value()[2].value().size()
+                documentLayer.value()[1].value()[2].value()[size - 1].appendNode(
+                        "MssStringXML",
+                        [:],
+                        MssStringXML
+                )
+                documentLayer.value()[1].value()[2].value()[size - 1].appendNode(
+                        "PointList",
+                        [:]
+                )
+                documentLayer.value()[1].value()[2].value()[size - 1].value()[1].appendNode(
+                        "Point",
+                        [:]
+                )
+                documentLayer.value()[1].value()[2].value()[size - 1].value()[1].value()[0].appendNode(
+                        "X",
+                        [:],
+                        latLong.lon
+                )
+                documentLayer.value()[1].value()[2].value()[size - 1].value()[1].value()[0].appendNode(
+                        "Y",
+                        [:],
+                        latLong.lat
+                )
+                documentLayer.value()[1].value()[2].value()[size - 1].appendNode(
+                        "LocationAttributeList",
+                        [:]
+                )
+                documentLayer.value()[1].value()[2].value()[size - 1].value()[2].appendNode(
+                        "LocationAttribute",
+                        [:]
+                )
+                documentLayer.value()[1].value()[2].value()[size - 1].value()[2].value()[0].appendNode(
+                        "AttrType",
+                        [:],
+                        "Radius"
+                )
+                documentLayer.value()[1].value()[2].value()[size - 1].value()[2].value()[0].appendNode(
+                        "Value",
+                        [:],
+                        radius
+                )
+            }
+        }
+    }
 
     static addMilXAIRange(mapItems, documentLayer, regionId, factions = true){
         def xMod =0.9995244413
@@ -315,7 +431,6 @@ class toMilX {
                 }
                 def latLong = MapRegions.fullConvert(regionId, x, y)
 
-                DecimalFormat formatter = new DecimalFormat("#.################")
                 latLong.lon = formatter.format(latLong.lon * xMod)
                 latLong.lat = formatter.format(latLong.lat * yMod)
 
@@ -378,8 +493,7 @@ class toMilX {
                 def x = mapItem.x
                 def y = mapItem.y
                 def latLong = MapRegions.fullConvert(regionId, x, y)
-
-                DecimalFormat formatter = new DecimalFormat("#.################")
+\
                 latLong.lon = formatter.format(latLong.lon * xMod)
                 latLong.lat = formatter.format(latLong.lat * yMod)
 
@@ -446,8 +560,7 @@ class toMilX {
                 def x = mapItem.x
                 def y = mapItem.y
                 def latLong = MapRegions.fullConvert(regionId, x, y)
-
-                DecimalFormat formatter = new DecimalFormat("#.################")
+\
                 latLong.lon = formatter.format(latLong.lon * xMod)
                 latLong.lat = formatter.format(latLong.lat * yMod)
 
@@ -493,8 +606,7 @@ class toMilX {
                 def x = mapItem.x
                 def y = mapItem.y
                 def latLong = MapRegions.fullConvert(regionId, x, y)
-
-                DecimalFormat formatter = new DecimalFormat("#.################")
+\
                 latLong.lon = formatter.format(latLong.lon * xMod)
                 latLong.lat = formatter.format(latLong.lat * yMod)
 
