@@ -348,26 +348,24 @@ class MapIconToMilX {
         }
         if(mapItem.iconType == 57){ //Town Hall 2
             if(mapItem.teamId == "WARDENS" && factions){
-                if(mapItem.teamId == "WARDENS" && factions){
-                    if(mapItem.flags == 41){
-                        return "<Symbol ID=\"EFF$s"+"F----------\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
-                    } else {
-                        return "<Symbol ID=\"SFG$s"+"U------C--G\"><Attribute ID=\"T\">$nearestText</Attribute><Attribute ID=\"AA\">GOV</Attribute></Symbol>"
-                    }
+                if(mapItem.flags == 41){
+                    return "<Symbol ID=\"EFF$s"+"F----------\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
+                } else {
+                    return "<Symbol ID=\"SFG$s"+"U------C--G\"><Attribute ID=\"T\">$nearestText</Attribute><Attribute ID=\"AA\">GOV</Attribute></Symbol>"
                 }
-                if(mapItem.teamId == "COLONIALS" && factions){
-                    if(mapItem.flags == 41){
-                        return "<Symbol ID=\"EHF$s"+"F----------\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
-                    } else {
-                        return "<Symbol ID=\"SHG$s"+"U------C--G\"><Attribute ID=\"T\">$nearestText</Attribute><Attribute ID=\"AA\">GOV</Attribute></Symbol>"
-                    }
+            }
+            if(mapItem.teamId == "COLONIALS" && factions){
+                if(mapItem.flags == 41){
+                    return "<Symbol ID=\"EHF$s"+"F----------\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
+                } else {
+                    return "<Symbol ID=\"SHG$s"+"U------C--G\"><Attribute ID=\"T\">$nearestText</Attribute><Attribute ID=\"AA\">GOV</Attribute></Symbol>"
                 }
-                else{
-                    if(mapItem.flags == 41 || mapItem.flags == 17){
-                        return "<Symbol ID=\"ENF$s"+"F----------\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
-                    } else {
-                        return "<Symbol ID=\"SNG$s"+"U------C--G\"><Attribute ID=\"T\">$nearestText</Attribute><Attribute ID=\"AA\">GOV</Attribute></Symbol>"
-                    }
+            }
+            else{
+                if(mapItem.flags == 41 || mapItem.flags == 17){
+                    return "<Symbol ID=\"ENF$s"+"F----------\"><Attribute ID=\"T\">$nearestText</Attribute></Symbol>"
+                } else {
+                    return "<Symbol ID=\"SNG$s"+"U------C--G\"><Attribute ID=\"T\">$nearestText</Attribute><Attribute ID=\"AA\">GOV</Attribute></Symbol>"
                 }
             }
         }
