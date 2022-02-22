@@ -35,6 +35,17 @@ class MapIconToMilX {
         }
     }
     static getTextLabels(staticMapItem){
+        def type = staticMapItem.mapMarkerType
+        if (type == "Minor"){
+            return "<Symbol ID=\"GF9PT----------\"><Attribute ID=\"XM\"><Line Style=\"psClear\"/><Fill Transparency=\"100\"/>" +
+                    "<Text Color=\"clBlack\"/></Attribute><Attribute ID=\"XN\">{\\rtf1\\deff0{\\fonttbl{\\f0 Times New Roman;}}" +
+                    "\\pard\\plain\\qc{\\fs16\\cf0 $staticMapItem.text}\\par}</Attribute></Symbol>"
+        }
+//        if(type == "Major"){
+//            return "<Symbol ID=\"GF9PT----------\"><Attribute ID=\"XM\"><Line Style=\"psClear\"/><Fill Transparency=\"100\"/>" +
+//                    "<Text Color=\"clBlack\"/></Attribute><Attribute ID=\"XN\">{\\rtf1\\deff0{\\fonttbl{\\f0 Times New Roman;}}" +
+//                    "\\pard\\plain\\qc{\\cf0 $staticMapItem.text}\\par}</Attribute></Symbol>"
+//        }
     }
     static getRdzExceptionSymbolsFromAPI(mapItem, rdzException = false){
         def fc = factionCheck(mapItem, true)

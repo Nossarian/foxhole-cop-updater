@@ -12,7 +12,7 @@ import java.text.SimpleDateFormat
 
 class toMilX {
 
-    static void main(String... args){
+    static void main(String... args = []){
         println("Hex Width: " + MapRegions.w)
         println("Map Width: " + MapRegions.w/2*11)
         println("Hex Height: " + MapRegions.k)
@@ -25,32 +25,41 @@ class toMilX {
         if(!directory.exists()){
             directory.mkdirs()
         }
+        def staticDir = "../Static Layers"
+        File staticLayerDir = new File(staticDir)
+        if(!staticLayerDir.exists()){
+            staticLayerDir.mkdirs()
+        }
         println(directory.absolutePath)
         File output = new File("./$directoryName/Permanent Structures.milxly")
         File resourcesLayer =  new File("./$directoryName/Resources.milxly")
         File aiLayer = new File("./$directoryName/AILayer.milxly")
         File scRanges = new File("./$directoryName/SCRanges.milxly")
-        File basePins = new File("./$directoryName/Base Pins.milxly")
+        File basePins = new File("./$staticLayerDir/Base Pins.milxly")
         File rdzExceptions = new File("./$directoryName/RDZ Exceptions.milxly")
-        println(output.absolutePath)
-        println(resourcesLayer.absolutePath)
-        println(aiLayer.absolutePath)
-        println(scRanges.absolutePath)
-        println(basePins.absolutePath)
-        println(rdzExceptions.absolutePath)
-        println(System.getProperty("java.class.path"))
+        File textLabels = new File("./$staticLayerDir/Text Labels.milxly")
+        println("Writing static layers to: $staticLayerDir.absolutePath")
+        println("Writing dynamic layers to: $directory.absolutePath")
         println(args)
         def apiArr = generateApi()
-        output.text = generateMilX(apiArr,args[0].toBoolean())
-        resourcesLayer.text = generateResourceNodes(apiArr,args[1].toBoolean())
-        rdzExceptions.text = generateRdzExceptions(apiArr)
-        aiLayer.text = generateAIRanges(apiArr,args[2].toBoolean(), args[0].toBoolean())
-        scRanges.text = generateSCRanges(apiArr,args[3].toBoolean(), args[0].toBoolean())
-        basePins.text = generateBasePins(apiArr,args[4].toBoolean())
-//                output.text = generateMilX(apiArr,true)
-//        resourcesLayer.text = generateResourceNodes(apiArr,true)
-//        aiLayer.text = generateAIRanges(apiArr,true, true)
-//        scRanges.text = generateSCRanges(apiArr,true, true)
+        if(args.length != 0){
+            output.text = generateMilX(apiArr,args[0].toBoolean())
+            resourcesLayer.text = generateResourceNodes(apiArr,args[1].toBoolean())
+            rdzExceptions.text = generateRdzExceptions(apiArr)
+            aiLayer.text = generateAIRanges(apiArr,args[2].toBoolean(), args[0].toBoolean())
+            scRanges.text = generateSCRanges(apiArr,args[3].toBoolean(), args[0].toBoolean())
+            basePins.text = generateBasePins(apiArr,args[4].toBoolean())
+        } else {
+            output.text = generateMilX(apiArr,true)
+            resourcesLayer.text = generateResourceNodes(apiArr,true)
+            aiLayer.text = generateAIRanges(apiArr,true, true)
+            scRanges.text = generateSCRanges(apiArr,true, true)
+            textLabels.text = generateTextLabels(apiArr)
+            rdzExceptions.text = generateRdzExceptions(apiArr)
+            basePins.text = generateBasePins(apiArr,true)
+        }
+
+
         def date = new Date()
         def sdf = new SimpleDateFormat("MM/dd/yyyy hh:mm:ss:ms")
         println(sdf.format(date))
@@ -133,6 +142,33 @@ class toMilX {
 
         apiArr.each{ hex ->
             addMilXBasePins(hex.staticMapItems, hex.mapItems, MilXLayerDocument, hex.regionId)
+        }
+
+        return XmlUtil.serialize(MilXLayerDocument)
+    }
+    static generateTextLabels(apiArr) {
+        def parser = new XmlParser()
+        def writer  = new StringWriter()
+        def xml = new MarkupBuilder(writer)
+        xml.mkp.xmlDeclaration([version:'1.0', encoding:'UTF-8', standalone:'no'])
+        xml.MilXDocument_Layer(
+                xmlns: "http://gs-soft.com/MilX/V3.1"
+        ) {
+            MssLibraryVersionTag('2021.04.20')
+            MilXLayer() {
+                Name('Text Labels')
+                LayerType('Normal')
+                GraphicList() {
+
+                }
+                CoordSystemType('WGS84')
+                ViewScale('0.1')
+            }
+        }
+        def MilXLayerDocument = parser.parseText(writer.toString())
+
+        apiArr.each{ hex ->
+            addStaticMapLabels(hex.staticMapItems, MilXLayerDocument, hex.regionId)
         }
 
         return XmlUtil.serialize(MilXLayerDocument)
@@ -493,7 +529,6 @@ class toMilX {
                 def x = mapItem.x
                 def y = mapItem.y
                 def latLong = MapRegions.fullConvert(regionId, x, y)
-\
                 latLong.lon = formatter.format(latLong.lon * xMod)
                 latLong.lat = formatter.format(latLong.lat * yMod)
 
@@ -560,7 +595,51 @@ class toMilX {
                 def x = mapItem.x
                 def y = mapItem.y
                 def latLong = MapRegions.fullConvert(regionId, x, y)
-\
+                latLong.lon = formatter.format(latLong.lon * xMod)
+                latLong.lat = formatter.format(latLong.lat * yMod)
+
+                documentLayer.value()[1].value()[2].appendNode(
+                        "MilXGraphic",
+                        [:]
+                )
+                def size = documentLayer.value()[1].value()[2].value().size()
+                documentLayer.value()[1].value()[2].value()[size - 1].appendNode(
+                        "MssStringXML",
+                        [:],
+                        MssStringXML
+                )
+                documentLayer.value()[1].value()[2].value()[size - 1].appendNode(
+                        "PointList",
+                        [:]
+                )
+                documentLayer.value()[1].value()[2].value()[size - 1].value()[1].appendNode(
+                        "Point",
+                        [:]
+                )
+                documentLayer.value()[1].value()[2].value()[size - 1].value()[1].value()[0].appendNode(
+                        "X",
+                        [:],
+                        latLong.lon
+                )
+                documentLayer.value()[1].value()[2].value()[size - 1].value()[1].value()[0].appendNode(
+                        "Y",
+                        [:],
+                        latLong.lat
+                )
+            }
+        }
+
+    }
+
+    static addStaticMapLabels (staticMapItems, documentLayer, regionId){
+        def xMod =0.9995244413
+        def yMod =0.9988194796
+        staticMapItems.mapTextItems.each{ mapItem ->
+            def MssStringXML = MapIconToMilX.getTextLabels(mapItem)
+            if (MssStringXML) {
+                def x = mapItem.x
+                def y = mapItem.y
+                def latLong = MapRegions.fullConvert(regionId, x, y)
                 latLong.lon = formatter.format(latLong.lon * xMod)
                 latLong.lat = formatter.format(latLong.lat * yMod)
 
@@ -606,7 +685,6 @@ class toMilX {
                 def x = mapItem.x
                 def y = mapItem.y
                 def latLong = MapRegions.fullConvert(regionId, x, y)
-\
                 latLong.lon = formatter.format(latLong.lon * xMod)
                 latLong.lat = formatter.format(latLong.lat * yMod)
 
