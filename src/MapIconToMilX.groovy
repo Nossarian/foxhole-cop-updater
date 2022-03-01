@@ -105,10 +105,17 @@ class MapIconToMilX {
         }
         return returnArray
     }
-    static getStormCannonRangesFromAPI(mapItem, factions =  true){
+    static getMegaStructureRangesFromAPI(mapItem, structure, factions =  true){
         def fc = factionCheck(mapItem, factions)
         def fac = fc.faction
-        if(mapItem.iconType ==  59){
+        def structID = -1
+        if (structure == "SC"){
+            structID = 59
+        }
+        if (structure == "IC"){
+            structID = 60
+        }
+        if(mapItem.iconType ==  structID){
         return "<Symbol ID=\"G$fac"+"MPNM---------\"/>"
         }
     }

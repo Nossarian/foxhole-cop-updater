@@ -1,12 +1,8 @@
 import groovy.json.JsonSlurper
 import groovy.xml.MarkupBuilder
 import groovy.xml.XmlParser
-import groovy.xml.XmlSlurper
 import groovy.xml.XmlUtil
-import groovy.xml.slurpersupport.GPathResult
-import groovy.xml.slurpersupport.Node
 
-import javax.xml.namespace.QName
 import java.text.DecimalFormat
 import java.text.SimpleDateFormat
 
@@ -32,9 +28,10 @@ class toMilX {
         }
         println(directory.absolutePath)
         File output = new File("./$directoryName/Permanent Structures.milxly")
-        File resourcesLayer =  new File("./$directoryName/Resources.milxly")
+        File resourcesLayer =  new File("./../War $warNum/Resources.milxly")
         File aiLayer = new File("./$directoryName/AILayer.milxly")
         File scRanges = new File("./$directoryName/SCRanges.milxly")
+        File icRanges = new File("./$directoryName/ICRanges.milxly")
         File basePins = new File("./$staticLayerDir/Base Pins.milxly")
         File rdzExceptions = new File("./$directoryName/RDZ Exceptions.milxly")
         File textLabels = new File("./$staticLayerDir/Text Labels.milxly")
@@ -48,12 +45,14 @@ class toMilX {
             rdzExceptions.text = generateRdzExceptions(apiArr)
             aiLayer.text = generateAIRanges(apiArr,args[2].toBoolean(), args[0].toBoolean())
             scRanges.text = generateSCRanges(apiArr,args[3].toBoolean(), args[0].toBoolean())
+            icRanges.text = generateICRanges(apiArr,args[3].toBoolean(), args[0].toBoolean())
             basePins.text = generateBasePins(apiArr,args[4].toBoolean())
         } else {
             output.text = generateMilX(apiArr,true)
             resourcesLayer.text = generateResourceNodes(apiArr,true)
             aiLayer.text = generateAIRanges(apiArr,true, true)
             scRanges.text = generateSCRanges(apiArr,true, true)
+            icRanges.text = generateICRanges(apiArr,true, true)
             textLabels.text = generateTextLabels(apiArr)
             rdzExceptions.text = generateRdzExceptions(apiArr)
             basePins.text = generateBasePins(apiArr,true)
@@ -258,7 +257,38 @@ class toMilX {
             def MilXLayerDocument = parser.parseText(writer.toString())
 
             apiArr.each{ hex ->
-                addStormCannonRanges(hex.mapItems, MilXLayerDocument, hex.regionId, [300,1000,1300], factions)
+                addMegaStructureRanges(hex.mapItems, MilXLayerDocument, hex.regionId, [300, 1000, 1300], "SC", factions)
+            }
+
+            return XmlUtil.serialize(MilXLayerDocument)
+        }
+    }
+
+    static generateICRanges(apiArr, icRanges = false, factions = true){
+        if(icRanges){
+            println("Including IC Ranges: $icRanges")
+            def parser = new XmlParser()
+            def writer  = new StringWriter()
+            def xml = new MarkupBuilder(writer)
+            xml.mkp.xmlDeclaration([version:'1.0', encoding:'UTF-8', standalone:'no'])
+            xml.MilXDocument_Layer(
+                    xmlns: "http://gs-soft.com/MilX/V3.1"
+            ) {
+                MssLibraryVersionTag('2021.04.20')
+                MilXLayer() {
+                    Name('IC Ranges')
+                    LayerType('Normal')
+                    GraphicList() {
+
+                    }
+                    CoordSystemType('WGS84')
+                    ViewScale('0.1')
+                }
+            }
+            def MilXLayerDocument = parser.parseText(writer.toString())
+
+            apiArr.each{ hex ->
+                addMegaStructureRanges(hex.mapItems, MilXLayerDocument, hex.regionId, [100, 1000, 2000], "IC", factions)
             }
 
             return XmlUtil.serialize(MilXLayerDocument)
@@ -520,11 +550,11 @@ class toMilX {
         }
     }
 
-    static addStormCannonRanges(mapItems, documentLayer, regionId, rangeIncrements=[300,1000,1300], factions = true){
+    static addMegaStructureRanges(mapItems, documentLayer, regionId, rangeIncrements, structure,factions = true){
         def xMod =0.9995244413
         def yMod =0.9988194796
         mapItems.mapItems.each { mapItem ->
-            def MssStringXML = MapIconToMilX.getStormCannonRangesFromAPI(mapItem, factions)
+            def MssStringXML = MapIconToMilX.getMegaStructureRangesFromAPI(mapItem, structure, factions)
             if (MssStringXML) {
                 def x = mapItem.x
                 def y = mapItem.y
@@ -682,8 +712,14 @@ class toMilX {
         mapItems.mapItems.each { mapItem ->
             def MssStringXML = MapIconToMilX.getMilXFromAPI(mapItem, MapRegions.findClosest(staticMapItems, mapItem), factions)
             if (MssStringXML) {
+                xMod = 1
+                yMod = 1
                 def x = mapItem.x
                 def y = mapItem.y
+//                if(["Callum's Keep", "The Old Captain"].contains(MapRegions.findClosest(staticMapItems, mapItem)) && [56,57,58].contains(mapItem.iconType)){
+//                    println(MapRegions.convertCoords(regionId, x, y))
+//                }
+                //TODO Adjust map +x by 11.689 and -y by 14.696. Found by measuring callum's to captain, adjusting by the difference, figuring out the radio of how much was left, and adjusting by that match the next time.
                 def latLong = MapRegions.fullConvert(regionId, x, y)
                 latLong.lon = formatter.format(latLong.lon * xMod)
                 latLong.lat = formatter.format(latLong.lat * yMod)
