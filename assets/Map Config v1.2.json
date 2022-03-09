@@ -1,1 +1,1 @@
-{"proj4def":"+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs","left":0,"bottom":-13313,"right":12061,"top":0,"rotation":0,"ratio":[0.9953961118248754,1]}
+{"proj4def":"+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs","left":0,"bottom":-13325,"right":12067,"top":0,"rotation":0,"ratio":[0.9953961118248754,1]}

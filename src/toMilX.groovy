@@ -48,11 +48,12 @@ class toMilX {
             icRanges.text = generateICRanges(apiArr,args[3].toBoolean(), args[0].toBoolean())
             basePins.text = generateBasePins(apiArr,args[4].toBoolean())
         } else {
-            output.text = generateMilX(apiArr,true)
-            resourcesLayer.text = generateResourceNodes(apiArr,true)
-            aiLayer.text = generateAIRanges(apiArr,true, true)
-            scRanges.text = generateSCRanges(apiArr,true, true)
-            icRanges.text = generateICRanges(apiArr,true, true)
+            Boolean factions = false
+            output.text = generateMilX(apiArr,factions)
+            resourcesLayer.text = generateResourceNodes(apiArr, true)
+            aiLayer.text = generateAIRanges(apiArr,true, factions)
+            scRanges.text = generateSCRanges(apiArr,true, factions)
+            icRanges.text = generateICRanges(apiArr,true, factions)
             textLabels.text = generateTextLabels(apiArr)
             rdzExceptions.text = generateRdzExceptions(apiArr)
             basePins.text = generateBasePins(apiArr,true)
@@ -326,7 +327,7 @@ class toMilX {
         }
     }
 
-    static getApiAsJson(url){
+    public static getApiAsJson(url){
         def get = new URL(url).openConnection()
         def getRC = get.getResponseCode()
         def response = new JsonSlurper().parseText(get.getInputStream().getText())
@@ -622,6 +623,8 @@ class toMilX {
         mapItems.mapItems.each { mapItem ->
             def MssStringXML = MapIconToMilX.getBasePins(mapItem, MapRegions.findClosest(staticMapItems, mapItem))
             if (MssStringXML) {
+                xMod = 1
+                yMod = 1
                 def x = mapItem.x
                 def y = mapItem.y
                 def latLong = MapRegions.fullConvert(regionId, x, y)
@@ -719,7 +722,7 @@ class toMilX {
 //                if(["Callum's Keep", "The Old Captain"].contains(MapRegions.findClosest(staticMapItems, mapItem)) && [56,57,58].contains(mapItem.iconType)){
 //                    println(MapRegions.convertCoords(regionId, x, y))
 //                }
-                //TODO Adjust map +x by 11.689 and -y by 14.696. Found by measuring callum's to captain, adjusting by the difference, figuring out the radio of how much was left, and adjusting by that match the next time.
+                //TODO Adjust map +x by 6 and -y by 12
                 def latLong = MapRegions.fullConvert(regionId, x, y)
                 latLong.lon = formatter.format(latLong.lon * xMod)
                 latLong.lat = formatter.format(latLong.lat * yMod)

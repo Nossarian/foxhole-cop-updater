@@ -8,8 +8,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Routed&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.09845658717954017</X>
-            <Y>-0.07996290498143974</Y>
+            <X>0.09850343134329534</X>
+            <Y>-0.0800574143923011</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -17,8 +17,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Headsman's Villa&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.09238717625369565</X>
-            <Y>-0.08444053857063778</Y>
+            <X>0.09243113268299391</X>
+            <Y>-0.08454034016682767</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -26,8 +26,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Old Captain&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.10504671688302716</X>
-            <Y>-0.08654169320922657</Y>
+            <X>0.10509669653140394</X>
+            <Y>-0.0866439781930206</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -35,8 +35,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Plankhouse&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.09536827271100318</X>
-            <Y>-0.08744993399310169</Y>
+            <X>0.0954136475011711</X>
+            <Y>-0.08755329244091536</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -44,8 +44,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Fort Barley&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.10163717198607701</X>
-            <Y>-0.08351422336029785</Y>
+            <X>0.10168552942425883</X>
+            <Y>-0.08361293013002011</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -53,8 +53,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Titancall&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.09996394374205977</X>
-            <Y>-0.0914940911846945</Y>
+            <X>0.10001150508340229</X>
+            <Y>-0.09160222948528736</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -62,8 +62,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Second Man&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.10284787554495968</X>
-            <Y>-0.0800968905920932</Y>
+            <X>0.10289680901769029</X>
+            <Y>-0.0801915583626481</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -71,89 +71,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Tusk&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.09442298864849497</X>
-            <Y>-0.07991778160016251</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Isle of Psyche&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.09354945419919689</X>
-            <Y>-0.07200168480005692</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Alchimio Estate&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0947091511777357</X>
-            <Y>-0.06139766013848906</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Rush&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.09903482851690851</X>
-            <Y>-0.06555209968489846</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Liar's Haven&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.1020836012789181</X>
-            <Y>-0.07076346617074807</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Iris&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.10089955947087015</X>
-            <Y>-0.06774800295391484</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Gale&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0982863245006956</X>
-            <Y>-0.07347422345733666</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Lost Airchal&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.10053346772417004</X>
-            <Y>-0.0614918647597663</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Surge Gate&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.09660371281339232</X>
-            <Y>-0.06728039523433252</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Reef&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.1027359723130264</X>
-            <Y>-0.06512593179829305</Y>
+            <X>0.09446791368671954</X>
+            <Y>-0.08001223767899221</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -161,8 +80,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Violethome&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.050488651509150065</X>
-            <Y>-0.08868257640051679</Y>
+            <X>0.05051267325037454</X>
+            <Y>-0.08878739172771415</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -170,8 +89,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Myrmidon's Stay&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.05626375880941564</X>
-            <Y>-0.0893057153967661</Y>
+            <X>0.05629052825985722</X>
+            <Y>-0.08941126722171118</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -179,8 +98,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Remnant Villa&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.05522384271711281</X>
-            <Y>-0.0929073313073541</Y>
+            <X>0.05525011739111418</X>
+            <Y>-0.09301713993860128</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -188,8 +107,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Swan&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.052389564152692907</X>
-            <Y>-0.10041134228628915</Y>
+            <X>0.05241449031957045</X>
+            <Y>-0.10053002002574195</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -197,8 +116,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Leto&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.048652478929795726</X>
-            <Y>-0.09399257148912035</Y>
+            <X>0.048675627047716226</X>
+            <Y>-0.09410366278275012</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -206,8 +125,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Sitaria&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.05488671370580751</X>
-            <Y>-0.09616066367810332</Y>
+            <X>0.054912827978894484</X>
+            <Y>-0.09627431747387731</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -215,8 +134,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Dendró Field&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.05951292222692918</X>
-            <Y>-0.09329477377021883</Y>
+            <X>0.05954123758046934</X>
+            <Y>-0.09340504032578625</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -224,8 +143,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Lionsfort&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.058058804787082224</X>
-            <Y>-0.08744259576229269</Y>
+            <X>0.058086428293409084</X>
+            <Y>-0.08754594553693633</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -233,8 +152,89 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Camp Senti&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.05163094935637766</X>
-            <Y>-0.09156165216786695</Y>
+            <X>0.051655514585741885</X>
+            <Y>-0.09166987031984489</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Rush&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.09908194779919736</X>
+            <Y>-0.06562957673908232</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Isle of Psyche&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.09359396362286522</X>
+            <Y>-0.07208678471998928</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Alchimio Estate&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.09475421236778886</X>
+            <Y>-0.06147022699544982</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Iris&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.10094756596410821</X>
+            <Y>-0.06782807538059438</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Liar's Haven&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.1021321711214448</X>
+            <Y>-0.07084710262067266</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Gale&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0983330876560283</X>
+            <Y>-0.07356106379379093</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Lost Airchal&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.1005813000364597</X>
+            <Y>-0.06156454295864566</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Surge Gate&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.09664967540738448</X>
+            <Y>-0.06735991498811826</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Reef&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.10278485254388187</X>
+            <Y>-0.06520290515797131</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -242,8 +242,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Lockheed&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.07170534665262718</X>
-            <Y>-0.0580611795986826</Y>
+            <X>0.07173946297837988</X>
+            <Y>-0.058129803016992145</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -251,17 +251,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Maiden's Veil&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.06939583135255904</X>
-            <Y>-0.05199358848551378</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Mox&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.07349722421528794</X>
-            <Y>-0.04537232518473111</Y>
+            <X>0.06942884884565859</X>
+            <Y>-0.052055040522773745</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -269,8 +260,17 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Spitrocks&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.06614278599195994</X>
-            <Y>-0.055362491116663845</Y>
+            <X>0.06617425573499074</X>
+            <Y>-0.05542792491275302</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Mox&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.07353219308944171</X>
+            <Y>-0.045425951447103825</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -278,8 +278,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Checkpoint Bua&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.07164253572872008</X>
-            <Y>-0.049700297330373955</Y>
+            <X>0.07167662216997962</X>
+            <Y>-0.04975903889086902</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -287,8 +287,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Sanctum&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.06354045780719136</X>
-            <Y>-0.047283536765327344</Y>
+            <X>0.0635706894016013</X>
+            <Y>-0.047339421918626494</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -296,8 +296,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Oster Wall&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.07487461741683848</X>
-            <Y>-0.050759203882389546</Y>
+            <X>0.07491024163396662</X>
+            <Y>-0.0508191969811374</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -305,8 +305,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Blackthroat&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.06667239537142941</X>
-            <Y>-0.0397679765660722</Y>
+            <X>0.06670411709463958</X>
+            <Y>-0.039814978960961186</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -314,8 +314,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Moltworth&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.07140269451181105</X>
-            <Y>-0.03777162302715276</Y>
+            <X>0.07143666684022593</X>
+            <Y>-0.03781626590050013</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -323,8 +323,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Earl Crowley&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.07518744037306964</X>
-            <Y>-0.03437890799672877</Y>
+            <X>0.07522321342665665</X>
+            <Y>-0.03441954096699895</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -332,8 +332,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Serenity's Blight&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.06782885747025347</X>
-            <Y>-0.031651713947641956</Y>
+            <X>0.06786112942074134</X>
+            <Y>-0.03168912360451521</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -341,8 +341,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Kirknell&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.06462661820308145</X>
-            <Y>-0.03504560940106065</Y>
+            <X>0.0646573665762759</X>
+            <Y>-0.03508703035617153</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -350,8 +350,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Fleck Crossing&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.06959993947529039</X>
-            <Y>-0.034861712103785816</Y>
+            <X>0.06963305407996569</X>
+            <Y>-0.034902915707798354</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -359,8 +359,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Fort Viper&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.06589862079213103</X>
-            <Y>-0.035848074992900804</Y>
+            <X>0.0659299743650311</X>
+            <Y>-0.03589044439467378</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -368,8 +368,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Friars&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.06441018743823183</X>
-            <Y>-0.0396453249633277</Y>
+            <X>0.06444083283692269</X>
+            <Y>-0.03969218239436477</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -377,8 +377,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Den&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.05258154866119466</X>
-            <Y>-0.008846811934007782</Y>
+            <X>0.052606566171414605</X>
+            <Y>-0.00885726811971137</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -386,8 +386,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Sess&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.04877552687113647</X>
-            <Y>-0.007014655728980313</Y>
+            <X>0.048798733533417266</X>
+            <Y>-0.007022946460545095</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -395,8 +395,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Cuttail Station&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.056480658494555296</X>
-            <Y>-0.005462242010131024</Y>
+            <X>0.056507531142605684</X>
+            <Y>-0.0054686979195865335</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -404,8 +404,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Lamplight&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.05839608364293229</X>
-            <Y>-0.009924495427287383</Y>
+            <X>0.05842386762146733</X>
+            <Y>-0.009936225344004979</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -413,8 +413,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Stoic&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.06129898805024429</X>
-            <Y>-0.00740173164753212</Y>
+            <X>0.061328153187047325</X>
+            <Y>-0.0074104798701926725</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -422,8 +422,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Basinhome&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.051274871073978864</X>
-            <Y>-0.01343364430061275</Y>
+            <X>0.05129926688665044</X>
+            <Y>-0.013449521735391623</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -431,8 +431,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Salt Farms&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.05400264699280351</X>
-            <Y>-0.06575108115174792</Y>
+            <X>0.05402834064024154</X>
+            <Y>-0.0658287933852466</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -440,8 +440,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Spine&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.05063028414779786</X>
-            <Y>-0.05527077202793164</Y>
+            <X>0.05065437327570217</X>
+            <Y>-0.05533609741979209</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -449,8 +449,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Callahan's Boot&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.05511344239481646</X>
-            <Y>-0.05975475677450701</Y>
+            <X>0.055139664542004495</X>
+            <Y>-0.059825381858228444</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -458,17 +458,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Brine Glen&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.05861137272271832</X>
-            <Y>-0.06338478875112859</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Liberation Point&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.04875680717992923</X>
-            <Y>-0.0602840351477299</Y>
+            <X>0.058639259132560365</X>
+            <Y>-0.063459704226546</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -476,8 +467,17 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Callahan's Gate&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.056452828261099416</X>
-            <Y>-0.05344766670041665</Y>
+            <X>0.056479687667943194</X>
+            <Y>-0.05351083733551231</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Liberation Point&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.04878000493566243</X>
+            <Y>-0.06035528579385738</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -485,8 +485,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Abandoned Ward&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.05259797105995707</X>
-            <Y>-0.05947308369635821</Y>
+            <X>0.05262299638370741</X>
+            <Y>-0.05954337586625319</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -494,8 +494,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Pits&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.053446444122209336</X>
-            <Y>-0.0617850860334142</Y>
+            <X>0.053471873136684785</X>
+            <Y>-0.061858110795113296</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -503,8 +503,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Sun's Hollow&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.049473009768349646</X>
-            <Y>-0.06386100206349656</Y>
+            <X>0.04949654828250536</X>
+            <Y>-0.06393648038289276</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -512,8 +512,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Salt March&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.06092391930033429</X>
-            <Y>-0.059563820494156754</Y>
+            <X>0.060952905985065774</X>
+            <Y>-0.05963421990729541</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -521,8 +521,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Iron's End&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.05344523635393005</X>
-            <Y>-0.055787498735087655</Y>
+            <X>0.05347066479376751</X>
+            <Y>-0.055853434854343284</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -530,8 +530,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Greenfield Orchard&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.043970561022100625</X>
-            <Y>-0.08033693868627012</Y>
+            <X>0.04399148155387946</X>
+            <Y>-0.08043189017343041</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -539,8 +539,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Oleander Homestead&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.045818976127465307</X>
-            <Y>-0.08527582917928016</Y>
+            <X>0.045840776107357914</X>
+            <Y>-0.08537661801853405</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -548,8 +548,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Deeplaw Post&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.034319175232726866</X>
-            <Y>-0.08426347085134629</Y>
+            <X>0.03433550378026846</X>
+            <Y>-0.08436306316842311</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -557,8 +557,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Proexí&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.042371862983402724</X>
-            <Y>-0.09110781223527786</Y>
+            <X>0.042392022878693286</X>
+            <Y>-0.09121549398672528</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -566,8 +566,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Breach&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.03663517371751593</X>
-            <Y>-0.08155427368393489</Y>
+            <X>0.03665260418231248</X>
+            <Y>-0.08165066395841135</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -575,8 +575,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Blemish&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.041390872168446315</X>
-            <Y>-0.08472010205474703</Y>
+            <X>0.04141056532305761</X>
+            <Y>-0.0848202340714011</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -584,8 +584,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Barrony Ranch&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.036917222774236445</X>
-            <Y>-0.07874650615776335</Y>
+            <X>0.03693478743373321</X>
+            <Y>-0.07883957788778728</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -593,8 +593,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Plough&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.04035665697232267</X>
-            <Y>-0.08119418984262972</Y>
+            <X>0.04037585806289445</X>
+            <Y>-0.08129015452836962</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -602,8 +602,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Barronswall&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.03728688645874873</X>
-            <Y>-0.08380700379010993</Y>
+            <X>0.037304626998668204</X>
+            <Y>-0.08390605660161168</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -611,8 +611,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Fort Providence&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.0443575225383198</X>
-            <Y>-0.0833059828064683</Y>
+            <X>0.04437862718056958</X>
+            <Y>-0.0834044434534157</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -620,8 +620,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Iron Junction&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.08093427741439695</X>
-            <Y>-0.06502722189307268</Y>
+            <X>0.08097278472663692</X>
+            <Y>-0.06510407858596662</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -629,17 +629,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Wellchurch&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.08400670154505832</X>
-            <Y>-0.05917388242134044</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Brackish Point&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.08046669143715095</X>
-            <Y>-0.05406140347635214</Y>
+            <X>0.08404667067050171</X>
+            <Y>-0.05924382096055833</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -647,8 +638,17 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Tuatha Watchpost&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.09066921912877617</X>
-            <Y>-0.060278443041110547</Y>
+            <X>0.09071235817990614</X>
+            <Y>-0.06034968707783955</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Brackish Point&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.08050497627901373</X>
+            <Y>-0.054125299496563944</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -656,8 +656,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Woodbind&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.08767673434840607</X>
-            <Y>-0.06378176119532583</Y>
+            <X>0.08771844962027352</X>
+            <Y>-0.0638571458586978</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -665,8 +665,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Enduring Wake&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.07794694461435382</X>
-            <Y>-0.06175277445193568</Y>
+            <X>0.07798403059856604</X>
+            <Y>-0.06182576102407012</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -674,8 +674,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Vulpine Watch&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.08607440867137944</X>
-            <Y>-0.05391692711467364</Y>
+            <X>0.08611536158078284</X>
+            <Y>-0.05398065237600883</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -683,8 +683,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Saltbrook Channel&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.07987232870402405</X>
-            <Y>-0.05778956035620354</Y>
+            <X>0.07991033075703545</X>
+            <Y>-0.05785786274347261</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -692,8 +692,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Old Jack Tar&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.07630424114505292</X>
-            <Y>-0.05977573503129057</Y>
+            <X>0.07634054555565467</X>
+            <Y>-0.05984638490954254</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -701,8 +701,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Dannan Ridge&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.08865062730971754</X>
-            <Y>-0.05513032287119726</Y>
+            <X>0.0886928059452122</X>
+            <Y>-0.05519548226399775</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -710,8 +710,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Overland&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.08526086677112166</X>
-            <Y>-0.06492244436428646</Y>
+            <X>0.08530143260952158</X>
+            <Y>-0.06499917721897668</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -719,26 +719,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Evil Eye&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.08874763410430847</X>
-            <Y>-0.05907451355621359</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Kingstone&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.027035544282707498</X>
-            <Y>-0.07545654514705046</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Lord's Mouth&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.03113705839702135</X>
-            <Y>-0.07570692429097907</Y>
+            <X>0.08878985889417737</X>
+            <Y>-0.05914433464981213</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -746,8 +728,26 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Sanctuary&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.01942832732499759</X>
-            <Y>-0.07289629461054302</Y>
+            <X>0.019437571031008256</X>
+            <Y>-0.07298245188383391</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Kingstone&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.027048407388162082</X>
+            <Y>-0.07554572842058382</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Lord's Mouth&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.031151872941219842</X>
+            <Y>-0.07579640349154748</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -755,8 +755,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Gallows&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.021987016318739592</X>
-            <Y>-0.07007156202664497</Y>
+            <X>0.021997477410500208</X>
+            <Y>-0.07015438070421566</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -764,8 +764,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Longstone&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.027479426570890916</X>
-            <Y>-0.08069491583719525</Y>
+            <X>0.027492500868863862</X>
+            <Y>-0.08079029042316171</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -773,8 +773,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Westgate Keep&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.02626647383787681</X>
-            <Y>-0.07793590058348099</Y>
+            <X>0.026278971031177736</X>
+            <Y>-0.07802801424606996</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -782,8 +782,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Holdfast&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.023954333053269647</X>
-            <Y>-0.07306991893125644</Y>
+            <X>0.02396573016475135</X>
+            <Y>-0.07315628141385365</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -791,17 +791,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Lost Partition&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.030879792032722578</X>
-            <Y>-0.07817723397400216</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Rancher's Fast&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.028308690006118735</X>
-            <Y>-0.07140271757364743</Y>
+            <X>0.030894484173453276</X>
+            <Y>-0.07826963287230843</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -809,8 +800,17 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Wyattwick&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.020500161746212806</X>
-            <Y>-0.08225409320387651</Y>
+            <X>0.02050991541492464</X>
+            <Y>-0.08235131060601365</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Rancher's Fast&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.02832215885516509</X>
+            <Y>-0.07148710956482573</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -818,8 +818,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Zeus' Demise&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.023740596628454916</X>
-            <Y>-0.08211797357428287</Y>
+            <X>0.0237518920473595</X>
+            <Y>-0.08221503009449604</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -827,8 +827,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Ides&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.01697710830303166</X>
-            <Y>-0.04946235643898759</Y>
+            <X>0.01698518575588899</X>
+            <Y>-0.049520816773413266</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -836,8 +836,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Integrum&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.013205908017938323</X>
-            <Y>-0.0559291044023266</Y>
+            <X>0.013212191190404985</X>
+            <Y>-0.05599520788754009</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -845,8 +845,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Posterus&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.01572099493700671</X>
-            <Y>-0.05418454648076872</Y>
+            <X>0.01572847475001181</X>
+            <Y>-0.05424858804562778</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -854,8 +854,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Conclave&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.010079801674596534</X>
-            <Y>-0.05350360518856714</Y>
+            <X>0.010084597492670173</X>
+            <Y>-0.0535668419382388</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -863,8 +863,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Skelter Course&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.011510597143944288</X>
-            <Y>-0.04995244394892986</Y>
+            <X>0.011516073712988342</X>
+            <Y>-0.05001148352546594</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -872,17 +872,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Lion's Head&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.006465363852771425</X>
-            <Y>-0.058019816798084586</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Base Akri&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.017998777274681736</X>
-            <Y>-0.051451451341529446</Y>
+            <X>0.006468439975677286</X>
+            <Y>-0.05808839132905172</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -890,8 +881,17 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Reliqua&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.012855599577601406</X>
-            <Y>-0.04636651155740113</Y>
+            <X>0.012861716078579506</X>
+            <Y>-0.046421312864232143</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Base Akri&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.018007340822273635</X>
+            <Y>-0.051512262618400625</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -899,8 +899,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Gold&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.009471787067883822</X>
-            <Y>-0.04552387810625523</Y>
+            <X>0.00947629360174989</X>
+            <Y>-0.04557768349140157</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -908,8 +908,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Legion Ranch&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.07398148894233053</X>
-            <Y>-0.10187488506478366</Y>
+            <X>0.07401668822235986</X>
+            <Y>-0.10199529258838823</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -917,8 +917,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Thetus Ring&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.06756393579712597</X>
-            <Y>-0.09946550765186679</Y>
+            <X>0.06759608170186521</X>
+            <Y>-0.09958306749453867</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -926,8 +926,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Patridia&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.06686058590854789</X>
-            <Y>-0.10436309478389715</Y>
+            <X>0.06689239716998593</X>
+            <Y>-0.10448644316157282</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -935,8 +935,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Heir Apparent&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.0681324212310008</X>
-            <Y>-0.09553824683905579</Y>
+            <X>0.06816483761256155</X>
+            <Y>-0.09565116499061098</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -944,8 +944,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Brinehold&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.06886753449606808</X>
-            <Y>-0.10252402103708338</Y>
+            <X>0.06890030063346694</X>
+            <Y>-0.10264519578466919</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -953,8 +953,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Swordfort&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.06443166293360736</X>
-            <Y>-0.09894576848336545</Y>
+            <X>0.064462318550016</X>
+            <Y>-0.09906271403816688</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -962,8 +962,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Nereid Keep&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.07312495879557591</X>
-            <Y>-0.10474717720029225</Y>
+            <X>0.07315975055144049</X>
+            <Y>-0.10487097953099658</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -971,35 +971,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Camp Omicron&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.07315203911020225</X>
-            <Y>-0.09603529407924906</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;MacConmara Barrows&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.04102068135213894</X>
-            <Y>-0.039396071926880494</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Headstone&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.038930819491421964</X>
-            <Y>-0.034089044549104996</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Luch's Workshop&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.043725844144903374</X>
-            <Y>-0.029100748972657235</Y>
+            <X>0.07318684375047334</X>
+            <Y>-0.09614879969872893</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1007,8 +980,35 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Cut&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.034520213773465896</X>
-            <Y>-0.03828376878441475</Y>
+            <X>0.034536637972122294</X>
+            <Y>-0.0383290169708608</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Headstone&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.03894934218995968</X>
+            <Y>-0.03412933492522265</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Luch's Workshop&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.043746648244071686</X>
+            <Y>-0.029135143604038734</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;MacConmara Barrows&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.04104019837552615</X>
+            <Y>-0.039442634761846604</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1016,8 +1016,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Morrighan's Grave&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.04387072429467654</X>
-            <Y>-0.035979289658359226</Y>
+            <X>0.04389159732564165</X>
+            <Y>-0.036021814144802176</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1025,8 +1025,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Ogmaran&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.03806396770103581</X>
-            <Y>-0.02853947790809201</Y>
+            <X>0.03808207796452592</X>
+            <Y>-0.028573209164404055</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1034,17 +1034,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Borderlane&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.042219021768134725</X>
-            <Y>-0.026870740685402923</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Spade&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.03439134705358899</X>
-            <Y>-0.033115450246503</Y>
+            <X>0.042239108943873234</X>
+            <Y>-0.026902499635033075</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1052,8 +1043,17 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Wiccwalk&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.04471351752743686</X>
-            <Y>-0.039122586485350636</Y>
+            <X>0.04473479154674961</X>
+            <Y>-0.039168826083586364</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Spade&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.03440770993939775</X>
+            <Y>-0.03315458991625277</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1061,8 +1061,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Gravekeeper's Hldfst&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.03776442984398495</X>
-            <Y>-0.037260226243242205</Y>
+            <X>0.03778239759186662</X>
+            <Y>-0.037304264688714235</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1070,8 +1070,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Wind Hills&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.036954949135932454</X>
-            <Y>-0.04092741071416471</Y>
+            <X>0.036972531745064846</X>
+            <Y>-0.040975783462448116</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1079,8 +1079,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Reaching River&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.034014649288510675</X>
-            <Y>-0.030245703083157775</Y>
+            <X>0.03403083294718696</X>
+            <Y>-0.030281450953750278</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1088,17 +1088,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Foxcatcher&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.08412548484055715</X>
-            <Y>-0.04744023428829846</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Crow's Nest&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.07922782610422584</X>
-            <Y>-0.04310742977000826</Y>
+            <X>0.08416551048130648</X>
+            <Y>-0.04749630464485633</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1106,8 +1097,17 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Weathering Halls&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.08292529005825937</X>
-            <Y>-0.0367813567656318</Y>
+            <X>0.0829647446643778</X>
+            <Y>-0.036824829227761695</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Crow's Nest&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0792655215125912</X>
+            <Y>-0.0431583791169868</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1115,8 +1115,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Wightwalk&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.08749424232370717</X>
-            <Y>-0.04266924773595331</Y>
+            <X>0.08753587076861327</X>
+            <Y>-0.04271967918871705</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1124,17 +1124,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Port of Rime&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.08713548681644956</X>
-            <Y>-0.0361877440581719</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Spirit Watch&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.08672506268447716</X>
-            <Y>-0.0464938455673192</Y>
+            <X>0.08717694457087967</X>
+            <Y>-0.036230514920137624</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1142,8 +1133,17 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Huntsfort&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.08342549826317468</X>
-            <Y>-0.04334373965876456</Y>
+            <X>0.08346519086083572</X>
+            <Y>-0.043394968304104914</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Spirit Watch&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.08676632516527655</X>
+            <Y>-0.04654879737221256</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1151,8 +1151,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Frostmarch&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.07700199766072159</X>
-            <Y>-0.04220143863904344</Y>
+            <X>0.0770386340533818</X>
+            <Y>-0.042251317180902366</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1160,8 +1160,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Necropolis&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.0807447229151106</X>
-            <Y>-0.04596740628988821</Y>
+            <X>0.08078314004017002</X>
+            <Y>-0.04602173588794735</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1169,62 +1169,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Shattered Advance&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.08149072811072738</X>
-            <Y>-0.03940396885594093</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Lividus&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.10074454090121701</X>
-            <Y>-0.03482399407909343</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Quietus&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0944424902032536</X>
-            <Y>-0.03179186419824976</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Allsight&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.10013092789655931</X>
-            <Y>-0.02814316186174872</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Eversus&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.09572917260889499</X>
-            <Y>-0.027664189048020277</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Bastard's Block&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.10067212519781338</X>
-            <Y>-0.031459822875721695</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Warmonger Bay&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.10063979581056841</X>
-            <Y>-0.04015648979608404</Y>
+            <X>0.08152950017384171</X>
+            <Y>-0.039450541024411284</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1232,8 +1178,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Mercy's Wish&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.03847243221217863</X>
-            <Y>-0.06199230671953989</Y>
+            <X>0.03849073681694134</X>
+            <Y>-0.06206557639861622</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1241,8 +1187,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Feirmor&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.039123930604308445</X>
-            <Y>-0.06699023048933316</Y>
+            <X>0.03914254518220999</X>
+            <Y>-0.06706940729285829</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1250,8 +1196,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Moon's Copse&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.04456508843359686</X>
-            <Y>-0.06863661329143196</Y>
+            <X>0.04458629183257859</X>
+            <Y>-0.06871773598059888</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1259,8 +1205,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Roilfort&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.0410653966231914</X>
-            <Y>-0.07272973472262666</Y>
+            <X>0.04108493492143222</X>
+            <Y>-0.0728156951361751</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1268,8 +1214,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Westmarch&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.04196554633532361</X>
-            <Y>-0.062437707934363706</Y>
+            <X>0.041985512911262526</X>
+            <Y>-0.06251150404011775</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1277,8 +1223,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Tomb of the First&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.03483674970702448</X>
-            <Y>-0.06340460759374808</Y>
+            <X>0.034853324508718524</X>
+            <Y>-0.06347954649336625</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1286,8 +1232,62 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Market Road&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.03323702602186768</X>
-            <Y>-0.06861473438778819</Y>
+            <X>0.03325283969908628</X>
+            <Y>-0.06869583121793592</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Lividus&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.10079247363895054</X>
+            <Y>-0.034865153103581334</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Quietus&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.09448742452002469</X>
+            <Y>-0.03182943950090114</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Allsight&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.1001785686864517</X>
+            <Y>-0.028176424705913118</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Eversus&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.09577471910980773</X>
+            <Y>-0.027696885786707957</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Bastard's Block&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.10072002348124409</X>
+            <Y>-0.031497005733529045</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Warmonger Bay&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.10068767871216279</X>
+            <Y>-0.04020395138084975</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1295,8 +1295,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Fading Lights&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.029202070982886276</X>
-            <Y>-0.04593338633179373</Y>
+            <X>0.029215964889168215</X>
+            <Y>-0.04598767572113111</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1304,8 +1304,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Buckler Sound&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.024870754269594085</X>
-            <Y>-0.04292496841776547</Y>
+            <X>0.02488258740051091</X>
+            <Y>-0.04297570211081161</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1313,8 +1313,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Heir's Knife&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.02020828369109074</X>
-            <Y>-0.04731939473989497</Y>
+            <X>0.020217898488612718</X>
+            <Y>-0.047375322274296354</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1322,8 +1322,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;World's End&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.01902246596024256</X>
-            <Y>-0.043652066452424705</Y>
+            <X>0.01903151656351854</X>
+            <Y>-0.04370365951403568</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1331,8 +1331,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Cord&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.0256746069726834</X>
-            <Y>-0.04610328167047559</Y>
+            <X>0.02568682256462937</X>
+            <Y>-0.04615777186177696</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1340,8 +1340,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Trammel Pool&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.029995274106421273</X>
-            <Y>-0.04202951791244795</Y>
+            <X>0.030009545406822533</X>
+            <Y>-0.04207919325850516</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1349,8 +1349,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Long Fast&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.022997635713970406</X>
-            <Y>-0.0493553541946022</Y>
+            <X>0.023008577643243277</X>
+            <Y>-0.04941368806139792</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1358,8 +1358,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Dais&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.02647586106941394</X>
-            <Y>-0.03590718069036841</Y>
+            <X>0.026488457886011216</X>
+            <Y>-0.035949619950091743</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1367,8 +1367,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Reach&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.02859884859199466</X>
-            <Y>-0.0376919192814946</Y>
+            <X>0.02861245549413326</X>
+            <Y>-0.037736467951735575</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1376,8 +1376,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Scurvyshire&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.08122304484784744</X>
-            <Y>-0.07190772186573345</Y>
+            <X>0.08126168955129026</X>
+            <Y>-0.0719927107294008</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1385,8 +1385,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Mercy's Wail&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.0835577131502611</X>
-            <Y>-0.07854938064175462</Y>
+            <X>0.08359746865377739</X>
+            <Y>-0.07864221938604113</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1394,8 +1394,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Stone Plank&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.08857116928914001</X>
-            <Y>-0.07597062901163712</Y>
+            <X>0.08861331011970323</X>
+            <Y>-0.0760604198889486</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1403,8 +1403,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Homesick&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.08086421186163736</X>
-            <Y>-0.07493843578555469</Y>
+            <X>0.08090268583774088</X>
+            <Y>-0.07502700669751204</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1412,8 +1412,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Rumhold&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.07896750752147566</X>
-            <Y>-0.07251536710561297</Y>
+            <X>0.07900507907417358</X>
+            <Y>-0.07260107415471453</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1421,8 +1421,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Belaying Trace&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.07872581841450835</X>
-            <Y>-0.07798212001082346</Y>
+            <X>0.07876327497516328</X>
+            <Y>-0.07807428830087813</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1430,8 +1430,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Turncoat&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.08154800258212884</X>
-            <Y>-0.08084227075027436</Y>
+            <X>0.08158680189557546</X>
+            <Y>-0.08093781949732247</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1439,8 +1439,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Sweethearth&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.05721947675874488</X>
-            <Y>-0.10614784157359138</Y>
+            <X>0.05724670092541626</X>
+            <Y>-0.10627329937147471</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1448,8 +1448,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Hallow&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.05382670766558889</X>
-            <Y>-0.11017402887046189</Y>
+            <X>0.05385231760374051</X>
+            <Y>-0.11030424528222417</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1457,8 +1457,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Baccae Ridge&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.05319879313556125</X>
-            <Y>-0.11484817171663744</Y>
+            <X>0.053224104321421016</X>
+            <Y>-0.11498391257109945</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1466,8 +1466,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Camp Tau&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.05786314193967989</X>
-            <Y>-0.11264571010559715</Y>
+            <X>0.057890672352566</X>
+            <Y>-0.11277884783615624</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1475,8 +1475,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Lost Greensward&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.05534253786706539</X>
-            <Y>-0.11784163851701827</Y>
+            <X>0.055368869014434365</X>
+            <Y>-0.11798091739681593</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1484,8 +1484,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Sourtooth&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.057010770476123</X>
-            <Y>-0.10420494303991938</Y>
+            <X>0.05703789534348328</X>
+            <Y>-0.10432810449556974</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1493,8 +1493,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Night's Regret&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.04856355090337956</X>
-            <Y>-0.11057166659429511</Y>
+            <X>0.04858665671068224</X>
+            <Y>-0.11070235298031639</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1502,8 +1502,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Minos&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.03678365332866527</X>
-            <Y>-0.1020072635852972</Y>
+            <X>0.03680115443782822</X>
+            <Y>-0.10212782756915027</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1511,8 +1511,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Judicium&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.043439812318485746</X>
-            <Y>-0.10076663918867822</Y>
+            <X>0.04346048032801191</X>
+            <Y>-0.10088573685910943</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1520,8 +1520,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Penance&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.03945473993440563</X>
-            <Y>-0.09673560551327326</Y>
+            <X>0.03947351190641228</X>
+            <Y>-0.09684993884181478</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1529,8 +1529,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Cannonsmoke&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.038253005136762545</X>
-            <Y>-0.10495218358983231</Y>
+            <X>0.03827120534142215</X>
+            <Y>-0.10507622822080204</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1538,8 +1538,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Fort Matchwood&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.040292246377909104</X>
-            <Y>-0.10059457344991048</Y>
+            <X>0.04031141682288856</X>
+            <Y>-0.10071346775314781</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1547,8 +1547,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Climb&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.043564240992816416</X>
-            <Y>-0.09636902738125701</Y>
+            <X>0.04358496820363488</X>
+            <Y>-0.09648292744535798</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1556,8 +1556,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Camp Upsilon&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.03478104109144859</X>
-            <Y>-0.098565716517181</Y>
+            <X>0.034797589387821</X>
+            <Y>-0.09868221288260606</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1565,8 +1565,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Victoria Hill&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.04479321170830149</X>
-            <Y>-0.10354522613234617</Y>
+            <X>0.044814523644907185</X>
+            <Y>-0.10366760785824203</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1574,8 +1574,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Finis&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.005084175831106588</X>
-            <Y>-0.08178655739256808</Y>
+            <X>0.005086594805519728</X>
+            <Y>-0.08188322220680096</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1583,8 +1583,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Initium&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.012105127749592439</X>
-            <Y>-0.08259228498966838</Y>
+            <X>0.012110887187359106</X>
+            <Y>-0.08268990210597849</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1592,8 +1592,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Teichotima&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.0063221220760447654</X>
-            <Y>-0.0901813398857171</Y>
+            <X>0.0063251300466670895</X>
+            <Y>-0.09028792662497158</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1601,8 +1601,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;World Star&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.012537774736957547</X>
-            <Y>-0.09019273162520937</Y>
+            <X>0.012543740021655383</X>
+            <Y>-0.09029933182853933</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1610,8 +1610,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Arise&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.008334780156214637</X>
-            <Y>-0.0849204405554111</Y>
+            <X>0.008338745719288533</X>
+            <Y>-0.08502080935527953</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1619,8 +1619,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Dormio&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.01595443190049626</X>
-            <Y>-0.08694278423824091</Y>
+            <X>0.015962022779298552</X>
+            <Y>-0.08704554327780945</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1628,8 +1628,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Little Lamb&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.07066253574210675</X>
-            <Y>-0.022545005040800807</Y>
+            <X>0.07069615591410826</X>
+            <Y>-0.022571651335664248</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1637,8 +1637,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Teller Farm&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.06699195922317452</X>
-            <Y>-0.019547671078356196</Y>
+            <X>0.0670238329900603</X>
+            <Y>-0.019570774777224516</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1646,8 +1646,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Hungry Wolf&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.06255018779574303</X>
-            <Y>-0.01638652938480516</Y>
+            <X>0.06257994823457154</X>
+            <Y>-0.016405896880753185</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1655,8 +1655,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Great Warden Dam&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.07200888410996222</X>
-            <Y>-0.014603838727654712</Y>
+            <X>0.07204314485427303</X>
+            <Y>-0.014621099233570366</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1664,8 +1664,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Fort Red&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.07623148696635322</X>
-            <Y>-0.01561313523203152</Y>
+            <X>0.0762677567616107</X>
+            <Y>-0.015631588641306992</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1673,8 +1673,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Fort Rider&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.06588212198397869</X>
-            <Y>-0.023150106504141493</Y>
+            <X>0.06591346770699393</X>
+            <Y>-0.023177467977909764</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1682,8 +1682,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Slipgate Outpost&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.06701964393312086</X>
-            <Y>-0.015080441813611727</Y>
+            <X>0.06705153087197535</X>
+            <Y>-0.015098265624185698</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1691,80 +1691,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Sickleshire&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.07277328237194305</X>
-            <Y>-0.01965594922489328</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Sotto Bank&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.04060885464690772</X>
-            <Y>-0.01782447350101338</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Tine&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.04180011766638174</X>
-            <Y>-0.014082365391208785</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Filament&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.03558021436387121</X>
-            <Y>-0.016641944157547203</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Hush&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.03857946267412833</X>
-            <Y>-0.012342143828931656</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Inari Base&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.044132089572027626</X>
-            <Y>-0.01118523210694038</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Fort Blather&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.044200874345164766</X>
-            <Y>-0.022253723582512586</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Stem&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.03730416949489844</X>
-            <Y>-0.020702885867566065</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Wound&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.04700485048957363</X>
-            <Y>-0.016307674190939446</Y>
+            <X>0.07280790680545318</X>
+            <Y>-0.019679180899400312</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1772,8 +1700,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Vanguard&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.07276787554911418</X>
-            <Y>-0.08749640108552047</Y>
+            <X>0.0728024974101393</X>
+            <Y>-0.08759981445351907</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1781,8 +1709,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Grave of Rastus&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.07198516988917814</X>
-            <Y>-0.07930376385246803</Y>
+            <X>0.07201941935061927</X>
+            <Y>-0.07939749421409666</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1790,8 +1718,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Savages&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.06716038955161384</X>
-            <Y>-0.08005630477662076</Y>
+            <X>0.0671923434551173</X>
+            <Y>-0.08015092457816415</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1799,8 +1727,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Reflection&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.06365234142174182</X>
-            <Y>-0.08721413292797454</Y>
+            <X>0.06368262624869324</X>
+            <Y>-0.08731721267881302</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1808,8 +1736,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Silk Farms&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.06774225395966663</X>
-            <Y>-0.08836538780881964</Y>
+            <X>0.06777448470550634</X>
+            <Y>-0.08846982824584837</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1817,8 +1745,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Gorgon Grove&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.0634776650293284</X>
-            <Y>-0.08291205305583604</Y>
+            <X>0.0635078667478788</X>
+            <Y>-0.08301004811103611</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1826,8 +1754,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Limewood Holdfast&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.06832254255926999</X>
-            <Y>-0.08500244741547537</Y>
+            <X>0.0683550493977</X>
+            <Y>-0.08510291314053721</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1835,8 +1763,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Firstmarch&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.07567888494220837</X>
-            <Y>-0.08349366630494748</Y>
+            <X>0.07571489181773185</X>
+            <Y>-0.08359234877796379</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1844,8 +1772,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Bell Toll&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.0713819437008134</X>
-            <Y>-0.0834039673092204</Y>
+            <X>0.07141590615630442</X>
+            <Y>-0.08350254376558756</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1853,8 +1781,80 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Simo's Run&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.07308907319404793</X>
-            <Y>-0.09157739546815155</Y>
+            <X>0.07312384787608289</X>
+            <Y>-0.09168563222738288</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Sotto Bank&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.04062817572934094</X>
+            <Y>-0.01784554052565294</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Tine&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.04182000553384741</X>
+            <Y>-0.014099009559613705</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Filament&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.03559714289487001</X>
+            <Y>-0.016661613532218903</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Hush&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.03859781820237549</X>
+            <Y>-0.012356731202193163</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Inari Base&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.04415308695666172</X>
+            <Y>-0.011198452108102419</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Fort Blather&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.04422190445655965</X>
+            <Y>-0.022280025607254474</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Stem&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.03732191825782664</X>
+            <Y>-0.020727354932902398</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Wound&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.047027214690656544</X>
+            <Y>-0.016326948486697742</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1862,8 +1862,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Warlord's Stead&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.07887522655139441</X>
-            <Y>-0.09151668302215102</Y>
+            <X>0.07891275419819432</X>
+            <Y>-0.09162484802439072</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1871,8 +1871,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Therizó&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.08278994478138872</X>
-            <Y>-0.09802441374829854</Y>
+            <X>0.08282933499225952</X>
+            <Y>-0.09814027033949584</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1880,8 +1880,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Winding Bolas&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.08918957902024463</X>
-            <Y>-0.09023339737672022</Y>
+            <X>0.0892320140808593</X>
+            <Y>-0.09034004564353935</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1889,8 +1889,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Thunderbolt&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.08062053967787128</X>
-            <Y>-0.0875934977516749</Y>
+            <X>0.08065889771841368</X>
+            <Y>-0.08769702587974526</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1898,8 +1898,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Bloody Palm Fort&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.09073649462567468</X>
-            <Y>-0.09432725941189479</Y>
+            <X>0.0907796656854745</X>
+            <Y>-0.09443874627842691</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1907,17 +1907,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Cerberus Wake&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.07902944563475262</X>
-            <Y>-0.09787840835368</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Prairie Bazaar&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.041707719876271095</X>
-            <Y>-0.05535130007128513</Y>
+            <X>0.07906704665667351</X>
+            <Y>-0.09799409237881268</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1925,8 +1916,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Crimson Gardens&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.034112431632657585</X>
-            <Y>-0.05344950386287229</Y>
+            <X>0.03412866181470293</X>
+            <Y>-0.05351267666933905</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1934,8 +1925,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Rotdust&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.041081742031245115</X>
-            <Y>-0.04532984191316721</Y>
+            <X>0.04110128810638532</X>
+            <Y>-0.04538341796389532</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1943,8 +1934,17 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Long Whine&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.036652135562208255</X>
-            <Y>-0.046303413498903594</Y>
+            <X>0.03666957409719547</X>
+            <Y>-0.04635814022915017</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Prairie Bazaar&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.04172756378225755</X>
+            <Y>-0.05541672064050235</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1952,17 +1952,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Outwich Ranch&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.04603974736820771</X>
-            <Y>-0.05103002871778594</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Ulster Falls&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.03871479115662538</X>
-            <Y>-0.05041172192338047</Y>
+            <X>0.04606165238773708</X>
+            <Y>-0.05109034190865208</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1970,17 +1961,17 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The First Coin&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.03774755920388805</X>
-            <Y>-0.054737655529240134</Y>
+            <X>0.03776551892497284</X>
+            <Y>-0.05480235082235388</Y>
           </Point>
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Lathair&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Ulster Falls&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.04386113164939993</X>
-            <Y>-0.04807489398068322</Y>
+            <X>0.03873321107212967</X>
+            <Y>-0.05047130432775399</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1988,8 +1979,17 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Last Grove&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.037045793912400836</X>
-            <Y>-0.057726508927061736</Y>
+            <X>0.037063419744111904</X>
+            <Y>-0.05779473679285834</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Lathair&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.04388200011632865</X>
+            <Y>-0.04813171445148017</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1997,8 +1997,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Fort Duncan&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.04416689648162886</X>
-            <Y>-0.055757650994109564</Y>
+            <X>0.04418791042686718</X>
+            <Y>-0.05582355183585225</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2006,8 +2006,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Hardline&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.036617544252191644</X>
-            <Y>-0.05276339935164212</Y>
+            <X>0.03663496632915368</X>
+            <Y>-0.052825761240431986</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2015,8 +2015,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Pike&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.08504767344692984</X>
-            <Y>-0.031080788727599083</Y>
+            <X>0.08508813785115177</X>
+            <Y>-0.03111752359900519</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2024,8 +2024,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The King&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.0849187264997425</X>
-            <Y>-0.023637434854330275</Y>
+            <X>0.08495912955294584</X>
+            <Y>-0.023665372309114783</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2033,8 +2033,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Sweetholt&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.08925103529105845</X>
-            <Y>-0.022994970125168566</Y>
+            <X>0.0892934995916427</X>
+            <Y>-0.023022148240818677</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2042,8 +2042,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Fallen Crown&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.07952373097688</X>
-            <Y>-0.024561550115578677</Y>
+            <X>0.07956156717233444</X>
+            <Y>-0.024590579796676483</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2051,8 +2051,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Fort Esterwild&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.08794483034272489</X>
-            <Y>-0.02705072384965121</Y>
+            <X>0.08798667317063524</X>
+            <Y>-0.027082695524204524</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2060,8 +2060,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Fort Windham&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.08189288493295152</X>
-            <Y>-0.01951521841318593</Y>
+            <X>0.0819318483362349</X>
+            <Y>-0.01953828375574057</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2069,89 +2069,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Fort Ealar&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.08126690606160025</X>
-            <Y>-0.02931395563827533</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Blackcoat Way&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.006806924606592782</X>
-            <Y>-0.03748655027612212</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Mistle Shrine&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.016287063141770128</X>
-            <Y>-0.03305699377314231</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Scrying Belt&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.011674310478877924</X>
-            <Y>-0.029575431885657175</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Grief Mother&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.013733032091954018</X>
-            <Y>-0.03678192092959526</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Blinding Stones&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0077093926865034095</X>
-            <Y>-0.02914695166125664</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Tomb Father&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.006917287271735164</X>
-            <Y>-0.03995856099121061</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Unruly&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.013047442864223397</X>
-            <Y>-0.027054142567123393</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Princefal&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.011012501616115205</X>
-            <Y>-0.03449244091297093</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Axehead&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.09345522721119472</X>
-            <Y>-0.048369622082816026</Y>
+            <X>0.08130557163354907</X>
+            <Y>-0.029348602261957058</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2159,8 +2078,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Isawa&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.1008324631603396</X>
-            <Y>-0.05656029080552064</Y>
+            <X>0.10088043773016199</X>
+            <Y>-0.056627140299838265</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2168,8 +2087,17 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Blackwatch&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.09515797194156263</X>
-            <Y>-0.05645625524714231</Y>
+            <X>0.0952032466737866</X>
+            <Y>-0.05652298178020267</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Axehead&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.09349969180307899</X>
+            <Y>-0.04842679089737691</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2177,8 +2105,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Skodio&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.10037649555428327</X>
-            <Y>-0.04689633564780938</Y>
+            <X>0.10042425318157477</X>
+            <Y>-0.04695176316203813</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2186,8 +2114,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Promithiens&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.09928412236269438</X>
-            <Y>-0.0535857459585761</Y>
+            <X>0.0993313602552466</X>
+            <Y>-0.05364907979171144</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2195,8 +2123,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Protos&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.0919090195260811</X>
-            <Y>-0.05136928221813934</Y>
+            <X>0.09195274845559807</X>
+            <Y>-0.05142999637803554</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2204,8 +2132,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Fleece Road&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.10164300000204368</X>
-            <Y>-0.057978000001781195</Y>
+            <X>0.10169136021310786</X>
+            <Y>-0.05804652510882127</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2213,8 +2141,80 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Anchor Beach&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.09517538597486844</X>
-            <Y>-0.0584749961717277</Y>
+            <X>0.0952206689924276</X>
+            <Y>-0.05854410868633174</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Blackcoat Way&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0068101632389694945</X>
+            <Y>-0.03753085621751637</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Mistle Shrine&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.01629481228151547</X>
+            <Y>-0.033096064352269874</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Scrying Belt&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.011679864940265093</X>
+            <Y>-0.02961038755221447</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Blinding Stones&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.007713060699622743</X>
+            <Y>-0.029181400900320047</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Grief Mother&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.013739566062129088</X>
+            <Y>-0.03682539405851938</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Tomb Father&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0069205784130085025</X>
+            <Y>-0.04000578864081919</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Unruly&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.013053650641352653</X>
+            <Y>-0.027086118282312478</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Princefal&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.011017741198796642</X>
+            <Y>-0.03453320806957451</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2222,8 +2222,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Holdout&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.028733956862816247</X>
-            <Y>-0.026801270631500947</Y>
+            <X>0.02874762804743857</X>
+            <Y>-0.02683294747338541</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2231,8 +2231,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Callum's Keep&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.022621999656363984</X>
-            <Y>-0.021086334090562344</Y>
+            <X>0.02263276286364883</X>
+            <Y>-0.021111256359364203</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2240,8 +2240,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Lookout&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.029584697686262134</X>
-            <Y>-0.030339214583828388</Y>
+            <X>0.029598773640576243</X>
+            <Y>-0.03037507297712938</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2249,26 +2249,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Naofa&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.01767583252640759</X>
-            <Y>-0.025664245902726004</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Camp Hollow&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.02960018650487885</X>
-            <Y>-0.021915431535065727</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Scouts Jest&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.01940793275457392</X>
-            <Y>-0.029858470366992143</Y>
+            <X>0.01768424242174416</X>
+            <Y>-0.02569457887726002</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2276,8 +2258,26 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Ire&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.02422267681622062</X>
-            <Y>-0.031616619806330334</Y>
+            <X>0.02423420160162983</X>
+            <Y>-0.03165398798488785</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Camp Hollow&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.02961426982853996</X>
+            <Y>-0.02194133372713382</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Scouts Jest&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.019417166757154637</X>
+            <Y>-0.02989376056116732</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2285,8 +2285,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Partisan Island&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.013258145775510204</X>
-            <Y>-0.0632369571254785</Y>
+            <X>0.013264453801916454</X>
+            <Y>-0.0633116978763802</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2294,8 +2294,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Black Well&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.00766640829349151</X>
-            <Y>-0.0649824341406747</Y>
+            <X>0.007670055855282977</X>
+            <Y>-0.065059237898222</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2303,8 +2303,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Hangmen's Court&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.015460385924193285</X>
-            <Y>-0.06873500635615817</Y>
+            <X>0.015467741743348688</X>
+            <Y>-0.06881624533763066</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2312,8 +2312,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Three Sisters&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.013792484173691551</X>
-            <Y>-0.06633358087102903</Y>
+            <X>0.013799046430273172</X>
+            <Y>-0.06641198157007694</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2321,8 +2321,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Arcadia&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.007720811997535786</X>
-            <Y>-0.07225141659871714</Y>
+            <X>0.007724485443791605</X>
+            <Y>-0.07233681168057703</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2330,8 +2330,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Eidolo&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.009131146341741232</X>
-            <Y>-0.06877064621465517</Y>
+            <X>0.009135490803871785</X>
+            <Y>-0.06885192731943508</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2339,8 +2339,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Fort Ember&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.009917894599132223</X>
-            <Y>-0.0718284804851522</Y>
+            <X>0.009922613384253843</X>
+            <Y>-0.0719133756921897</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2348,8 +2348,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Oceanwatch&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.010460467616347132</X>
-            <Y>-0.0654794707910509</Y>
+            <X>0.01046544454955204</X>
+            <Y>-0.06555686200400662</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2357,8 +2357,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Peripti Landing&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.005802675930733033</X>
-            <Y>-0.0675422586932509</Y>
+            <X>0.005805436756689977</X>
+            <Y>-0.0676220879475636</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2366,107 +2366,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Satyr Stone&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.013310302464733161</X>
-            <Y>-0.0708090450849622</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Nightchurch&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.051707772906684143</X>
-            <Y>-0.02979741904684584</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Elksford&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.05079850567022709</X>
-            <Y>-0.025548672055451648</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Reprieve&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.05502269222695632</X>
-            <Y>-0.028660421988238042</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Mousetrap&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.06085654148450427</X>
-            <Y>-0.02641964573587674</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Brodytown&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.05315228278942246</X>
-            <Y>-0.022619075686999425</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Ice Ranch&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.05817932956380321</X>
-            <Y>-0.02368715062933611</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Dwyerstown&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.047320627638776716</X>
-            <Y>-0.023282788713279618</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Harpy&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.05303386200035704</X>
-            <Y>-0.032744852083289644</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Fort Mac Conaill&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.05820082394894499</X>
-            <Y>-0.03159512247770756</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Ark&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.05894236851839348</X>
-            <Y>-0.0266392503590314</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Limestone Holdfast&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.05009593502462883</X>
-            <Y>-0.019743682272325074</Y>
+            <X>0.0133166353065079</X>
+            <Y>-0.07089273540531998</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2474,8 +2375,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Thunderfoot&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.05076723822352491</X>
-            <Y>-0.0769269318510224</Y>
+            <X>0.05079139251211917</X>
+            <Y>-0.07701785299765032</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2483,8 +2384,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Amethyst&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.06042556001862287</X>
-            <Y>-0.07499461476503443</Y>
+            <X>0.0604543095915016</X>
+            <Y>-0.07508325207580827</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2492,8 +2393,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Stray&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.05766708787670035</X>
-            <Y>-0.07146857684154045</Y>
+            <X>0.05769452501001123</X>
+            <Y>-0.07155304667281988</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2501,8 +2402,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Sentry&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.05212375602992978</X>
-            <Y>-0.08241083274450887</Y>
+            <X>0.05214855572929929</X>
+            <Y>-0.08250823539956607</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2510,8 +2411,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Foundry&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.049749582339231185</X>
-            <Y>-0.07215079676874975</Y>
+            <X>0.04977325244245749</X>
+            <Y>-0.07223607292645531</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2519,8 +2420,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Hermit's Rest&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.05757980870617311</X>
-            <Y>-0.07885453134431562</Y>
+            <X>0.05760720431336701</X>
+            <Y>-0.0789477307510009</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2528,8 +2429,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Clotho's Refuge&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.05647769892902232</X>
-            <Y>-0.07383716364558733</Y>
+            <X>0.05650457016895593</X>
+            <Y>-0.0739244329467394</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2537,8 +2438,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Atropos' Fate&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.05562913200595586</X>
-            <Y>-0.08175305923916884</Y>
+            <X>0.0556555995105068</X>
+            <Y>-0.0818496844614091</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2546,8 +2447,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Vagrant Bastion&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.05433808483147933</X>
-            <Y>-0.07107298466043398</Y>
+            <X>0.05436393807519726</X>
+            <Y>-0.07115698693511341</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2555,8 +2456,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;GoldenRoot Ranch&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.04739955764614781</X>
-            <Y>-0.07774240925356082</Y>
+            <X>0.047422109642960876</X>
+            <Y>-0.07783429422571389</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2564,8 +2465,107 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Lachesis' Tally &lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.06085273121989621</X>
-            <Y>-0.07766571404076744</Y>
+            <X>0.06088168403440943</X>
+            <Y>-0.07775750836564627</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Nightchurch&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.05173237468753846</X>
+            <Y>-0.02983263708350872</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Elksford&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.050822674835402336</X>
+            <Y>-0.025578868431443885</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Reprieve&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.05504887119657904</X>
+            <Y>-0.028694296190254282</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Mousetrap&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.060885496111884096</X>
+            <Y>-0.026450871529314877</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Brodytown&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.05317757184635887</X>
+            <Y>-0.022645809527120708</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Ice Ranch&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.05820701041400658</X>
+            <Y>-0.02371514684397442</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Dwyerstown&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.04734314208187909</X>
+            <Y>-0.023310307006230737</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Harpy&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.05305909471446263</X>
+            <Y>-0.03278355373726098</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Fort Mac Conaill&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.05822851502585362</X>
+            <Y>-0.03163246524823539</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Ark&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.05897041241105815</X>
+            <Y>-0.026670735706616072</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Limestone Holdfast&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.05011976991725498</X>
+            <Y>-0.019767017639896134</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2573,17 +2573,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Cragstown&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.054849610618760265</X>
-            <Y>-0.036662975592016714</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Lochan Berth&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.055697779052066146</X>
-            <Y>-0.041401220650471575</Y>
+            <X>0.05487570723875631</X>
+            <Y>-0.036706308137581814</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2591,8 +2582,17 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Solas Gorge&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.048207479271918256</X>
-            <Y>-0.03888621664456552</Y>
+            <X>0.048230415665692694</X>
+            <Y>-0.03893217687358119</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Lochan Berth&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.05572427921784943</X>
+            <Y>-0.04145015340214594</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2600,8 +2600,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;White Chapel&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.059003287856225925</X>
-            <Y>-0.03851179350775309</Y>
+            <X>0.05903136073339553</X>
+            <Y>-0.038557311200194073</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2609,8 +2609,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Latch&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.058720620771558506</X>
-            <Y>-0.045587855119568386</Y>
+            <X>0.0587485591599795</X>
+            <Y>-0.04564173612014964</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2618,8 +2618,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Crumbling Post&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.05145132624044136</X>
-            <Y>-0.047043530518008136</Y>
+            <X>0.0514758060078279</X>
+            <Y>-0.04709913200416135</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2627,8 +2627,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Overlook Hill&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.054704148952105285</X>
-            <Y>-0.04448681134388173</Y>
+            <X>0.05473017636362754</X>
+            <Y>-0.044539391003565014</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2636,8 +2636,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Crumbling Passage&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.053151116746667934</X>
-            <Y>-0.04728436174623667</Y>
+            <X>0.05317640524881874</X>
+            <Y>-0.047340247874593684</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2645,8 +2645,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Scáth Passing&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.05021075982436581</X>
-            <Y>-0.04370769800668408</Y>
+            <X>0.05023464934890513</X>
+            <Y>-0.04375935682010109</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2654,8 +2654,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Procession&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.05911309821440821</X>
-            <Y>-0.04164925824920641</Y>
+            <X>0.059141223337695094</X>
+            <Y>-0.04169848416040685</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2663,8 +2663,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Ashtown&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.02489923310968239</X>
-            <Y>-0.09484230216733548</Y>
+            <X>0.024911079790403114</X>
+            <Y>-0.09495439777097384</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2672,8 +2672,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Electi&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.02387751359975734</X>
-            <Y>-0.08768038207651073</Y>
+            <X>0.023888874161698142</X>
+            <Y>-0.08778401289452659</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2681,8 +2681,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Cometa&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.020276919269725552</X>
-            <Y>-0.0892618961002182</Y>
+            <X>0.020286566723023817</X>
+            <Y>-0.0893673961344498</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2690,8 +2690,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Ashfort&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.02968475692125117</X>
-            <Y>-0.09264633604263077</Y>
+            <X>0.029698880482244762</X>
+            <Y>-0.09275583619948333</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2699,8 +2699,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Calamity&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.02009353792562035</X>
-            <Y>-0.0930461091518322</Y>
+            <X>0.02010309812883247</X>
+            <Y>-0.09315608180678919</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2708,8 +2708,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Sootflow&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.028954134355882018</X>
-            <Y>-0.09780207285305953</Y>
+            <X>0.028967910297644884</X>
+            <Y>-0.09791766665606742</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2717,8 +2717,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Camp Omega&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.028706094164421422</X>
-            <Y>-0.08754934231383724</Y>
+            <X>0.028719752092390805</X>
+            <Y>-0.08765281825390346</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2726,8 +2726,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Vessel&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.06640808373101599</X>
-            <Y>-0.07180701560919459</Y>
+            <X>0.06643967969872193</X>
+            <Y>-0.07189188544655871</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2735,8 +2735,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Bootnap&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.07498911548725508</X>
-            <Y>-0.06930731252250581</Y>
+            <X>0.07502479418084348</X>
+            <Y>-0.06938922792160752</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2744,8 +2744,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Saltcaps&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.07153254630374443</X>
-            <Y>-0.0626511050458853</Y>
+            <X>0.07156658041368942</X>
+            <Y>-0.06272515336903056</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2753,8 +2753,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Coaldrifter Stead&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.07157690033048567</X>
-            <Y>-0.07355908478550788</Y>
+            <X>0.07161095554340965</X>
+            <Y>-0.07364602542089617</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2762,8 +2762,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Baths&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.06980677302384614</X>
-            <Y>-0.06879545781440935</Y>
+            <X>0.06983998603681382</X>
+            <Y>-0.06887676824440794</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2771,8 +2771,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Loggerhead&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.06737825296325592</X>
-            <Y>-0.0633309460219341</Y>
+            <X>0.06741031052289478</X>
+            <Y>-0.06340579785978587</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2780,8 +2780,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Singing Serpents&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.07223593179537756</X>
-            <Y>-0.0649429209711879</Y>
+            <X>0.07227030056556313</X>
+            <Y>-0.06501967802750079</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2789,8 +2789,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Eastmarch&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.06370161654109152</X>
-            <Y>-0.0685993354273614</Y>
+            <X>0.0637319248124038</X>
+            <Y>-0.0686804140572364</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2798,8 +2798,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Wash&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.06668746960838455</X>
-            <Y>-0.06850090017417045</Y>
+            <X>0.06671919850369001</X>
+            <Y>-0.06858186246187668</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2807,8 +2807,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Wisp's Warning&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.06563381000848115</X>
-            <Y>-0.06481243392864329</Y>
+            <X>0.06566503758839214</X>
+            <Y>-0.06488903676027515</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2816,8 +2816,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Splinter Pens&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.06838772565433493</X>
-            <Y>-0.07347658157047002</Y>
+            <X>0.06842026350590145</X>
+            <Y>-0.07356342469401517</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2825,8 +2825,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Iuxta Homestead&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.02888582930172412</X>
-            <Y>-0.0546040397081661</Y>
+            <X>0.028899572744969276</X>
+            <Y>-0.05466857707864642</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2834,8 +2834,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Macha's Keening&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.028629712794496442</X>
-            <Y>-0.06454620712349102</Y>
+            <X>0.028643334381358507</X>
+            <Y>-0.0646224952974886</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2843,8 +2843,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Victa&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.02330832587798201</X>
-            <Y>-0.06613394744721665</Y>
+            <X>0.02331941562896328</X>
+            <Y>-0.06621211219639159</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2852,8 +2852,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Huskhollow&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.026318096425470845</X>
-            <Y>-0.06092255158316489</Y>
+            <X>0.026330618180022733</X>
+            <Y>-0.060994556901876516</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2861,8 +2861,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Spearhead&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.01964016008613891</X>
-            <Y>-0.05453253794662096</Y>
+            <X>0.01964950457899214</X>
+            <Y>-0.05459699080804848</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2870,8 +2870,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Mara&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.03161266194302573</X>
-            <Y>-0.059558121976956355</Y>
+            <X>0.03162770277224008</X>
+            <Y>-0.0596285146549282</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2879,8 +2879,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Jade Cove&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.023390765583780764</X>
-            <Y>-0.062243383595769676</Y>
+            <X>0.023401894558334465</X>
+            <Y>-0.06231695002654179</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2888,8 +2888,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Scarp of Ambrose&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.02415445476946338</X>
-            <Y>-0.05774953153094753</Y>
+            <X>0.02416594709584855</X>
+            <Y>-0.05781778660752056</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2897,17 +2897,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Bone Haft&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.02458821863349227</X>
-            <Y>-0.05475976792126963</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Terra&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.026836832979585893</X>
-            <Y>-0.058145831180154726</Y>
+            <X>0.024599917338201736</X>
+            <Y>-0.054824489349366144</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2915,8 +2906,17 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Scythe&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.03017833234944966</X>
-            <Y>-0.05695728340453097</Y>
+            <X>0.03019269074621043</X>
+            <Y>-0.05702460211062445</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Terra&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.02684960154119034</X>
+            <Y>-0.058214554649495376</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -2924,8 +2924,8 @@
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Pleading Wharf&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
-            <X>0.027146277400130196</X>
-            <Y>-0.06348114293446461</Y>
+            <X>0.027159193190737032</X>
+            <Y>-0.06355617229240171</Y>
           </Point>
         </PointList>
       </MilXGraphic>
