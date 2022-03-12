@@ -7,19 +7,21 @@ class FoxholePopulation {
     static void main(String...args = []){
 
         def warNum = getApiAsJson('https://war-service-live.foxholeservices.com/api/worldconquest/war').warNumber
-        def timestamp = new Date().format("dd-MM-yyyy HH.mm.ss")
-        def directoryName = "../War $warNum Population $timestamp/"
+        def directoryName = "../War $warNum Population/"
         File directory = new File(directoryName)
         if(!directory.exists()){
             directory.mkdirs()
         }
         File outputCsv = new File("./$directoryName/Foxhole Population Data.csv")
-        outputCsv.text = "Timestamp,Warden,Gained,Colonial,Gained,Date\n"
+        if(!outputCsv.exists()){
+            outputCsv.text = "Timestamp,Warden,Gained,Colonial,Gained,Date\n"
+        }
 
-        def runs = 60000
+        def runs = 3
+        def infiniteMode = args[0]
         def wPrev = 0
         def cPrev = 0
-        while(runs > 0){
+        while(runs > 0 || infiniteMode){
             def epoch = new Date().getTime().toString()
             def time = new Date().format("dd-MM-yyyy HH:mm:ss").toString()
             def popString = epoch + ","
@@ -35,7 +37,9 @@ class FoxholePopulation {
             println(popString)
             wPrev = wEnlist
             cPrev = cEnlist
-            runs--
+            if(runs > 0){
+                runs--
+            }
             sleep(10000)
         }
 
