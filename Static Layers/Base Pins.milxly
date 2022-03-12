@@ -770,20 +770,20 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Westgate Keep&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.026278971031177736</X>
-            <Y>-0.07802801424606996</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Holdfast&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.02396573016475135</X>
             <Y>-0.07315628141385365</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Westgate Keep&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.026278971031177736</X>
+            <Y>-0.07802801424606996</Y>
           </Point>
         </PointList>
       </MilXGraphic>

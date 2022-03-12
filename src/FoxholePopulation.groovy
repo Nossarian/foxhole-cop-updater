@@ -19,18 +19,26 @@ class FoxholePopulation {
 
         def runs = 3
         def infiniteMode = args[0]
-        def wPrev = 0
-        def cPrev = 0
+        def wPrev = null
+        def cPrev = null
         while(runs > 0 || infiniteMode){
             def epoch = new Date().getTime().toString()
             def time = new Date().format("dd-MM-yyyy HH:mm:ss").toString()
             def popString = epoch + ","
             def wEnlist = getHomeRegionEnlistments("HomeRegionW")
             popString += wEnlist + ","
-            popString += wEnlist - wPrev + ","
+            if(wPrev != null){
+                popString += wEnlist - cPrev + ","
+            } else {
+                popString += 0 + ","
+            }
             def cEnlist = getHomeRegionEnlistments("HomeRegionC")
             popString += cEnlist + ","
-            popString += cEnlist - cPrev + ","
+            if(cPrev != null){
+                popString += cEnlist - cPrev + ","
+            } else {
+                popString += 0 + ","
+            }
             popString += time + "\n"
 
             outputCsv.text += popString
@@ -48,8 +56,20 @@ class FoxholePopulation {
 
 
     static getHomeRegionEnlistments(String regionName){
-        def enlistments = getApiAsJson("$apiUrl/worldconquest/warReport/$regionName").totalEnlistments
-        return enlistments
+        def enlistments
+        def retries = 0
+        def exceptions = []
+        while(retries++ <= 100){
+           try{
+               enlistments = getApiAsJson("$apiUrl/worldconquest/warReport/$regionName").totalEnlistments
+               return enlistments
+           } catch(e){
+               exceptions << e
+               println(e)
+               sleep(1000)
+           }
+        }
+
     }
 
 }
