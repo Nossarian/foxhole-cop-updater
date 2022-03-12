@@ -1085,20 +1085,20 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Foxcatcher&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.08416551048130648</X>
-            <Y>-0.04749630464485633</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;The Weathering Halls&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.0829647446643778</X>
             <Y>-0.036824829227761695</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Foxcatcher&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.08416551048130648</X>
+            <Y>-0.04749630464485633</Y>
           </Point>
         </PointList>
       </MilXGraphic>
@@ -1148,20 +1148,20 @@
         </PointList>
       </MilXGraphic>
       <MilXGraphic>
-        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Frostmarch&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
-        <PointList>
-          <Point>
-            <X>0.0770386340533818</X>
-            <Y>-0.042251317180902366</Y>
-          </Point>
-        </PointList>
-      </MilXGraphic>
-      <MilXGraphic>
         <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Necropolis&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
         <PointList>
           <Point>
             <X>0.08078314004017002</X>
             <Y>-0.04602173588794735</Y>
+          </Point>
+        </PointList>
+      </MilXGraphic>
+      <MilXGraphic>
+        <MssStringXML>&lt;Symbol ID="GF9PP----------"&gt;&lt;Attribute ID="T"&gt;Frostmarch&lt;/Attribute&gt;&lt;Attribute ID="XM"&gt;&lt;Fill Color="$00FEFF00"/&gt;&lt;/Attribute&gt;&lt;/Symbol&gt;</MssStringXML>
+        <PointList>
+          <Point>
+            <X>0.0770386340533818</X>
+            <Y>-0.042251317180902366</Y>
           </Point>
         </PointList>
       </MilXGraphic>

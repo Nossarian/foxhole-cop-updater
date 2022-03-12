@@ -1,4 +1,4 @@
-import static toMilX.*
+import static Helper.*
 
 class FoxholePopulation {
 

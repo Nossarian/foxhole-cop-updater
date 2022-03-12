@@ -1,8 +1,5 @@
-import groovy.json.JsonSlurper
-import java.lang.reflect.Array
 
 class MapRegions {
-    def siegeCampGet = 'https://war-service-live.foxholeservices.com/api'
 
     static hexSideLength = 1097.0
     static hexHeight = hexSideLength*Math.sqrt(3)

@@ -1,4 +1,4 @@
-import groovy.json.JsonSlurper
+import static Helper.*
 import groovy.xml.MarkupBuilder
 import groovy.xml.XmlParser
 import groovy.xml.XmlUtil
@@ -325,13 +325,6 @@ class toMilX {
 
             return XmlUtil.serialize(MilXLayerDocument)
         }
-    }
-
-    public static getApiAsJson(url){
-        def get = new URL(url).openConnection()
-        def getRC = get.getResponseCode()
-        def response = new JsonSlurper().parseText(get.getInputStream().getText())
-        return response
     }
 
     static addMilXResources(mapItems, documentLayer, regionId, resources = false){
